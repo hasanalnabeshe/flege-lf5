@@ -1,0 +1,197 @@
+@page ns | Nervensystem – Grundlagen & Reflex | الجهاز العصبي – الأساسيات والمنعكس | LF 5.3 Nervensystem / الجهاز العصبي
+# Nervensystem (LF 5.3) | الجهاز العصبي
+## 1. Was passiert hier? | شو عم يصير هون؟
+q: „Frau Müller liegt im Bett. Beim Umlagern berührt ihr Unterarm versehentlich eine sehr warme Wärmeflasche. Sie zieht den Arm sofort zurück. Erst kurz danach sagt sie: „Au, das war heiß!"" | "السيدة مولر مستلقية بالسرير. أثناء تغيير وضعيتها، لمس ساعدها بالغلط قربة ماء ساخنة جداً. سحبت يدها فوراً. وبعدها بلحظة قالت: آي، كانت سخنة!"
+- Wärme-Rezeptor | مستقبل الحرارة
+- Weiterleitung, Signal | نقل الإشارة
+- Schutz (Reflex) | حماية (منعكس)
+- Reaktion auf ein Signal | رد فعل على إشارة
+- Wahrnehmung Schmerz | الإحساس بالألم
+- Auf eine Aktion folgt eine Reaktion | كل فعل يتبعه رد فعل
+tip: Sie zieht den Arm **bevor** sie den Schmerz spürt: Der Reflex läuft direkt im Rückenmark ab, ohne auf das Gehirn zu warten. Erst danach erreicht das Signal das Gehirn – dann spürt sie „Au, heiß!". | سحبت يدها **قبل** ما تحس بالألم، لأن المنعكس بيصير بالنخاع الشوكي مباشرة بدون ما يستنى الدماغ. بعدين الإشارة بتوصل للدماغ، وهون بس بتحس "آي سخن".
+### Welche Strukturen sind beteiligt? | أي بُنى مشاركة؟
+- Nerven | الأعصاب
+- Zentrales & peripheres Nervensystem | الجهاز المركزي والمحيطي
+- Rückenmark | النخاع الشوكي
+- Gehirn | الدماغ
+- Sprachzentrum (sie sagt „Au") | مركز الكلام (لأنها قالت "آي")
+- Muskeln | العضلات
+- Haut | الجلد
+
+## 2. Unser Nervensystem (NS) – Grundlagen | الجهاز العصبي – الأساسيات
+- NS steuert die Bewegungen und die Organfunktionen | يتحكم بالحركة ووظائف الأعضاء
+- Nimmt Informationen (Sinnesreize) aus der Umwelt und dem Körper auf, leitet sie weiter und verarbeitet sie | يستقبل المعلومات (المنبهات الحسية) من البيئة والجسم، ينقلها ويعالجها
+- Löst bewusste oder unbewusste, motorische oder vegetative Reaktionen aus | يطلق ردود فعل واعية أو لاواعية، حركية أو لاإرادية
+- Speichert Informationen (Gedächtnis) | يخزّن المعلومات (الذاكرة)
+- Sitz des Bewusstseins, des Denkens, des Lernens, der Emotion und des Empfindens | مقر الوعي، التفكير، التعلّم، المشاعر، والإحساس
+
+## 3. Das Nervensystem – Aufbau & Funktion | البنية والوظيفة
+th: Einteilung | التقسيم ;; Teil | الجزء ;; Bedeutung | المعنى
+tr: **NS Aufbau** (nach Lage) | حسب المكان ;; **ZNS** – zentrales NS | الجهاز العصبي المركزي ;; Gehirn, Rückenmark | الدماغ والنخاع الشوكي
+tr: ;; **PNS** – peripheres NS | الجهاز المحيطي ;; Peripherie, z. B. Muskeln, Augen, Ohren etc. | الأطراف، مثل العضلات والعيون والآذان
+tr: **NS Funktion** | حسب الوظيفة ;; **Somatisches NS** | الجهاز الجسدي ;; Steuerung bewusster, willkürlicher Vorgänge (z. B. Hand bewegen) | التحكم بالأشياء الواعية والإرادية (مثل تحريك اليد)
+tr: ;; **Vegetatives / autonomes NS** | الجهاز الذاتي ;; Steuerung autonomer, unwillkürlicher Vorgänge (z. B. Herzschlag, Verdauung) | التحكم باللاإرادي (نبض القلب، الهضم)
+tr: ;; ↳ **Sympathikus** | الودّي ;; ↑ körperliche + geistige Leistung („Kampf oder Flucht") | يرفع الأداء الجسدي والذهني ("قتال أو هروب")
+tr: ;; ↳ **Parasympathikus** | اللاودّي ;; Gegenspieler, fördert Ruhe / Entspannung | عكسه، يدعم الراحة والاسترخاء
+img: ns-seite03 | Übersicht Aufbau & Funktion des Nervensystems | مخطط بنية ووظيفة الجهاز العصبي
+
+## 4. Was ist ein Reflex? | شو هو المنعكس؟
+p: Ein Reflex ist eine schnelle, automatische und weitgehend unwillkürliche Reaktion des Körpers auf einen bestimmten Reiz. | المنعكس هو رد فعل سريع وتلقائي وغالباً لاإرادي من الجسم على منبّه معين.
+### Beispiele | أمثلة
+- Hand von einer heißen Oberfläche wegziehen | سحب اليد عن سطح ساخن
+- Lidschluss bei einem Reiz am Auge | إغلاق الجفن عند لمس العين
+- Kniesehnenreflex | منعكس وتر الركبة
+- Hustenreflex | منعكس السعال
+
+## 5. Der Weg des Reizes | طريق المنبّه
+1. **Reiz** – „Aua! Es ist etwas passiert!" | المنبّه: "آي، صار شي!"
+2. **Rezeptor** – „Ich nehme den Reiz wahr." | المستقبل: "أنا بحس بالمنبّه"
+3. **Sensorischer Nerv** – „Information weiterleiten!" | العصب الحسي: "انقل المعلومة!"
+4. **RM (Rückenmark)** – „Ich leite weiter." | النخاع الشوكي: "أنا بنقلها"
+5. **Gehirn** – „Ich verarbeite die Information. Ich leite weiter." | الدماغ: "أنا بعالج المعلومة وبنقلها"
+6. **Motorischer Nerv** – „Befehl an Muskel!" | العصب الحركي: "أمر للعضلة!"
+7. **Muskel** – „Ich spanne mich an." | العضلة: "أنا بنقبض"
+8. **Reaktion** – „Ich antworte / ich reagiere." | رد الفعل: "أنا برد"
+
+## 6. Was kann ausfallen? | شو ممكن يتعطل؟
+th: Station | المحطة ;; Mögliche Störung | الخلل المحتمل
+tr: Rezeptor | المستقبل ;; MS; Schmerz-/Hitzewahrnehmung gestört; ältere Menschen; Verbrennungen | التصلب المتعدد؛ اضطراب الإحساس بالألم/الحرارة؛ كبار السن؛ الحروق
+tr: Sensorischer Nerv | العصب الحسي ;; Gefühlsstörung / Taubheit; Diabetes → Polyneuropathien | خدر؛ السكري ← اعتلال الأعصاب المتعدد
+tr: RM (Rückenmark) | النخاع الشوكي ;; Unfall → gelähmt / eingeschränkt | حادث ← شلل أو محدودية
+tr: Gehirn | الدماغ ;; Anästhesien; Tumorerkrankungen | التخدير؛ الأورام
+tr: Motorischer Nerv | العصب الحركي ;; Lähmung (wie sensorisch: z. B. Diabetes) | شلل
+tr: Muskel | العضلة ;; Muskelatrophien; Muskeldystrophien (vom Typ Duchenne) | ضمور العضلات؛ حَثَل العضلات (نوع دوشين)
+tr: Reaktion | رد الفعل ;; Komatöse Patienten | مرضى الغيبوبة
+fix: Auf deinem Blatt steht beim **sensorischen Nerv** „Lähmung". Lähmung ist eine **motorische** Störung; ein geschädigter sensorischer Nerv verursacht **Taubheit / Gefühlsstörung**. | "Lähmung" ضرر **حركي**. ضرر العصب الحسي بيعمل **خدر / اضطراب إحساس**.
+img: ns-seite04 | Was kann ausfallen? | شو ممكن يتعطل؟
+img: ns-seite05 | Der Weg des Reizes & Schädigungen des PNS | طريق المنبّه وأضرار الجهاز المحيطي
+
+## 7. Schädigungen des PNS | أضرار الجهاز العصبي المحيطي
+p: Schädigungen des PNS können weitreichende Folgen haben und zu schweren Symptomen führen. Welche könnten das sein? | أضرار الجهاز المحيطي قد يكون لها عواقب كبيرة وأعراض شديدة. ما هي؟
+- **Schmerzen:** oft intensiv, brennend oder stechend, da fehlerhafte Schmerzsignale gesendet werden. | آلام: غالباً شديدة، حارقة أو واخزة، لأن إشارات ألم خاطئة تُرسل
+- **Taubheitsgefühl:** eine verminderte Empfindung von Berührung, Temperatur oder Schmerz. | خدر: ضعف الإحساس باللمس أو الحرارة أو الألم
+- **Muskelschwäche:** Störungen der Nerven-Muskel-Kommunikation, die die Ausführung alltäglicher Bewegungen erschweren. | ضعف العضلات: خلل بالتواصل بين العصب والعضلة يصعّب الحركات اليومية
+gallery: ns-seite | Alle Seiten deines Nervensystem-Hefts | كل صفحات دفترك عن الجهاز العصبي
+
+@page faelle | Fälle: Schneider, Weber, Müller | الحالات | LF 5.3 Nervensystem / الجهاز العصبي
+# Die Fälle | الحالات
+## Fall 1 – Herr Schneider | السيد شنايدر
+q: „Herr Schneider kann plötzlich seinen rechten Arm nicht mehr bewegen und spricht undeutlich." | "السيد شنايدر فجأة ما عاد يقدر يحرك ذراعه اليمين وعم يحكي بشكل غير واضح."
+warn: Verdacht: Schlaganfall (Apoplex), linke Gehirnhälfte | اشتباه: سكتة دماغية، النصف الأيسر من الدماغ
+### Welche Funktion könnte beeinträchtigt sein? | أي وظيفة متضررة؟
+- Motorik: willkürliche Bewegung des rechten Arms (rechts wird von der linken Hirnhälfte gesteuert) | الحركة الإرادية للذراع اليمين (اليمين يتحكم فيه النصف الأيسر)
+- Sprache: Sprachzentrum (liegt meist links) → undeutliches Sprechen | مركز الكلام (غالباً باليسار) ← كلام غير واضح
+- Betroffen ist das Gehirn (ZNS) | المتضرر هو الدماغ
+### Warum ist das wichtig? | لماذا مهم؟
+- Notfall – „Time is brain": je schneller die Behandlung, desto weniger bleibende Schäden | طوارئ – "الوقت = دماغ": كل ما كان العلاج أسرع، قلّت الأضرار الدائمة
+- Gefahr von Stürzen, Verschlucken (Aspiration) und Verlust der Selbstständigkeit | خطر السقوط، الشرقة، وفقدان الاستقلالية
+### Welche Veränderungen muss die Pflegefachperson beobachten? | شو لازم يراقب الممرض؟
+- FAST-Test: Face (hängender Mundwinkel), Arms, Speech, Time | اختبار FAST: الوجه (زاوية فم متدلية)، الذراعين، الكلام، الوقت
+- Bewusstsein, Pupillen, Vitalzeichen (RR, Puls), Blutzucker | الوعي، الحدقات، العلامات الحيوية، السكر
+- Schluckstörung, Zunahme der Lähmung, Sprachverständnis | صعوبة البلع، زيادة الشلل، فهم الكلام
+- Sofort Notruf 112 / Arzt, Zeitpunkt des Symptombeginns dokumentieren | اتصال فوري بالإسعاف/الطبيب، توثيق وقت بداية الأعراض
+### Deine Notizen | ملاحظاتك
+1. Was beobachten wir? Plötzliche Bewegungseinschränkung des rechten Arms / Sprachstörung | محدودية حركة مفاجئة بالذراع اليمين / اضطراب كلام
+2. Welche neurologischen Funktionen sind betroffen? Motorik: Arm kann nicht bewegt werden; Sprache: undeutlich → Gesichtsmotorik ausgefallen/fehlerhaft | الحركة: الذراع ما بيتحرك؛ الكلام غير واضح ← حركة الوجه متعطلة
+3. Was hat das mit dem NS zu tun? Fehlerhafte Funktion der willkürlichen Bewegung → Eine Schädigung bestimmter Bereiche der linken Gehirnhälfte kann sich auf die rechte Körperseite auswirken und umgekehrt. | خلل بالحركة الإرادية ← ضرر بالنصف الأيسر بيأثر على الجهة اليمنى من الجسم، والعكس
+4. Was hat das mit der Pflege zu tun? Neurologischen Status überprüfen: Wann traten die ersten Symptome auf? Bewusstseinslage, Pupillenreaktion, Sprache, Motorik/Sensorik/Sensibilität | فحص الحالة العصبية: متى بدأت الأعراض؟ الوعي، رد فعل الحدقة، الكلام، الحركة/الحواس/الإحساس
+img: ns-seite08 | Deine Notizen – Herr Schneider | ملاحظاتك – السيد شنايدر
+
+## Fall 2 – Frau Weber | السيدة فيبر
+q: „Frau Weber hatte einen Unfall und kann seitdem ihre Beine nicht mehr bewegen." | "السيدة فيبر صار معها حادث ومن وقتها ما عادت تقدر تحرك رجليها."
+warn: Verdacht: Querschnittlähmung (Paraplegie) nach Rückenmarksverletzung | اشتباه: شلل نصفي سفلي بعد إصابة النخاع الشوكي
+### Welche Rolle könnte das Rückenmark spielen? | شو دور النخاع الشوكي؟
+- Das RM leitet Informationen zwischen Gehirn und Körper weiter | ينقل المعلومات بين الدماغ والجسم
+- Bei einer Verletzung kommen Befehle nicht mehr bei den Beinmuskeln an (Motorik) und Empfindungen nicht mehr beim Gehirn an (Sensibilität) | عند الإصابة ما بتوصل الأوامر لعضلات الرجلين، وما بيوصل الإحساس للدماغ
+### Warum kann eine Rückenmarksverletzung gravierende Folgen haben? | لماذا عواقبها خطيرة؟
+- Nervenzellen im RM erholen sich kaum → oft dauerhafte Lähmung | خلايا النخاع بالكاد تتعافى ← شلل دائم غالباً
+- Alles unterhalb der Verletzung ist betroffen: Bewegung, Gefühl, Blase, Darm, Kreislauf | كل شي تحت الإصابة متأثر: الحركة، الإحساس، المثانة، الأمعاء، الدورة الدموية
+- Folgerisiken: Dekubitus, Thrombose, Kontrakturen, Pneumonie, Harnwegsinfekte, psychische Belastung | قرحة فراش، جلطة، تيبّس المفاصل، التهاب رئة، التهاب مسالك، ضغط نفسي
+### Was muss pflegerisch beobachtet werden? | شو لازم يراقب التمريض؟
+- Haut: Druckstellen, Verletzungen (sie spürt keinen Schmerz) | الجلد: نقاط ضغط، جروح (ما بتحس بالألم)
+- Motorik und Sensibilität der Beine | حركة وإحساس الرجلين
+- Ausscheidung: Harnverhalt, Obstipation | الإخراج: احتباس بول، إمساك
+- Thrombosezeichen, Atmung, Vitalzeichen, Temperatur | علامات الجلطة، التنفس، العلامات الحيوية، الحرارة
+- Psychisches Befinden | الحالة النفسية
+### Deine Notizen | ملاحظاتك
+1. Was beobachten wir? Beine können nicht bewegt werden | الرجلين ما بيتحركوا
+2. Welche Funktionen sind betroffen? Motorik: motorische Nervenbahnen, Muskeln; Sensibilität: fragliches Spüren der Beine? Evtl. Störung der sensorischen Nervenbahnen | الحركة: المسارات الحركية والعضلات؛ الإحساس: هل بتحس برجليها؟ ممكن خلل بالمسارات الحسية
+3. Welche Strukturen sind betroffen? Rückenmark als Verbindung zu Gehirn und Körper und somit „Vermittler" zu sensorischen und motorischen Nervenbahnen | النخاع الشوكي كصلة بين الدماغ والجسم، "وسيط" للمسارات الحسية والحركية
+4. Was hat das mit Pflege zu tun? VZ-Kontrolle, Ausscheidung beobachten, Hautzustand bewerten, Thromboseprophylaxe/Dekubitus, Schmerzbeobachtung, Bewusstseinslage, Pupillenreaktion, Sprache/Orientiertheit, Motorik/Sensorik/Sensibilität | علامات حيوية، الإخراج، تقييم الجلد، وقاية جلطات/قرحة فراش، الألم، الوعي، الحدقة، الكلام/التوجّه، الحركة/الحواس/الإحساس
+img: ns-seite09 | Deine Notizen – Frau Weber | ملاحظاتك – السيدة فيبر
+
+## Fall 3 – Herr Müller | السيد مولر
+q: „Herr Müller ist plötzlich schwer weckbar und reagiert nicht mehr wie gewohnt." | "السيد مولر فجأة صار صعب يصحى وما عاد يتجاوب متل العادة."
+warn: Verdacht: Bewusstseinsstörung (Gehirn betroffen) | اشتباه: اضطراب وعي (الدماغ متأثر)
+### Welche Bedeutung hat das Gehirn für das Bewusstsein? | شو أهمية الدماغ للوعي؟
+- Das Gehirn ist der Sitz des Bewusstseins: Wachheit, Orientierung, Denken und Reagieren | الدماغ مقر الوعي: اليقظة، التوجّه، التفكير، والتجاوب
+- Ist das Gehirn gestört (z. B. Blutung, Schlaganfall, Unterzucker, Sauerstoffmangel), sinkt das Bewusstsein | إذا تضرر الدماغ (نزيف، سكتة، هبوط سكر، نقص أكسجين) بينخفض الوعي
+### Welche Veränderungen müssen beobachtet werden? | شو لازم نراقب؟
+- Bewusstseinsgrad: wach → somnolent → soporös → komatös (GCS) | صاحي ← نعسان ← سُبات ← غيبوبة (مقياس غلاسكو)
+- Reaktion auf Ansprache und Schmerzreiz, Orientierung | التجاوب مع الكلام ومنبّه الألم، التوجّه
+- Pupillen (Größe, Lichtreaktion), Vitalzeichen, Atmung, Blutzucker | الحدقات (الحجم، رد الفعل للضوء)، العلامات الحيوية، التنفس، السكر
+- Neue Lähmungen, Sprachstörung, Krampfanfälle | شلل جديد، اضطراب كلام، نوبات صرع
+### Wann muss die Veränderung weitergegeben bzw. ärztlich abgeklärt werden? | متى لازم نبلّغ؟
+- Sofort – jede plötzliche Bewusstseinsveränderung ist ein Notfall | فوراً – أي تغيّر مفاجئ بالوعي طوارئ
+- Notruf 112 bei: nicht weckbar, Atemstörung, ungleichen Pupillen, Krampf, neuer Lähmung | 112 عند: ما بيصحى، مشكلة تنفس، حدقات غير متساوية، تشنج، شلل جديد
+- Immer dokumentieren und an die verantwortliche Pflegefachperson / Arzt weitergeben | دائماً توثيق وإبلاغ الممرض المسؤول/الطبيب
+### Deine Notizen | ملاحظاتك
+- Was genau ist das Bewusstsein? a) wach sein, b) orientiert sein, c) auf Reize reagieren, d) kommunizieren können | صاحي، واعي للزمان والمكان، يتجاوب مع المنبهات، قادر يتواصل
+- Was beobachten wir? Ist er wach? Reagiert er auf einen Reiz? Ist er orientiert? Wie spricht er? Wie verhält er sich? | هل صاحي؟ هل يتجاوب؟ هل واعي؟ كيف يحكي؟ كيف يتصرف؟
+- Das Gehirn ist wesentlich am Bewusstsein, an der Wahrnehmung, der Orientierung sowie der Verarbeitung von Informationen beteiligt, aber Bewusstseinsstörungen haben nicht automatisch eine neurologische Ursache → Erkrankungen / Stoffwechselstörungen (z. B. DM, Ikterus) | الدماغ أساسي بالوعي والإدراك ومعالجة المعلومات، **بس** اضطراب الوعي مش دائماً سببه عصبي ← ممكن أمراض استقلابية (السكري، اليرقان)
+- Was hat das mit der Pflege zu tun? 1. Bewusstseinslage 2. Reaktion auf Sprache 3. VZ-Kontrolle 4. Hautzustand kontrollieren 5. Wachsamkeit 6. BZ kontrollieren | الوعي، التجاوب مع الكلام، العلامات الحيوية، الجلد، اليقظة، فحص السكر
+img: ns-seite10 | Deine Notizen – Herr Müller | ملاحظاتك – السيد مولر
+img: ns-seite06 | Fälle – Antworten (Übersicht) | الحالات – الأجوبة
+
+## Rechtschreibung in deinen Notizen | تصحيحات إملائية
+th: Steht da | المكتوب ;; Richtig | الصحيح
+tr: Stucktoren sind beilegt ;; Strukturen sind beteiligt
+tr: Zentral System & Preiten ;; zentrales & peripheres System
+tr: Lidlschluss / Kniesehnreflex ;; Lidschluss / Kniesehnenreflex
+tr: Wann hatten die ersten Symptome auf? ;; Wann traten die ersten Symptome auf?
+tr: Sensonik / Hautstand ;; Sensorik / Hautzustand
+tr: Beine kommen nicht bewegt werden ;; Beine können nicht bewegt werden
+tr: wash sein ;; wach sein
+tr: Erkangung / stoffwechselsysteme ;; Erkrankungen / Stoffwechselstörungen
+tr: Einshürung / Isoliende Hülle ;; Einschnürung / Isolierende Hülle
+
+@page schmerz | Lernaufgabe Schmerz & Nervenzelle | مهمة الألم والخلية العصبية | LF 5.3 Nervensystem / الجهاز العصبي
+# Lernaufgabe Schmerz | مهمة تعلّم: الألم
+p: In dieser Lernaufgabe werden Sie Ihr bestehendes Wissen über das Nervensystem wiederholen und dies mit der Entstehung und Behandlung von Schmerzen verknüpfen. Für den Teil Nervensystem dürfen Sie Ihre Unterlagen benutzen. | بهالمهمة بتراجع معلوماتك عن الجهاز العصبي وبتربطها بنشوء الألم وعلاجه. لقسم الجهاز العصبي مسموح تستخدم أوراقك.
+note: Zeitmanagement: 30 Minuten gesamt. Nervensystem: Einzelarbeit 10 Min., Besprechung zu zweit 5 Min. Schmerz: Einzelarbeit 15 Min. | المجموع 30 دقيقة: الجهاز العصبي 10 دقائق فردي + 5 دقائق نقاش ثنائي؛ الألم 15 دقيقة فردي.
+## 1. Aufgabe Nervensystem | المهمة 1: الجهاز العصبي
+q: Beschreiben Sie in je einem Satz die Begriffe Axon, Dendrit, Synapse, Zellkörper und Neurotransmitter. | صف كل مصطلح بجملة.
+th: Begriff | المصطلح ;; Beschreibung | الوصف
+tr: **Axon** | المحور العصبي ;; Das Axon leitet elektrische Impulse vom Zellkörper zu anderen Nervenzellen oder Muskeln. | ينقل النبضات الكهربائية من جسم الخلية لخلايا عصبية أخرى أو للعضلات
+tr: **Dendrit** | التغصنات ;; Dendriten nehmen Signale von anderen Nervenzellen auf und leiten sie zum Zellkörper weiter. | تستقبل الإشارات من خلايا أخرى وتنقلها لجسم الخلية
+tr: **Synapse** | المشبك ;; Die Synapse ist die Kontaktstelle zwischen zwei Nervenzellen, an der Informationen übertragen werden. | نقطة الاتصال بين خليتين عصبيتين حيث تنتقل المعلومات
+tr: **Zellkörper** | جسم الخلية ;; Der Zellkörper enthält den Zellkern und steuert die Funktionen der Nervenzelle. | يحتوي النواة ويتحكم بوظائف الخلية
+tr: **Neurotransmitter** | النواقل العصبية ;; Neurotransmitter sind chemische Botenstoffe, die Informationen zwischen Nervenzellen übertragen. | مواد كيميائية ناقلة تنقل المعلومات بين الخلايا العصبية
+img: ns-lernaufgabe | Lernaufgabe Schmerz – Aufgabe 1 | مهمة الألم – المهمة 1
+
+## Aufbau einer motorischen Nervenzelle | بنية الخلية العصبية الحركية
+img: ns-nervenzelle | Aufbau einer motorischen Nervenzelle | بنية الخلية العصبية الحركية
+th: Teil | الجزء ;; Bedeutung | المعنى
+tr: Zellkörper, Zellkern | جسم الخلية، النواة ;; Steuerzentrale der Nervenzelle | مركز تحكم الخلية
+tr: Dendriten | التغصنات ;; empfangen Signale | تستقبل الإشارات
+tr: Axonhügel | رابية المحور ;; Ort, an dem der Nervenimpuls entsteht | مكان بداية النبضة
+tr: Axon | المحور العصبي ;; leitet den Impuls weiter | ينقل النبضة
+tr: Isolierende Hülle (Myelinscheide) | غمد الميالين ;; gibt der weißen Substanz ihre Farbe, macht die Leitung schneller | بيعطي المادة البيضاء لونها وبيسرّع النقل
+tr: Einschnürung (Ranvier-Schnürring) | عقدة رانفييه ;; Lücken zwischen den Myelin-Abschnitten – der Impuls „springt" von Ring zu Ring | فراغات بين قطع الميالين، النبضة بتقفز من وحدة لوحدة
+tr: Endknöpfchen, Synapse | الأزرار الطرفية، المشبك ;; Übertragung auf die nächste Zelle / Muskelfaser | النقل للخلية التالية / الليف العضلي
+img: ns-seite11 | Deine beschriftete Zeichnung der Nervenzelle | رسمتك للخلية العصبية
+
+## 2. Aufgabe Schmerz | المهمة 2: الألم
+q: Ohne zu wissen, wie Schmerz genau entsteht, füllen Sie die Begriffe in die Grafik ein. | بدون ما تعرف بالضبط كيف ينشأ الألم، حط المصطلحات بالرسمة.
+- Schmerzquelle (z. B. Verletzung, Entzündung) | مصدر الألم (إصابة، التهاب)
+- Nerven (leiten das Signal vom Körper zum Rückenmark) | الأعصاب (تنقل الإشارة من الجسم للنخاع)
+- Rückenmark (Verarbeitung und Weiterleitung der Signale) | النخاع الشوكي (معالجة ونقل الإشارات)
+- Aufsteigende Nerven (leiten das Schmerzsignal zum Gehirn) | المسارات الصاعدة (تنقل إشارة الألم للدماغ)
+- „Vorderes Übertragungsgehirn im Rückenmark" (so auf dem Blatt – richtig: **Hinterhorn**, Umschaltstelle) | "محطة النقل" بالنخاع الشوكي (الصح: القرن الخلفي)
+- Thalamus (Umschaltstelle im Gehirn) | المهاد (محطة التحويل بالدماغ)
+- Schmerzwahrnehmung (im Gehirn) | الإحساس بالألم (بالدماغ)
+- Absteigende, hemmende Bahnen (vom Gehirn zum Rückenmark, können den Schmerz abschwächen) | المسارات النازلة المثبّطة (من الدماغ للنخاع، بتخفف الألم)
+fix: In der Grafik steht „Vorderes Übertragungsgehirn im Rückenmark". Schmerz wird im **Hinterhorn** verarbeitet (Hinterhorn = Schmerz und Berührung, so auch im ZNS-Skript). Das Vorderhorn ist für die Motorik. | الألم بيدخل وبيتعالج بالـ **Hinterhorn** (القرن الخلفي)، مش الأمامي. الـ Vorderhorn للحركة.
+### Ablauf der Schmerzentstehung | كيف ينشأ الألم
+p: Eine Schmerzquelle (z. B. eine Verletzung) aktiviert Schmerzrezeptoren in der Haut. Das Schmerzsignal wird über die Nerven zum Rückenmark geleitet. Dort wird es verarbeitet und über aufsteigende Nerven zum Thalamus und anschließend ins Gehirn weitergeleitet. Im Gehirn wird der Schmerz wahrgenommen. Gleichzeitig senden absteigende, hemmende Bahnen Signale vom Gehirn zurück zum Rückenmark, die den Schmerz abschwächen können. | مصدر الألم بينشّط مستقبلات الألم بالجلد. الإشارة بتنتقل عبر الأعصاب للنخاع الشوكي، وهناك بتتعالج وبتطلع عبر المسارات الصاعدة للمهاد ثم للدماغ. بالدماغ بنحس بالألم. وبنفس الوقت، المسارات النازلة المثبّطة بتبعت إشارات من الدماغ للنخاع بتخفف الألم.
+img: ns-schmerz | Grafik: Weg des Schmerzes | رسمة: طريق الألم

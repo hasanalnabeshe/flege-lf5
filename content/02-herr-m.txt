@@ -1,0 +1,102 @@
+@page herrm | Herr M. – akutes Abdomen | السيد M – البطن الحاد | LF 5.2 Behandlungspfad / مسار العلاج
+# Fallbeispiel: Herr M. – akutes Abdomen | حالة: السيد M – البطن الحاد
+p: Herr M., 54 Jahre, wurde mit starken Bauchschmerzen in die chirurgische Notaufnahme gebracht. Die erste Untersuchung ergibt: gespannter, druckschmerzhafter Bauch, Fieber 38,5 °C, Puls 110/min, Blutdruck 95/60 mmHg. | السيد M، 54 سنة، أُحضر إلى طوارئ الجراحة بآلام بطن شديدة. الفحص الأول يُظهر: بطن مشدود ومؤلم عند الضغط، حرارة 38.5، نبض 110/دقيقة، ضغط دم 95/60.
+p: Die Ärztin stellt den Verdacht auf ein akutes Abdomen. Es folgen Laboruntersuchungen, eine Sonografie und ein CT des Abdomens. Nach der Bildgebung steht fest: Verdacht auf perforierte Appendizitis. Herr M. wird umgehend auf die chirurgische Station aufgenommen und für die Operation vorbereitet. | تشتبه الطبيبة ببطن حاد. تتبعها فحوصات مختبر، تصوير بالموجات فوق الصوتية (سونار)، وتصوير طبقي (CT) للبطن. بعد التصوير يتأكد: اشتباه بالتهاب زائدة دودية مثقوبة. يُنقل السيد M فوراً إلى قسم الجراحة ويُحضَّر للعملية.
+img: herrm-blatt | Arbeitsblatt mit deinen Markierungen | ورقة العمل مع ملاحظاتك
+
+## Deine Notizen zum Fall | ملاحظاتك على الحالة
+- Puls 110 + RR 95/60 → **Schockgefahr** | خطر صدمة
+- Perforierte Appendizitis → Blinddarmdurchbruch | انفجار الزائدة
+- **Peritonitis:** ist eine Entzündung des Bauchfells, die meistens durch eine Infektion entsteht | التهاب الصفاق (غشاء البطن)، غالباً بسبب عدوى
+- **Sepsis:** ist eine lebensbedrohliche Organdysfunktion, die durch eine irreguläre Antwort des Körpers auf eine Infektion verursacht wird | خلل مهدد للحياة في وظائف الأعضاء، سببه ردّ فعل غير طبيعي من الجسم على عدوى (تسمم الدم)
+
+# Aufgabe 1 | المهمة 1
+q: Definieren Sie den Begriff Behandlungspfad und nennen Sie die Ziele! | عرّف مصطلح مسار العلاج واذكر أهدافه!
+p: Ist ein standardisierter, interdisziplinär abgestimmter Ablauf, der beschreibt, wie ein bestimmter Krankheitsfall medizinisch, pflegerisch und therapeutisch versorgt wird. | هو تسلسل موحّد ومنسّق بين التخصصات، يصف كيف تتم رعاية حالة مرضية معينة طبياً وتمريضياً وعلاجياً.
+### Ziele | الأهداف
+- Qualität und Sicherheit der Versorgung | جودة وسلامة الرعاية
+- Einheitliche Abläufe | إجراءات موحدة
+- Klare Aufgabenverteilung | توزيع واضح للمهام
+- Vermeidung von Informationsverlusten | تجنب ضياع المعلومات
+img: herrm-notiz1 | Deine Lösung zu Aufgabe 1 | حلك للمهمة 1
+
+# Aufgabe 2 | المهمة 2
+q: Recherchieren Sie das Krankheitsbild akutes Abdomen! | ابحث عن الصورة المرضية للبطن الحاد!
+p: Akutes Abdomen ist ein Sammelbegriff für plötzlich auftretende, starke Bauchschmerzen mit lebensbedrohlichem Charakter. Es ist **keine** Diagnose, sondern ein Notfall, der sofort abgeklärt und oft operativ behandelt werden muss. | البطن الحاد مصطلح جامع لآلام بطن شديدة ومفاجئة ذات طابع مهدد للحياة. هو **ليس** تشخيصاً، بل حالة طوارئ يجب توضيحها فوراً، وغالباً تُعالج جراحياً.
+th: Leitsymptome | الأعراض الرئيسية ;; Weitere Symptome | أعراض أخرى
+tr: 1. Starke Bauchschmerzen | آلام بطن شديدة ;; 1. Fieber | حرارة
+tr: 2. Abwehrspannung (brettharter Abdomen) | تشنّج دفاعي (بطن صلب كاللوح) ;; 2. Kreislaufstörung bis Schock: Tachykardie, Hypotonie, Blässe, Kaltschweißigkeit | اضطراب الدورة الدموية حتى الصدمة: تسرّع القلب، هبوط الضغط، شحوب، عرق بارد
+tr: 3. Gestörte Darmtätigkeit: Übelkeit, Erbrechen, Stuhl- und Windverhalt | اضطراب حركة الأمعاء: غثيان، إقياء، احتباس البراز والغازات ;;
+### Ursachen | الأسباب
+th: Ursache | السبب ;; Beispiele | أمثلة
+tr: Entzündung | التهاب ;; Pankreatitis, Appendizitis, Cholezystitis, Divertikulitis | التهاب البنكرياس، الزائدة، المرارة، الرتوج
+tr: Perforation | انثقاب ;; perforiertes Magengeschwür, perforierte Appendizitis | قرحة معدة مثقوبة، زائدة مثقوبة
+tr: Ileus | انسداد ;; Darmverschluss | انسداد الأمعاء
+tr: Blutung | نزيف ;; Aortenaneurysma | تمدد الأبهر
+tr: Durchblutungsstörung | نقص التروية ;; Mesenterialinfarkt | احتشاء المساريقا
+tr: Koliken | مغص ;; Gallenkolik, Nierenkolik | مغص مراري، مغص كلوي
+tr: Gynäkologisch | نسائي ;; Extrauteringravidität (z. B. im Eileiter) | حمل خارج الرحم (مثلاً في قناة فالوب)
+### Diagnostik | التشخيص
+1. Anamnese und körperliche Untersuchung | السيرة المرضية والفحص الجسدي
+2. Vitalzeichen | العلامات الحيوية
+3. Labor (Blutbild, CRP, Leukozyten, Lipase, Laktat) | مختبر (تعداد دم، CRP، كريات بيضاء، ليباز، لاكتات)
+4. Sonografie | سونار
+5. Röntgen | أشعة
+6. CT Abdomen | طبقي للبطن
+7. EKG (Herzinfarkt ausschließen) | تخطيط قلب (لاستبعاد الجلطة القلبية)
+fix: Auf deinem Blatt steht „Koliken → Extrauteringravidität". Richtig: Koliken → Gallenkolik, Nierenkolik. Die Extrauteringravidität gehört nur unter „Gynäkologisch". | بورقتك مكتوب "Koliken → Extrauteringravidität" وهذا مش دقيق. الأصح: Koliken ← مغص مراري ومغص كلوي، و Extrauteringravidität بس تحت Gynäkologisch.
+img: herrm-notiz2 | Deine Lösung zu Aufgabe 2 | حلك للمهمة 2
+
+# Aufgabe 3 | المهمة 3
+q: Recherchieren Sie, welche Diagnostikverfahren beim akuten Abdomen eingesetzt werden (z. B. Sonografie). Erklären Sie, wie die Pflege in diesen Diagnostikphasen mitwirkt! | ابحث عن طرق التشخيص المستخدمة في البطن الحاد (مثل السونار)، واشرح كيف يشارك التمريض في هذه المراحل!
+th: Verfahren | الطريقة ;; Zweck | الهدف ;; Aufgaben der Pflege | مهام التمريض
+tr: Anamnese und körperliche Untersuchung | السيرة والفحص الجسدي ;; Schmerzort, Abwehrspannung | مكان الألم، التشنج الدفاعي ;; Pflegeanamnese, Vitalzeichen, Schmerzskala, Patienten lagern | سيرة تمريضية، علامات حيوية، مقياس ألم، وضعية المريض
+tr: Labor (BB, CRP, Lipase, Laktat, Gerinnung) | مختبر ;; Entzündung, Blutung, OP-Vorbereitung | التهاب، نزيف، تحضير للعملية ;; Blutentnahme vorbereiten und durchführen, Röhrchen beschriften, zügig ins Labor schicken | تحضير سحب الدم وتنفيذه، تسمية الأنابيب، إرسالها بسرعة للمختبر
+tr: Urinuntersuchung | فحص البول ;; Harnwegsinfekt / Nierenstein ausschließen | استبعاد التهاب المسالك / حصى الكلى ;; Urinprobe gewinnen, ggf. Schwangerschaftstest bei Frauen | أخذ عينة بول، وعند النساء اختبار حمل إذا لزم
+tr: Sonografie | سونار ;; freie Flüssigkeit, Appendix, Gallenblase | سوائل حرة، الزائدة، المرارة ;; Patienten informieren, Oberkörper frei machen, ggf. nüchtern lassen | إعلام المريض، كشف الجزء العلوي، إبقاؤه صائماً إذا لزم
+tr: Röntgen Abdomen | أشعة البطن ;; freie Luft (Perforation), Spiegel (Ileus) | هواء حر (انثقاب)، مستويات سائلة (انسداد) ;; Transport, Schmuck/Metall ablegen | النقل، نزع المجوهرات/المعادن
+tr: CT Abdomen (mit Kontrastmittel) | طبقي للبطن مع مادة تباين ;; genaue Diagnose | تشخيص دقيق ;; Allergien und Nierenwerte erfragen, venösen Zugang vorbereiten, nüchtern lassen, begleiten und überwachen | السؤال عن الحساسية ووظائف الكلى، تحضير خط وريدي، صيام، مرافقة ومراقبة
+tr: EKG | تخطيط القلب ;; Herzinfarkt ausschließen | استبعاد الجلطة القلبية ;; Elektroden anlegen, EKG schreiben | تركيب الأقطاب، إجراء التخطيط
+
+# Aufgabe 4 – Fragen | المهمة 4 – الأسئلة
+q: 1. Warum ist es wichtig, dass alle Berufsgruppen denselben Behandlungspfad kennen? | لماذا من المهم أن تعرف كل الفئات المهنية نفس مسار العلاج؟
+p: Weil viele Berufsgruppen Hand in Hand arbeiten. Damit alle wissen, was wann zu tun ist. Der Behandlungspfad schafft Verlässlichkeit, Transparenz und eine klare Aufgabenverteilung. | لأن فئات مهنية كثيرة تعمل يداً بيد، وحتى يعرف الجميع ما يجب فعله ومتى. مسار العلاج يخلق الموثوقية والشفافية وتوزيعاً واضحاً للمهام.
+q: 2. Welche Risiken entstehen, wenn eine Phase unvollständig dokumentiert oder nicht durchgeführt wird? | ما المخاطر إذا وُثّقت مرحلة بشكل ناقص أو لم تُنفّذ؟
+p: In der Chirurgie ist der Weg vom Notfall bis zur Operation komplex. Wenn an irgendeiner Stelle Informationen verloren gehen, kann das ernsthafte Folgen haben. Ohne Soll-Ist-Vergleich werden Mängel nicht rechtzeitig erkannt. | في الجراحة الطريق من الطوارئ حتى العملية معقد. إذا ضاعت معلومات في أي نقطة قد تكون العواقب خطيرة. وبدون مقارنة المخطط بالواقع لا تُكتشف الأخطاء في الوقت المناسب.
+q: 3. Welche Informationen aus der Pflegeanamnese sind für den weiteren Verlauf besonders wichtig? | ما المعلومات من السيرة التمريضية المهمة بشكل خاص لما بعد؟
+p: Vitalzeichen, Schmerzbeurteilung, Pflegeanamnese. Damit Pflege gut funktioniert, brauchen wir gute Informationen. Die Pflegeanamnese liefert die Basis für alle weiteren Schritte. | العلامات الحيوية، تقييم الألم، السيرة التمريضية. لكي يعمل التمريض جيداً نحتاج معلومات جيدة. السيرة التمريضية هي الأساس لكل الخطوات التالية.
+tip: Ergänzung: Allergien, Vorerkrankungen, Medikamente (v. a. Blutverdünner), letzte Nahrungsaufnahme (Nüchternheit), Schmerzbeginn und -ort. | إضافة مقترحة: الحساسية، الأمراض السابقة، الأدوية (خاصة المميعات)، آخر أكل (الصيام)، بداية الألم ومكانه.
+q: 4. Wie können Pflegekräfte dazu beitragen, dass der Behandlungspfad für Herrn M. „flüssig" abläuft? | كيف يساهم الممرضون في أن يسير مسار العلاج للسيد M "بسلاسة"؟
+p: Wir müssen wissen, an welcher Stelle im Behandlungspfad wir uns befinden und welche pflegerischen Aufgaben in dieser Phase wichtig sind. Dazu gehören einheitliche Arbeitsschritte, Zusammenarbeit an den Schnittstellen und Standards. | يجب أن نعرف في أي نقطة من المسار نحن، وما المهام التمريضية المهمة في هذه المرحلة. ويشمل ذلك خطوات عمل موحدة، والتعاون بين الأقسام، والالتزام بالمعايير.
+q: 5. Welche Informationen müssen an die nächste Berufsgruppe übergeben werden? | ما المعلومات التي يجب تسليمها للفئة المهنية التالية؟
+p: Übergabe an das OP-Team mit SBAR und Dokumentation. | التسليم لفريق العمليات بطريقة SBAR مع التوثيق.
+- **S**ituation – aktuelle Lage | الوضع الحالي
+- **B**ackground – Hintergrund | الخلفية
+- **A**ssessment – Einschätzung | التقييم
+- **R**ecommendation – Empfehlung | التوصية
+tip: Ergänzung: Diagnose, Vitalzeichen, Allergien, Medikamente, Nüchternzeit, Zugänge, Laborwerte, Einwilligung. | إضافة مقترحة: التشخيص، العلامات الحيوية، الحساسية، الأدوية، وقت الصيام، الخطوط الوريدية، نتائج المختبر، الموافقة.
+img: herrm-notiz3 | Deine Lösung zu Aufgabe 3 und 4 | حلك للمهمة 3 و 4
+img: herrm-notiz4 | Aufgabe 4 (Fortsetzung) – SBAR | المهمة 4 (تكملة) – SBAR
+
+# Aufgabe 4 – Tabelle | المهمة 4 – الجدول
+q: Tragen Sie anhand der Begriffe in einer Tabelle ein, welche Schritte Herr M. durchläuft und welche Berufsgruppen jeweils beteiligt sind. Denken Sie auch an interdisziplinäre Partner wie Physiotherapie, Anästhesie, OP-Team, Sozialdienst etc. | املأ جدولاً بالخطوات التي يمر بها السيد M والفئات المهنية المشاركة في كل خطوة. فكّر أيضاً بالشركاء مثل العلاج الطبيعي، التخدير، فريق العمليات، الخدمة الاجتماعية.
+th: Ablauf / Handlungsschritt | الخطوة ;; Beteiligte Berufsgruppen | المشاركون
+tr: Aufnahme in der Notaufnahme | الاستقبال في الطوارئ ;; Pflege, Ärztin | تمريض، طبيبة
+tr: Diagnostik (Labor, Bildgebung) | التشخيص ;; Ärztin, Pflege, Labor, Radiologie | طبيبة، تمريض، مختبر، أشعة
+tr: Aufnahme auf Station | الدخول للقسم ;; Pflege, Stationsarzt | تمريض، طبيب القسم
+tr: Präoperative Vorbereitung | التحضير قبل العملية ;; Pflege, Chirurg, Anästhesie | تمريض، جرّاح، تخدير
+tr: Operation | العملية ;; OP-Team, Anästhesie | فريق العمليات، تخدير
+tr: Postoperative Pflege auf Station | التمريض بعد العملية ;; Pflege, Stationsarzt, Physiotherapie | تمريض، طبيب القسم، علاج طبيعي
+tr: Entlassung / Nachsorge | الخروج / المتابعة ;; Arzt, Pflege, Sozialdienst | طبيب، تمريض، خدمة اجتماعية
+img: herrm-a4-tabelle | Deine ausgefüllte Tabelle | جدولك المعبّأ
+
+# Aufgabe 5 | المهمة 5
+q: Finden Sie die wichtigsten pflegerischen Aufgaben in den jeweiligen Phasen. Schreiben Sie zusätzlich, warum diese Aufgabe für die Patientensicherheit wichtig ist. | حدد أهم المهام التمريضية في كل مرحلة، واكتب لماذا هي مهمة لسلامة المريض.
+th: Phase | المرحلة ;; Beispielhafte pflegerische Aufgaben | مهام تمريضية ;; Bedeutung für Patientensicherheit | الأهمية لسلامة المريض
+tr: 1. Aufnahme / Ersteinschätzung | الاستقبال / التقييم الأولي ;; Pflegeanamnese, Vitalzeichen, Schmerzbeurteilung, Info geben, Dokumentation, Vorbereitung | سيرة تمريضية، علامات حيوية، تقييم ألم، معلومات، توثيق، تحضير ;; Klare Informationen als Basis für alle weiteren Schritte | معلومات واضحة كأساس لكل الخطوات
+tr: 2. Präoperative Phase | قبل العملية ;; Nüchternheit prüfen, Hautvorbereitung, Begleitung zur OP, Schmuck ablegen | التأكد من الصيام، تحضير الجلد، المرافقة، نزع المجوهرات ;; Sichere Narkose und OP | تخدير وعملية آمنة
+tr: 3. Intraoperative Phase | أثناء العملية ;; Übergabe an OP-Team, SBAR, Dokumentation | التسليم، SBAR، توثيق ;; Kein Informationsverlust | لا ضياع للمعلومات
+tr: 4. Postoperative Phase | بعد العملية ;; Überwachung, Schmerzmanagement, Wundkontrolle, Mobilisation | مراقبة، إدارة الألم، فحص الجرح، تحريك ;; Komplikationen früh erkennen | اكتشاف المضاعفات مبكراً
+tr: 5. Entlassung / Nachsorge | الخروج / المتابعة ;; Beratung, Nachsorgetermine, Wundpflege erklären, Entlassbrief, Entlassmanagement | استشارة، مواعيد متابعة، شرح العناية بالجرح، رسالة الخروج، إدارة الخروج ;; Medikamentenplan erklären, sichere Versorgung zu Hause (selbständig) | شرح خطة الأدوية، رعاية آمنة في البيت (باستقلالية)
+fix: Auf deinem Blatt steht bei Punkt 3 „SBR A" – richtig ist **SBAR**. | بورقتك مكتوب "SBR A"، الصح **SBAR**.
+img: herrm-a5 | Deine ausgefüllte Tabelle zu Aufgabe 5 | جدولك للمهمة 5

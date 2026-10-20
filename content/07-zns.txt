@@ -1,0 +1,83 @@
+@page gehirn | ZNS – Gehirn | الدماغ | LF 5.3 Nervensystem / الجهاز العصبي
+# Zentrales Nervensystem – Gehirn | الجهاز العصبي المركزي – الدماغ
+p: Das Gehirn wertet Informationen aus und veranlasst eine entsprechende motorische und/oder vegetative Reaktion, d. h. eine Bewegung oder eine Anpassung der Organfunktionen. Darüber hinaus ist es für „höhere Leistungen" zuständig, z. B. Sprache, Lern- und Urteilsfähigkeit, Denken, Gedächtnis, Emotionen oder Kreativität. | الدماغ بيقيّم المعلومات وبيطلق رد فعل حركي و/أو لاإرادي، يعني حركة أو تعديل بوظائف الأعضاء. وكمان مسؤول عن "الوظائف العليا" مثل الكلام، التعلّم والحكم، التفكير، الذاكرة، المشاعر، والإبداع.
+img: ns-gehirn | Querschnitt des menschlichen Gehirns (Arbeitsblatt „Ausmalen nach Zahlen") | مقطع الدماغ البشري (ورقة "التلوين حسب الأرقام")
+note: Die Nummern ①–⑩ bei den Überschriften gehören zu den Nummern im Bild. | الأرقام ①–⑩ جنب العناوين هي نفس أرقام الصورة.
+
+## ① Großhirn (Cerebrum, Telencephalon) | المخ
+p: Das Großhirn ist der größte und höchstentwickelte Teil des Gehirns. Es ist von zahlreichen Furchen durchzogen = Oberfläche der Großhirnrinde (äußerer Teil des Großhirns), ist sehr groß. Bestehend aus grauer (Zellkörper) und weißer (Nervenfaser) Substanz. | المخ هو أكبر وأكثر جزء متطور بالدماغ. فيه أخاديد كثيرة = سطح القشرة المخية (الجزء الخارجي)، وهو كبير جداً. يتكون من مادة رمادية (أجسام الخلايا) ومادة بيضاء (الألياف العصبية).
+## ② Zwischenhirn (Diencephalon) mit Thalamus | الدماغ البيني مع المهاد
+p: Das Zwischenhirn liegt zwischen Großhirn und Hirnstamm. In der Mitte liegt paarig (in jeder Hirnhälfte) angelegt der Thalamus und bildet den größten Teil. Er verarbeitet v. a. sensible Reize und filtert die Informationen für die Weiterleitung an das Großhirn. | يقع بين المخ وجذع الدماغ. بالوسط يوجد المهاد بشكل مزدوج (واحد بكل نصف) ويشكل الجزء الأكبر. يعالج خاصة المنبهات الحسية ويفلتر المعلومات قبل إرسالها للمخ.
+tip: Der Thalamus heißt auch „Tor zum Bewusstsein" – deshalb ist er beim Schmerz die Umschaltstelle. | المهاد بيسموه "بوابة الوعي"، ولهيك بالألم هو محطة التحويل.
+## ⑨ Hypothalamus | تحت المهاد
+p: Der Hypothalamus ist unsere Steuerungszentrale. Er steuert die Körpertemperatur, gemeinsam mit der Hypophyse das Hormonsystem und gemeinsam mit der Epiphyse (Zirbeldrüse, Glandula pinealis) den Tag-Nacht-Rhythmus. Er besteht überwiegend aus grauer Substanz / Nervenzellkörpern und bildet zusammen mit dem Thalamus das Zwischenhirn. | مركز التحكم عندنا. يتحكم بحرارة الجسم، ومع الغدة النخامية بالهرمونات، ومع الغدة الصنوبرية بإيقاع الليل والنهار. يتكون غالباً من مادة رمادية، ومع المهاد يشكّل الدماغ البيني.
+## ⑧ Hypophyse | الغدة النخامية
+p: Kleines Organ mit großer Bedeutung für den Stoffwechsel. Es ist federleicht und wiegt nur ca. 1 g. Verantwortlich für die Produktion, Speicherung und Freisetzung von Hormonen, z. B. Oxytocin (als Glückshormon bekannt). | عضو صغير بأهمية كبيرة للاستقلاب. خفيف كالريشة، وزنه حوالي 1 غرام. مسؤول عن إنتاج وتخزين وإطلاق الهرمونات، مثل الأوكسيتوسين.
+fix: Oxytocin heißt meist **Bindungs- / Kuschelhormon**; „Glückshormone" sind Serotonin, Dopamin, Endorphine. Außerdem wird Oxytocin im Hypothalamus gebildet – die Hypophyse speichert und setzt es nur frei. | الأوكسيتوسين بيتسمى عادةً **هرمون الترابط**، مش هرمون السعادة (هي Serotonin و Dopamin و Endorphine). وكمان بيتصنع بالـ Hypothalamus، والـ Hypophyse بس بتخزنه وبتطلقه.
+## ③ Mittelhirn (Mesencephalon) | الدماغ المتوسط
+p: Es unterteilt sich in 3 Bereiche: Großhirnschenkel, Mittelhirnhaube und Mittelhirndach. Es hat sehr komplexe Aufgaben: Steuerung der Augenmuskulatur (das Schließen und Öffnen der Augen). | ينقسم لـ 3 أجزاء: سويقات المخ، سقيفة الدماغ المتوسط، وسقف الدماغ المتوسط. مهامه معقدة: التحكم بعضلات العين (فتح وإغلاق العينين).
+## ④ Kleinhirn (Cerebellum) | المخيخ
+p: Es arbeitet u. a. mit dem Großhirn zur Feinabstimmung der Körperbewegungen zusammen und mit dem Innenohr zum Erhalt des Gleichgewichts. Zudem ist es wichtig für das motorische Gedächtnis. | يعمل مع المخ لضبط دقة الحركات، ومع الأذن الداخلية للحفاظ على التوازن. ومهم للذاكرة الحركية (مثل ركوب الدراجة).
+## ⑥ Brücke (Pons) | الجسر
+p: Sie ist die Durchgangsstation für die Nervenbahnen zwischen dem Gehirn und dem Rückenmark. Sie dient als Umschaltstelle zwischen Groß- und Kleinhirn. | محطة عبور للمسارات العصبية بين الدماغ والنخاع الشوكي، ومحطة تحويل بين المخ والمخيخ.
+## ⑦ Mandelkern (Amygdala) | اللوزة الدماغية
+p: Hier entsteht Angst und wird hier auch verarbeitet, indem sie dafür sorgt, dass in gefährlichen Situationen der Herzschlag ansteigt. Wenn man sich erschreckt, sorgt die Amygdala dafür, dass man zusammenzuckt. | هنا ينشأ الخوف ويُعالج، فهي تجعل نبض القلب يرتفع بالمواقف الخطيرة. ولما تنخض، هي اللي بتخليك تنتفض.
+## ⑤ Nachhirn (Medulla oblongata) | النخاع المستطيل
+p: Setzt sich zusammen aus: Brücke und dem verlängerten Rückenmark. Es kontrolliert grundlegende Funktionen wie Blutzirkulation, Herzschlag und Lungenaktivität. Außerdem ist es verantwortlich für Reflexe wie z. B. Husten, Gähnen, Niesen. | يتكون من الجسر والنخاع المستطيل. يتحكم بالوظائف الأساسية مثل الدورة الدموية، نبض القلب، والتنفس. ومسؤول عن منعكسات مثل السعال، التثاؤب، العطس.
+warn: Deshalb sind Verletzungen in diesem Bereich lebensgefährlich. | عشان هيك، إصابة هالمنطقة خطيرة جداً على الحياة.
+## ⑩ Balken (Corpus callosum) | الجسم الثفني
+p: Nicht im Text, aber im Bild: verbindet die rechte und linke Großhirnhälfte. | مش مذكور بالنص بس بالصورة: هو الجسر اللي بيربط النصف الأيمن والأيسر للمخ.
+## Graue Substanz | المادة الرمادية
+p: Sie besteht hauptsächlich aus den Zellkörpern von Nervenzellen und ist für die Verarbeitung von Informationen zuständig. Sie ist ein wesentlicher Bestandteil der Gehirnrinde (Cortex) und bildet im Rückenmark eine innere, schmetterlingsförmige Struktur, die von der weißen Substanz umgeben ist. | تتكون أساساً من أجسام الخلايا العصبية ومسؤولة عن معالجة المعلومات. جزء أساسي من القشرة المخية، وبالنخاع الشوكي تشكّل بنية داخلية على شكل فراشة محاطة بالمادة البيضاء.
+## Weiße Substanz | المادة البيضاء
+p: Sie besteht hauptsächlich aus den myelinisierten Nervenfasern (Axonen) von Nervenzellen und ist für die schnelle Signalübertragung zwischen Gehirnregionen und dem Rückenmark verantwortlich. Ihre weiße Farbe erhält sie durch das fettreiche Myelin, eine isolierende Hülle, die die Leitungsgeschwindigkeit der Nervenimpulse erhöht. | تتكون من الألياف العصبية (المحاور) المغلّفة بالميالين، ومسؤولة عن نقل الإشارات بسرعة بين مناطق الدماغ والنخاع. لونها الأبيض من الميالين الغني بالدهون، وهو غلاف عازل بيزيد سرعة النبضات.
+img: ns-nervenzelle | Aufbau einer motorischen Nervenzelle – die Myelinscheide macht die weiße Substanz weiß | بنية الخلية العصبية – غمد الميالين هو اللي بيعطي المادة البيضاء لونها
+note: Aufgabe: Bearbeiten Sie das Arbeitsblatt „Ausmalen nach Zahlen". | المهمة: اشتغل على ورقة "التلوين حسب الأرقام" (هي صورة الدماغ المرقّمة).
+
+@page rm | ZNS – Rückenmark, Häute, Liquor, PNS | النخاع الشوكي، الأغشية، السائل، المحيطي | LF 5.3 Nervensystem / الجهاز العصبي
+# Zentrales Nervensystem – Rückenmark (Medulla spinalis) | النخاع الشوكي
+p: Das Rückenmark liegt im Wirbelkanal innerhalb der Wirbelsäule, der von den übereinanderliegenden Wirbellöchern der Wirbel gebildet wird. Es leitet die Informationen von der Peripherie zum Gehirn bzw. umgekehrt. Einige Reflexe laufen direkt im Rückenmark ab, ohne dass das Gehirn in den Vorgang einbezogen wird. | يقع النخاع الشوكي بالقناة الفقرية داخل العمود الفقري، واللي بتتكوّن من ثقوب الفقرات فوق بعض. ينقل المعلومات من الأطراف للدماغ والعكس. بعض المنعكسات بتصير مباشرة بالنخاع بدون مشاركة الدماغ.
+tip: Genau das ist bei Frau Müller und der Wärmeflasche passiert. | وهاد بالضبط اللي صار مع Frau Müller والقربة السخنة.
+img: zns-wirbelsaeule | Wirbelsäule mit Rückenmark und Spinalnerven | العمود الفقري مع النخاع والأعصاب الشوكية
+## Bestandteile und Funktion | المكونات والوظيفة
+p: Hauptfunktion ist die Nachrichtenvermittlung zwischen Gehirn und anderen Körperorganen. Die Nervenzellkörper (graue Substanz) liegen im Rückenmark innen und ihre Verteilung erinnert an eine Schmetterlingsfigur, die von den Nervenfaserbahnen (weiße Substanz) umgeben ist. | وظيفته الأساسية نقل الرسائل بين الدماغ والأعضاء. أجسام الخلايا (المادة الرمادية) بالداخل على شكل فراشة، محاطة بالمسارات العصبية (المادة البيضاء).
+img: zns-wirbel | Querschnitt eines Wirbels mit Rückenmark | مقطع فقرة مع النخاع الشوكي
+### In der grauen Substanz unterscheidet man | بالمادة الرمادية
+th: Teil | الجزء ;; Funktion | الوظيفة
+tr: **Hinterhorn** | القرن الخلفي ;; Weiterleitung von Gefühlsempfindungen wie Berührung oder Schmerz aus dem Körperinneren oder aus der Umwelt zum Gehirn über sensible Nervenzellen | ينقل الأحاسيس مثل اللمس والألم للدماغ عبر الخلايا الحسية
+tr: **Vorderhorn** | القرن الأمامي ;; enthält die Nervenzellen, die Befehle vom Gehirn an die Muskeln weiterleiten (motorische Nervenzellen) | فيه الخلايا الحركية اللي بتنقل الأوامر من الدماغ للعضلات
+tr: **Seitenhorn** | القرن الجانبي ;; enthält Nervenzellen des autonomen Nervensystems (vegetative Nervenzellen) | فيه خلايا الجهاز العصبي اللاإرادي
+img: zns-rueckenmark | Querschnitt Rückenmark: graue und weiße Substanz | مقطع النخاع: المادة الرمادية والبيضاء
+### Die weiße Substanz | المادة البيضاء
+p: Die weiße Substanz enthält die entsprechend zugehörigen Nervenfaserbahnen. Sie leiten die Erregungen aus dem Körperinneren oder der Umwelt zum Gehirn (afferente Bahnen) oder vom Gehirn zurück zu den Organsystemen (efferente Bahnen) weiter oder aber hemmen diese Nachrichtenübermittlung. | المادة البيضاء فيها المسارات العصبية. بتنقل الإثارات من الجسم أو البيئة للدماغ (مسارات واردة)، أو من الدماغ للأعضاء (مسارات صادرة)، أو بتثبّط هالنقل.
+tip: Die hemmenden Bahnen sind dieselben „absteigenden hemmenden Bahnen" aus der Lernaufgabe Schmerz. | المسارات المثبّطة هي نفسها "absteigende hemmende Bahnen" بموضوع الألم.
+
+# Hirn- und Rückenmarkshäute | أغشية الدماغ والنخاع الشوكي
+p: Gehirn und Rückenmark werden von 3 Bindegewebshüllen (Meningen) umgeben. | الدماغ والنخاع محاطين بـ 3 أغشية (السحايا).
+img: zns-haeute | Aufgabe: Beschriften Sie das Bild – von außen nach innen: Haut, Periost, Knochen, Dura mater, Arachnoidea, Pia mater | المهمة: اكتب الأسماء – من برا لجوا: جلد، سمحاق، عظم، الأم الجافية، العنكبوتية، الأم الحنون
+p: Es gibt drei Rückenmarkshäute, die von außen nach innen folgendermaßen angeordnet sind: | ثلاثة أغشية مرتبة من الخارج للداخل:
+th: Haut | الغشاء ;; Beschreibung | الوصف
+tr: **Dura mater** (harte Hirn- und Rückenmarkshaut) | الأم الجافية ;; Die äußerste und dickste Schicht. Sie besteht aus dichtem, faserigem Bindegewebe und bildet eine schützende Hülle um das Rückenmark und das Gehirn. | الطبقة الأبعد والأسمك، من نسيج ضام ليفي كثيف، وتشكّل غلاف حماية حول النخاع والدماغ
+tr: **Arachnoidea mater** (Spinnwebenhaut) | الأم العنكبوتية ;; Die mittlere Schicht mit spinnwebenartiger Struktur aus dünnem, durchscheinendem Gewebe. Zwischen Arachnoidea und Pia mater liegt der Subarachnoidalraum, gefüllt mit Liquor cerebrospinalis (Rückenmarksflüssigkeit). | الطبقة الوسطى، تشبه شبكة العنكبوت، رقيقة شفافة. بينها وبين الأم الحنون الحيّز تحت العنكبوتي المليء بالسائل الدماغي الشوكي
+tr: **Pia mater** (weiche Hirn- und Rückenmarkshaut) | الأم الحنون ;; Die innerste Schicht, liegt direkt auf der Oberfläche des Rückenmarks. Sie enthält viele Blutgefäße, die das Rückenmark mit Sauerstoff und Nährstoffen versorgen. Diese enge Blutversorgung ist entscheidend für die Gesundheit und Funktion des Nervengewebes. | الطبقة الأعمق، ملتصقة بسطح النخاع. فيها أوعية دموية كثيرة بتغذّي النخاع بالأكسجين والمغذيات، وهالتروية ضرورية لصحة النسيج العصبي
+tip: Eselsbrücke „DAP" von außen nach innen: **D**ura – **A**rachnoidea – **P**ia. | تذكير: "DAP" من برا لجوا.
+## Was ist der Unterschied zur Hirnhaut? | شو الفرق عن أغشية الدماغ؟
+p: Die Hirnhäute und die Rückenmarkshäute sind in ihrem Aufbau grundsätzlich identisch und bestehen aus drei Schichten: der Dura mater, der Arachnoidea mater und der Pia mater. Der Unterschied zwischen beiden liegt in ihrer Lokalisation. Während die Hirnhäute das Gehirn innerhalb des Schädels umgeben, umgeben die Rückenmarkshäute das Rückenmark innerhalb des Wirbelkanals. | نفس البنية بالضبط (3 طبقات). الفرق بس بالمكان: أغشية الدماغ داخل الجمجمة، وأغشية النخاع داخل القناة الفقرية.
+
+# Liquor und Liquorräume | السائل الدماغي الشوكي
+p: Der Liquor cerebrospinalis umgibt das Gehirn und das Rückenmark. Er übernimmt im ZNS die Aufgabe der Lymphe und schützt es vor Erschütterungen. Täglich werden ca. 500 ml Liquor gebildet. Bei einer Gesamtmenge von 130 ml wird die Flüssigkeit ca. alle 7 Stunden ausgetauscht. | السائل يحيط بالدماغ والنخاع. يقوم بدور اللمف بالجهاز المركزي ويحميه من الصدمات. يُنتج يومياً حوالي 500 مل، والكمية الكلية 130 مل، فبيتجدد تقريباً كل 7 ساعات.
+img: zns-liquor | Liquorräume (Ventrikelsystem, Subarachnoidalraum) | فراغات السائل (البطينات، الحيّز تحت العنكبوتي)
+
+# Peripheres Nervensystem | الجهاز العصبي المحيطي
+p: Das periphere Nervensystem (PNS) ist der Teil des Nervensystems, der außerhalb von Gehirn und Rückenmark (dem zentralen Nervensystem) liegt und die Verbindung zwischen ZNS und dem Rest des Körpers herstellt. | هو الجزء خارج الدماغ والنخاع، ويربط الجهاز المركزي بباقي الجسم.
+## Es besteht aus | يتكون من
+- **Hirnnerven:** versorgen Kopf, Gesicht und die Organe im Kopfbereich wie Augen, Ohren und Nase. | الأعصاب القحفية: تغذي الرأس والوجه والعيون والأذنين والأنف
+- **Spinalnerven:** Nerven, die aus dem Rückenmark austreten und sich in 31 Paare aufteilen. Sie versorgen den gesamten Rumpf und die Gliedmaßen. | الأعصاب الشوكية: تخرج من النخاع، 31 زوج، تغذي الجذع والأطراف
+- **Enterisches Nervensystem:** ein eigenständiger Teil des Nervensystems, der das Verdauungssystem steuert. | الجهاز العصبي المعوي: جزء مستقل يتحكم بالجهاز الهضمي
+p: Das periphere Nervensystem ist für die Weiterleitung von Informationen zuständig und für die Erfolgsorgane wie Muskeln und Sinnesorgane entscheidend. Es arbeitet nach dem Prinzip von Eingabe, Verarbeitung und Ausgabe (EVA-Prinzip): | مسؤول عن نقل المعلومات، وضروري للأعضاء المنفّذة مثل العضلات وأعضاء الحس. يعمل بمبدأ "إدخال، معالجة، إخراج" (EVA):
+th: Richtung | الاتجاه ;; Bedeutung | المعنى
+tr: **Eingabe (afferent)** | الإدخال (وارد) ;; Sensorische Nervenfasern leiten Signale von den Sinnesorganen und aus der Körperperipherie **zum** zentralen Nervensystem. | الألياف الحسية تنقل الإشارات **إلى** الجهاز المركزي
+tr: **Ausgabe (efferent)** | الإخراج (صادر) ;; Motorische Nervenfasern senden Signale **vom** Gehirn und Rückenmark **zu den** Muskeln und anderen Organen, um Reaktionen auszulösen. | الألياف الحركية ترسل الإشارات **من** الدماغ والنخاع **إلى** العضلات لإطلاق رد الفعل
+tip: Wie beim „Weg des Reizes": sensorischer Nerv = afferent, motorischer Nerv = efferent. | نفس "طريق المنبّه": العصب الحسي = وارد، العصب الحركي = صادر.
+q: Aufgabe: Schädigungen des peripheren Nervensystems können weitreichende Folgen haben und zu schwerwiegenden Symptomen führen. Überlegen Sie sich anhand Ihres Wissens zum NS, welche das sein könnten! | أضرار الجهاز المحيطي ممكن تسبب أعراض خطيرة. فكّر شو ممكن تكون!
+p: Lösung: Schmerzen (brennend, stechend), Taubheitsgefühl, Muskelschwäche – siehe Seite „Nervensystem – Grundlagen", Punkt 7. | الحل: آلام، خدر، ضعف عضلات – شوف صفحة "الجهاز العصبي – الأساسيات" نقطة 7.

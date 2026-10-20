@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pflege LF 5 Lernseite</title>
+<meta name="description" content="LF 5 Chirurgische Versorgungsabläufe & Nervensystem – Deutsch / Arabisch">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Sans+Arabic:wght@400;600&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23b4362b'/><path d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='white'/></svg>">
+<style>
+:root{
+  --bg:#f6f3ee; --paper:#fffdf9; --ink:#1f2a2e; --muted:#5d6a6e; --line:#e3ddd2;
+  --accent:#b4362b; --teal:#1f5c63; --teal-soft:#e2eeee; --ar:#1f5c63;
+  --note:#fff4d6; --note-b:#e6b84a; --warn:#fde6e2; --warn-b:#d0574a; --tip:#e3f1e6; --tip-b:#4c9a63;
+  --fix:#ece6fb; --fix-b:#7a5fcf;
+  --side:290px;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#141a1c; --paper:#1b2326; --ink:#e7ecec; --muted:#9aa8ab; --line:#2c383b;
+  --accent:#e0675b; --teal:#7cc3c8; --teal-soft:#1f3236; --ar:#8fd0d4;
+  --note:#33301f; --note-b:#b8932f; --warn:#3a2523; --warn-b:#d0574a; --tip:#1f3326; --tip-b:#4c9a63; --fix:#29233d; --fix-b:#9c84e6; }}
+:root[data-theme="dark"]{
+  --bg:#141a1c; --paper:#1b2326; --ink:#e7ecec; --muted:#9aa8ab; --line:#2c383b;
+  --accent:#e0675b; --teal:#7cc3c8; --teal-soft:#1f3236; --ar:#8fd0d4;
+  --note:#33301f; --note-b:#b8932f; --warn:#3a2523; --warn-b:#d0574a; --tip:#1f3326; --tip-b:#4c9a63; --fix:#29233d; --fix-b:#9c84e6; }
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "IBM Plex Sans",system-ui,sans-serif;-webkit-text-size-adjust:100%}
+.ar{font-family:"IBM Plex Sans Arabic","IBM Plex Sans",sans-serif;color:var(--ar);direction:rtl;text-align:right;display:block;unicode-bidi:plaintext}
+body.only-de .ar{display:none!important}
+.de{display:block}
+header.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;gap:10px;padding:10px 16px;background:var(--paper);border-bottom:1px solid var(--line)}
+.brand{font-family:Fraunces,serif;font-weight:600;font-size:19px;display:flex;align-items:center;gap:8px;white-space:nowrap}
+.brand i{width:26px;height:26px;border-radius:7px;background:var(--accent);display:inline-grid;place-items:center;color:#fff;font-style:normal;font-size:16px}
+.spacer{flex:1}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--bg)}
+.seg button{border:0;background:none;color:var(--muted);font:600 13px "IBM Plex Sans",sans-serif;padding:7px 12px;cursor:pointer}
+.seg button.on{background:var(--teal);color:var(--paper)}
+.iconbtn{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:10px;width:38px;height:36px;cursor:pointer;font-size:17px}
+#menuBtn{display:none}
+.layout{display:flex;max-width:1280px;margin:0 auto}
+nav.side{width:var(--side);flex:none;position:sticky;top:57px;height:calc(100vh - 57px);overflow:auto;padding:14px 12px 40px;border-right:1px solid var(--line)}
+nav.side a{display:block;padding:8px 10px;border-radius:10px;color:var(--ink);text-decoration:none;font-size:14.5px;line-height:1.35;margin:1px 0}
+nav.side a .ar{font-size:13px;color:var(--muted)}
+nav.side a:hover{background:var(--teal-soft)}
+nav.side a.on{background:var(--teal);color:var(--paper)}
+nav.side a.on .ar{color:var(--paper);opacity:.85}
+.navgrp{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:700;margin:16px 10px 4px;display:flex;justify-content:space-between;gap:8px}
+.navgrp .ar{text-transform:none;letter-spacing:0;font-size:12px;display:inline;color:var(--accent)}
+main{flex:1;min-width:0;padding:22px 34px 80px}
+.page{display:none;max-width:860px}
+.page.on{display:block;animation:in .25s ease}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1}}
+h2{font-family:Fraunces,serif;font-weight:600;font-size:clamp(24px,4vw,32px);line-height:1.2;margin:34px 0 14px;padding-top:6px}
+.page>h2:first-child{margin-top:4px}
+h2 .ar{font-family:"IBM Plex Sans Arabic",sans-serif;font-size:.62em;font-weight:600;margin-top:6px}
+h3{font-size:20px;margin:28px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+h3 .ar{font-size:16px;font-weight:600;margin-top:2px}
+h4{font-size:16.5px;margin:20px 0 6px;color:var(--teal)}
+h4 .ar{font-size:14.5px}
+p{margin:8px 0}
+p.ar{margin-top:-2px;margin-bottom:14px}
+ul,ol{margin:8px 0 14px;padding-inline-start:22px}
+li{margin:6px 0;padding-inline-start:2px}
+li .ar{font-size:.94em;margin-top:1px}
+li.sub{margin-inline-start:22px;list-style:circle}
+strong{font-weight:700}
+.callout{border-inline-start:4px solid;border-radius:10px;padding:10px 14px;margin:14px 0}
+.callout .lbl{font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;display:flex;justify-content:space-between;margin-bottom:3px}
+.callout .lbl .ar{display:inline;text-transform:none;letter-spacing:0}
+.callout.note{background:var(--note);border-color:var(--note-b)} .callout.warn{background:var(--warn);border-color:var(--warn-b)}
+.callout.tip{background:var(--tip);border-color:var(--tip-b)} .callout.fix{background:var(--fix);border-color:var(--fix-b)}
+.q{background:var(--teal-soft);border-radius:12px;padding:10px 14px;margin:16px 0 8px;font-weight:600}
+.q .ar{font-weight:600}
+.tablewrap{overflow-x:auto;margin:12px 0 18px;border:1px solid var(--line);border-radius:12px;background:var(--paper)}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:14.5px}
+th,td{padding:9px 11px;border-bottom:1px solid var(--line);vertical-align:top;text-align:start}
+th{background:var(--teal);color:var(--paper);font-weight:600}
+th .ar{color:var(--paper);opacity:.9}
+tr:last-child td{border-bottom:0}
+td .ar{font-size:.92em}
+figure{margin:16px 0;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px}
+figure img{max-width:100%;width:auto;max-height:640px;height:auto;display:block;margin:0 auto;border-radius:8px;background:#fff}
+figcaption{font-size:13.5px;color:var(--muted);padding:8px 4px 2px}
+figcaption .ar{font-size:13px}
+details.gallery{margin:16px 0;border:1px solid var(--line);border-radius:14px;background:var(--paper)}
+details.gallery summary{cursor:pointer;padding:12px 14px;font-weight:600;list-style:none}
+details.gallery summary::before{content:"▸ ";color:var(--accent)} details.gallery[open] summary::before{content:"▾ "}
+details.gallery summary .ar{font-weight:400;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;padding:0 12px 12px}
+.grid a{position:relative;display:block;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:#fff}
+.grid img{width:100%;display:block;aspect-ratio:16/9;object-fit:cover;object-position:top}
+.grid span{position:absolute;left:6px;top:6px;background:rgba(0,0,0,.6);color:#fff;font-size:11px;border-radius:6px;padding:1px 6px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin:18px 0}
+.card{display:block;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:14px;color:var(--ink);text-decoration:none;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-2px);border-color:var(--teal)}
+.card b{display:block;margin-bottom:3px}
+.card .ar{font-size:14px}
+.pager{display:flex;justify-content:space-between;gap:10px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
+.pager a{color:var(--teal);text-decoration:none;font-weight:600;max-width:48%}
+.lb{position:fixed;inset:0;background:rgba(10,14,15,.92);z-index:50;display:none;align-items:center;justify-content:center;padding:16px}
+.lb.on{display:flex}
+.lb img{max-width:100%;max-height:100%;border-radius:8px;background:#fff}
+.lb button{position:absolute;top:12px;right:12px;width:44px;height:44px;border-radius:50%;border:0;font-size:22px;cursor:pointer}
+footer{color:var(--muted);font-size:13px;margin-top:50px}
+@media (max-width:900px){
+  #menuBtn{display:inline-block}
+  nav.side{position:fixed;left:0;top:57px;z-index:25;background:var(--paper);transform:translateX(-102%);transition:transform .2s;width:min(86vw,320px);box-shadow:0 10px 40px rgba(0,0,0,.2)}
+  nav.side.open{transform:none}
+  main{padding:16px 16px 70px}
+  .brand span{display:none}
+  .seg button{padding:7px 9px;font-size:12px}
+}
+@media print{header.top,nav.side,.pager{display:none!important} .page{display:block!important;max-width:none} main{padding:0}}
+</style>
+</head>
+<body>
+<header class="top">
+  <button class="iconbtn" id="menuBtn" aria-label="Menü">☰</button>
+  <div class="brand"><i>+</i><span>Pflege LF 5</span></div>
+  <div class="spacer"></div>
+  <div class="seg" role="group" aria-label="Sprache">
+    <button data-lang="bi">DE + عربي</button><button data-lang="de">Nur Deutsch</button>
+  </div>
+  <button class="iconbtn" id="themeBtn" aria-label="Hell/Dunkel">◐</button>
+</header>
+<div class="layout">
+<nav class="side" id="nav">
+{{NAV}}
+</nav>
+<main id="main">
+{{BODY}}
+<footer>Stand: 20.10.2026 · LF 5 – Krankenpflegeschule am Krankenhaus Saarlouis vom DRK · Lernseite (privat)</footer>
+</main>
+</div>
+<div class="lb" id="lb"><button aria-label="Schließen">×</button><img alt=""></div>
+<script>
+(function(){
+  const st={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+  const body=document.body, root=document.documentElement;
+  function setLang(l){body.classList.toggle('only-de',l==='de');document.querySelectorAll('.seg button').forEach(b=>b.classList.toggle('on',b.dataset.lang===l));st.set('lang',l)}
+  setLang(st.get('lang')||'bi');
+  document.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>setLang(b.dataset.lang));
+  const t=st.get('theme'); if(t) root.dataset.theme=t;
+  document.getElementById('themeBtn').onclick=()=>{const dark=root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;root.dataset.theme=dark?'light':'dark';st.set('theme',root.dataset.theme)};
+  const nav=document.getElementById('nav');
+  document.getElementById('menuBtn').onclick=()=>nav.classList.toggle('open');
+  const pages=[...document.querySelectorAll('.page')];
+  pages.forEach((p,i)=>{const d=document.createElement('div');d.className='pager';
+    const pr=pages[i-1],nx=pages[i+1];
+    d.innerHTML=(pr?`<a href="#${pr.id.slice(2)}">← ${pr.dataset.title}</a>`:'<span></span>')+(nx?`<a href="#${nx.id.slice(2)}" style="text-align:right">${nx.dataset.title} →</a>`:'');
+    p.appendChild(d)});
+  function show(){let id=(location.hash||'#start').slice(1);let pg=document.getElementById('p-'+id);let anchor=null;
+    if(!pg){anchor=document.getElementById(id);pg=anchor?anchor.closest('.page'):pages[0]}
+    pages.forEach(p=>p.classList.toggle('on',p===pg));
+    document.querySelectorAll('nav.side a').forEach(a=>a.classList.toggle('on','p-'+a.dataset.page===pg.id));
+    nav.classList.remove('open'); if(anchor) anchor.scrollIntoView(); else window.scrollTo(0,0);
+    document.title=pg.dataset.title+' · Pflege LF 5'}
+  addEventListener('hashchange',show); show();
+  const lb=document.getElementById('lb'),lbi=lb.querySelector('img');
+  document.addEventListener('click',e=>{const a=e.target.closest('a.zoom');if(!a)return;e.preventDefault();lbi.src=a.href;lb.classList.add('on')});
+  lb.onclick=e=>{if(e.target!==lbi)lb.classList.remove('on')};
+  addEventListener('keydown',e=>{if(e.key==='Escape')lb.classList.remove('on')});
+})();
+</script>
+</body>
+</html>

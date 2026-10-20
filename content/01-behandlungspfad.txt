@@ -1,0 +1,97 @@
+@page start | Übersicht | الصفحة الرئيسية | Start / البداية
+# LF 5 – Chirurgische Versorgungsabläufe & Nervensystem | الحقل التعليمي 5 – مسارات الرعاية الجراحية والجهاز العصبي
+p: Alle Unterlagen aus dem Unterricht – übersetzt, erklärt und mit Bildern. Oben rechts umschalten: **DE + عربي** oder **Nur Deutsch**. | كل أوراق الدرس – مترجمة ومشروحة ومع الصور. فوق على اليمين بتقدر تبدّل: **ألماني + عربي** أو **ألماني بس**.
+tip: Bilder antippen = groß ansehen. Grüne Kästen = Merke, rote = Achtung, lila = Korrekturen zu deinen Notizen. | اضغط على أي صورة لتكبيرها. الصناديق الخضراء = تذكّر، الحمراء = انتبه، البنفسجية = تصحيحات على ملاحظاتك.
+cards:
+
+@page bp | Behandlungspfad | مسار العلاج | LF 5.2 Behandlungspfad / مسار العلاج
+# Behandlungspfad | مسار العلاج
+## Was bedeutet Behandlungspfad? | ماذا يعني مسار العلاج؟
+p: „In der modernen Medizin arbeiten viele Berufsgruppen Hand in Hand. Damit alle wissen, was wann zu tun ist, gibt es sogenannte Behandlungspfade. Ein Behandlungspfad ist ein standardisierter, interdisziplinär abgestimmter Ablauf, der beschreibt, wie ein bestimmter Krankheitsfall medizinisch, pflegerisch und therapeutisch versorgt wird." | "في الطب الحديث تعمل فئات مهنية كثيرة يداً بيد. ولكي يعرف الجميع ما يجب فعله ومتى، توجد ما تُسمّى مسارات العلاج. مسار العلاج هو تسلسل موحّد ومنسّق بين التخصصات المختلفة، يصف كيف تتم رعاية حالة مرضية معينة طبياً وتمريضياً وعلاجياً."
+p: Der Begriff des „klinischen Behandlungspfads" ist nicht einheitlich definiert. Behandlungspfade haben sich aus Verfahren im industriellen Projektmanagement entwickelt. Hier wurden in größeren Projekten (z. B. Schiffsbau) sog. Critical Pathways definiert, um Kosten und Zeit nicht aus dem Ruder laufen zu lassen. In diesen Projekten müssen verschiedene Firmen ohne kostspielige Pufferzonen koordiniert werden. Beim Hauptziel einer termingerechten Fertigstellung eines Projekts sollten diese Pfade ein frühzeitiges Erkennen von Verzögerungen in den parallelen Arbeitsschritten ermöglichen. Ein kontinuierlicher Soll-Ist-Vergleich kann Mängel in der Planung rechtzeitig offenlegen. | مصطلح "مسار العلاج السريري" ليس له تعريف موحّد. تطوّرت مسارات العلاج من أساليب إدارة المشاريع الصناعية. ففي المشاريع الكبيرة (مثل بناء السفن) تم تحديد ما يُسمّى المسارات الحرجة (Critical Pathways)، حتى لا تخرج التكاليف والوقت عن السيطرة. في هذه المشاريع يجب تنسيق شركات مختلفة دون مناطق احتياط مكلفة. ومع الهدف الرئيسي وهو إنهاء المشروع في الموعد، كان يجب أن تتيح هذه المسارات اكتشاف التأخيرات مبكراً في خطوات العمل المتوازية. والمقارنة المستمرة بين المخطَّط والواقع (Soll-Ist-Vergleich) تكشف أخطاء التخطيط في الوقت المناسب.
+p: Bei der Implementierung ins Gesundheitssystem wurden aus den Critical Pathways sog. **Clinical Pathways**. | عند إدخالها في النظام الصحي تحوّلت المسارات الحرجة إلى ما يُسمّى **المسارات السريرية (Clinical Pathways)**.
+tip: Ein klinischer Behandlungspfad bildet den Behandlungsprozess eines Patienten und seiner Symptomatik oder Erkrankung ab. Als Dokumentations- und Steuerungsinstrument stellt er eine Festlegung der Behandlung eines Patienten mit seinem individuellen Fall dar. | مسار العلاج السريري يعرض عملية علاج المريض وأعراضه أو مرضه. وبصفته أداة توثيق وتوجيه، فهو يمثّل تحديداً مسبقاً لعلاج المريض حسب حالته الفردية.
+
+## Anwendung | التطبيق
+p: „Behandlungspfade werden meist für häufige Krankheitsbilder erstellt – zum Beispiel Hüft-TEP, Appendektomie oder akutes Abdomen. Sie werden von den Kliniken selbst erstellt und basieren auf wissenschaftlichen Leitlinien und den Erfahrungen der jeweiligen Klinik. Damit schaffen sie Verlässlichkeit und Transparenz – sowohl für die Mitarbeitenden als auch für die Patientinnen und Patienten. | "تُعَدّ مسارات العلاج غالباً للأمراض الشائعة – مثل استبدال مفصل الورك الكلي (Hüft-TEP)، استئصال الزائدة (Appendektomie) أو البطن الحاد (akutes Abdomen). تضعها المستشفيات بنفسها، وتعتمد على الإرشادات العلمية وخبرات كل مستشفى. وبذلك تخلق الموثوقية والشفافية – للعاملين وللمرضى على حد سواء.
+p: Ein Behandlungspfad umfasst alle einzelnen Behandlungsstationen, die ein Patient von Aufnahme bis Entlassung durchläuft. Alle beteiligten Berufsgruppen einigen sich auf einen Behandlungsablauf. Das Team legt fest, in welcher Reihenfolge wer was bis wann und mit welchem Ziel (Ergebnis) erledigen sollte. | يشمل مسار العلاج كل محطات العلاج التي يمر بها المريض من الاستقبال حتى الخروج. تتفق جميع الفئات المهنية المشاركة على تسلسل علاج واحد. ويحدد الفريق بأي ترتيب، من يفعل ماذا، حتى متى، وبأي هدف (نتيجة)."
+
+## Ziele | الأهداف
+- Qualität und Sicherheit der Versorgung | جودة وسلامة الرعاية
+- einheitliche Abläufe (z. B. bei Operationen) | إجراءات موحدة (مثلاً في العمليات)
+- klare Aufgabenverteilung | توزيع واضح للمهام
+- Vermeidung von Informationsverlusten | تجنّب ضياع المعلومات
+
+p: Um den Behandlungspfad möglichst zweckmäßig und verständlich zu gestalten, sollte bei der Erstellung darauf geachtet werden, möglichst alle Beteiligten einzubeziehen und abzubilden. Das Ziel sollte sein, eine transparente Darstellung von Behandlungen und Maßnahmen an einem Patienten zu generieren, um die Planbarkeit eines Behandlungsprozesses sicherzustellen. Weiterhin soll der Behandlungspfad einer einfachen, einheitlichen Dokumentation dienlich sein. Wichtig ist, dass er für alle nutzbar ist. Die doppelte oder gar unnütze Dokumentation soll damit vermieden werden. Eine visuelle Darstellung des Prozesspfades hilft zudem bei der Optimierung von Prozessen. Einheitliche Arbeitsschritte, die Sicherstellung von Schnittstellenzusammenarbeit und die Vorgabe von Standards helfen bei der Minimierung von Risiken während des Behandlungsprozesses. Außerdem unterstützt dieses Dokumentations- und Steuerungsinstrument durch die übersichtliche Darstellung die Reduktion von Kosten und Verweildauer. | لكي يكون مسار العلاج عملياً ومفهوماً قدر الإمكان، يجب عند إعداده إشراك جميع المعنيين وتمثيلهم. الهدف هو عرض واضح للعلاجات والإجراءات المطبقة على المريض، لضمان إمكانية تخطيط عملية العلاج. كما يجب أن يخدم المسار توثيقاً بسيطاً وموحداً. المهم أن يكون قابلاً للاستخدام من الجميع، وبذلك يتم تجنّب التوثيق المكرر أو غير المفيد. والعرض المرئي لمسار العملية يساعد أيضاً في تحسين الإجراءات. خطوات العمل الموحدة، وضمان التعاون بين الأقسام (Schnittstellen)، ووضع المعايير، تساعد على تقليل المخاطر خلال عملية العلاج. إضافة لذلك تدعم هذه الأداة، بعرضها الواضح، تقليل التكاليف ومدة الإقامة في المستشفى (Verweildauer).
+
+## Warum sind Behandlungspfade in der Chirurgie so wichtig? | لماذا مسارات العلاج مهمة جداً في الجراحة؟
+p: Gerade in der Chirurgie müssen Abläufe schnell, präzise und sicher funktionieren. Der Weg vom Notfall bis zur Operation und Nachsorge ist komplex. Wenn an irgendeiner Stelle Informationen verloren gehen, kann das ernsthafte Folgen haben. | في الجراحة بالذات يجب أن تعمل الإجراءات بسرعة ودقة وأمان. الطريق من الطوارئ حتى العملية والمتابعة معقد. وإذا ضاعت معلومات في أي نقطة، قد تكون العواقب خطيرة.
+### Beispielhafter Behandlungspfad: Akutes Abdomen | مثال: مسار علاج البطن الحاد
+1. Aufnahme / Ersteinschätzung (Notaufnahme) | الاستقبال / التقييم الأولي (الطوارئ)
+2. Diagnostik (Labor, Bildgebung) | التشخيص (مختبر، تصوير)
+3. Präoperative Vorbereitung | التحضير قبل العملية
+4. Operation | العملية
+5. Postoperative Phase (Überwachung, Pflege) | مرحلة ما بعد العملية (مراقبة، تمريض)
+6. Entlassung / Nachsorge | الخروج / المتابعة
+p: Dieser Ablauf beschreibt den sogenannten Gesamtprozess. Innerhalb jedes Abschnitts gibt es wiederum Unterprozesse – z. B. präoperative Pflege, OP-Vorbereitung, postoperative Überwachung. Für uns in der Pflege bedeutet das: Wir müssen wissen, **an welcher Stelle im Behandlungspfad** wir uns befinden und **welche pflegerischen Aufgaben** in dieser Phase wichtig sind." | هذا التسلسل يصف ما يُسمّى العملية الكاملة. وداخل كل مرحلة توجد عمليات فرعية – مثل التمريض قبل العملية، تحضير العملية، المراقبة بعد العملية. بالنسبة لنا في التمريض يعني ذلك: يجب أن نعرف **في أي نقطة من مسار العلاج** نحن، و**ما هي المهام التمريضية** المهمة في هذه المرحلة."
+
+## Exemplarischer Behandlungspfad: Hüfttotalendoprothesenimplantation | مثال: مسار علاج زراعة مفصل الورك الكلي
+### OP-Tag | يوم العملية
+- Am Vorabend sowie morgens vor der OP Duschen mit antiseptischer Lösung, Einbringen von Nasensalbe, Trinken klarer Flüssigkeit bis 2 h vor OP möglich | في المساء السابق وصباح العملية: استحمام بمحلول مطهّر، وضع مرهم أنفي، شرب السوائل الصافية ممكن حتى ساعتين قبل العملية
+- OP-Einleitung durch Anästhesieabteilung, Gabe der AB (Antibiotika)-Prophylaxe sowie TXA (wirkt als Antifibrinolytikum, indem es die körpereigene Auflösung von Blutgerinnseln (Fibrinolyse) hemmt) – 30–60 min | بدء التخدير من قسم التخدير، إعطاء مضاد حيوي وقائي و TXA (يعمل كمضاد لانحلال الفيبرين، بمنعه الجسم من تذويب الجلطات) – 30–60 دقيقة
+- Operation – 60–90 min | العملية – 60–90 دقيقة
+- Aufwachraum: Überwachung der postoperativen Phase durch die Anästhesieabteilung, Trinken ist möglich, ggf. Wassereis – 60–90 min | غرفة الإفاقة: مراقبة ما بعد العملية من قسم التخدير، الشرب ممكن، وإذا لزم ثلج مائي – 60–90 دقيقة
+- Zurück auf der Station: Erste Mobilisation aus dem Bett durch Physiotherapie und zur Toilette durch Pflege, Essen ist frühzeitig möglich | العودة للقسم: أول تحريك من السرير عبر العلاج الطبيعي، وإلى الحمام عبر التمريض، والأكل ممكن مبكراً
+
+### Postoperative Tage | الأيام بعد العملية
+th: Bereich (wer, wann) | المجال (مين، متى) ;; 1. postoperativer Tag | اليوم الأول ;; 2.–4. postoperativer Tag | اليوم 2–4
+tr: **Visite** – Operateur, Stationsarzt, Pflege · 07:00–08:00 | الزيارة الطبية ;; Stationsvisite am Patientenbett | زيارة عند سرير المريض ;; Stationsvisite am Patientenbett; 5.–6. Tag: Überleitung in AHB nach Erreichen der Entlasskriterien möglich | زيارة عند السرير؛ يوم 5–6: تحويل لإعادة التأهيل (AHB) بعد تحقيق معايير الخروج
+tr: **Untersuchung** – Pflege · 07:30–08:30 | الفحص ;; Laborkontrolle (kl. BB, E-Lyte, CRP) | فحص مختبر (تعداد دم صغير، أملاح، CRP) ;; Laborkontrolle bei Bedarf | فحص مختبر عند الحاجة
+tr: **Körperpflege, Mobilität** – Pflege, Pflegeschüler/-in · 08:30–10:00 | العناية الجسدية والحركة ;; Mobilisation am hohen Gehwagen, Wechsel auf UAGs; Körperpflege ggf. noch im Bett bzw. im Bad mit Unterstützung | تحريك بالمشاية العالية ثم عكازات الساعد؛ العناية في السرير أو بالحمام بمساعدة ;; Mobilisation an UAGs, Mobilisation zum Bad, zunehmend selbständige Körperpflege | تحريك بالعكازات، المشي للحمام، عناية ذاتية متزايدة
+tr: **Physiotherapie** – Physio-, Ergotherapie · 09:00–12:00 | العلاج الطبيعي ;; Atemtherapie, durchblutungsfördernde Übungen; Information zu Verhaltensweisen und Hilfsmittelbestellung; Gangschule auf Zimmerebene; Anleitung zu Eigenübungen im Bett | علاج تنفسي، تمارين للدورة الدموية؛ معلومات عن السلوك وطلب الوسائل المساعدة؛ تدريب مشي داخل الغرفة؛ تمارين ذاتية بالسرير ;; Gelenkmobilisation und Muskelkräftigung im Bett; Anleitung zur Selbständigkeit: Gebrauch der Hilfsmittel, Lagewechsel, Gehen mit Stützen etc.; Gangschule außerhalb des Zimmers, Treppensteigen, ggf. „Trainings-Parcours" | تحريك المفصل وتقوية العضلات؛ إرشاد للاستقلالية: الوسائل المساعدة، تغيير الوضعية، المشي بالعكازات؛ مشي خارج الغرفة، صعود الدرج، "مسار تدريبي"
+tr: **Schmerzmanagement, Schmerzabfrage, Bedarfsmedikation** – Pflege · 3× tgl. | إدارة الألم ;; Schmerzabfrage anhand VAS (Visuelle Analogskala); ggf. Anpassen der Medikation | سؤال الألم بمقياس VAS؛ تعديل الأدوية عند اللزوم ;; Schmerzabfrage anhand VAS; ggf. Anpassen der Medikation | نفس الشيء
+tr: **Wundmanagement** – Stationsarzt · 07:00–08:00 | إدارة الجرح ;; Wundkontrolle durch das Wabenpflaster; ggf. Drainagezug (falls verwendet) | فحص الجرح عبر اللاصق الشبكي؛ سحب الدرنقة إن وُجدت ;; Wundkontrolle durch das Wabenpflaster | فحص الجرح عبر اللاصق الشبكي
+tr: **Thromboseprophylaxe**, blutgerinnungshemmende Injektion – Pflege · 18:00 | الوقاية من الجلطات ;; Verabreichung durch die Pflegekraft; Einweisung in die selbständige Durchführung | إعطاؤها من الممرض؛ تعليم المريض إعطاءها بنفسه ;; Verabreichung durch die Pflegekraft; erneute Einweisung in die selbständige Durchführung | إعطاؤها من الممرض؛ تعليم متكرر
+
+## Wofür wird ein Behandlungspfad verwendet? | لشو يُستخدم مسار العلاج؟
+p: Ein Behandlungspfad wird verwendet, damit alle Berufsgruppen (Ärzte, Pflege, Physiotherapie, Anästhesie) nach demselben Plan arbeiten. Er legt fest, wer was wann macht – von der Aufnahme bis zur Entlassung. So werden Fehler und Informationsverluste vermieden, die Qualität und Sicherheit steigen, die Dokumentation wird einfacher, und Kosten sowie Verweildauer sinken. Für die Pflege ist er eine Orientierung: Man weiß immer, in welcher Phase der Patient ist und welche pflegerischen Aufgaben jetzt wichtig sind. | يُستخدم مسار العلاج حتى تعمل كل الفئات المهنية (أطباء، تمريض، علاج طبيعي، تخدير) حسب نفس الخطة. هو يحدد مين بيعمل شو ومتى – من الاستقبال حتى الخروج. وبهيك بنتجنب الأخطاء وضياع المعلومات، بترتفع الجودة والأمان، بيصير التوثيق أسهل، وبتقل التكاليف ومدة الإقامة. وبالنسبة للتمريض هو دليل: دايماً بتعرف المريض بأي مرحلة، وشو المهام التمريضية المهمة هلأ.
+
+gallery: bp-seite | Original-Arbeitsblatt (Scan) | ورقة العمل الأصلية
+
+@page impuls | Impulsfrage & Rolle der Pflege | السؤال التمهيدي ودور التمريض | LF 5.2 Behandlungspfad / مسار العلاج
+# Unterrichtsfolien: Chirurgische Versorgungsabläufe | شرائح الدرس: مسارات الرعاية الجراحية
+## 1. Impulsfrage | سؤال تمهيدي
+q: „Was passiert mit einem Patienten vom ersten Krankenhauskontakt bis zur Entlassung nach einer Operation?" | "ماذا يحدث للمريض من أول تواصل مع المستشفى حتى خروجه بعد العملية؟"
+### Lösung | الحل
+p: Aufnahme → Diagnostik → Operationsvorbereitung → Operation → Postoperative Pflege → Entlassung | الاستقبال ← التشخيص ← تحضير العملية ← العملية ← التمريض بعد العملية ← الخروج
+note: Film: „Geplante Operation: Von der Aufnahme bis zur Entlassung" – Kliniken im Naturpark Altmühltal | فيلم: "عملية مخططة: من الاستقبال حتى الخروج" – مستشفيات Naturpark Altmühltal
+
+## 2. Fallbeispiel Herr M. | حالة السيد M
+p: „Stellt euch bitte einmal vor, auf der chirurgischen Station wird ein Patient eingeliefert – Herr M., 54 Jahre, starke Bauchschmerzen, blass, kaltschweißig. Die Notaufnahme ruft an: ‚Akutes Abdomen, kommt gleich hoch!'" | "تخيلوا أن مريضاً يُنقل إلى قسم الجراحة – السيد M، 54 سنة، آلام بطن شديدة، شاحب، عرق بارد. الطوارئ تتصل: 'بطن حاد، طالع هلأ!'"
+- Was ist euer erster Gedanke, wenn ihr den Begriff „akutes Abdomen" hört? | ما أول فكرة لديكم عند سماع "بطن حاد"؟
+- Was passiert jetzt bei euch auf Station? | ماذا يحدث الآن عندكم في القسم؟
+- Welche Schritte folgen nacheinander? | ما الخطوات التي تتبع بالترتيب؟
+- Wer ist alles beteiligt, bis der Patient operiert wird? | من المشارك حتى تُجرى العملية للمريض؟
+- Welche Aufgabe hat die Pflege in solch einer Situation? | ما دور التمريض في مثل هذا الموقف؟
+tip: Die Lösung steht auf der Seite „Herr M. – akutes Abdomen". | الحل موجود بصفحة "السيد M – البطن الحاد".
+
+## 3. Definition Behandlungspfad | تعريف مسار العلاج
+p: „In der modernen Medizin arbeiten viele Berufsgruppen Hand in Hand. Damit alle wissen, was wann zu tun ist, gibt es sogenannte Behandlungspfade. Ein Behandlungspfad ist ein standardisierter, interdisziplinär abgestimmter Ablauf, der beschreibt, wie ein bestimmter Krankheitsfall medizinisch, pflegerisch und therapeutisch versorgt wird." | "في الطب الحديث تعمل فئات مهنية كثيرة يداً بيد... مسار العلاج هو تسلسل موحّد ومنسّق بين التخصصات، يصف كيف تتم رعاية حالة مرضية معينة طبياً وتمريضياً وعلاجياً."
+
+## 4. Rolle der Pflege im Behandlungspfad | دور التمريض في مسار العلاج
+p: „Pflegekräfte sind in allen Phasen beteiligt – von der Aufnahme bis zur Entlassung. Unsere Aufgaben unterscheiden sich je nach Phase, aber sie sind immer entscheidend für den Verlauf." | "الممرضون مشاركون في كل المراحل – من الاستقبال حتى الخروج. مهامنا تختلف حسب المرحلة، لكنها دائماً حاسمة لمسار العلاج."
+th: Phase | المرحلة ;; Pflegerische Aufgaben | المهام التمريضية
+tr: Aufnahme | الاستقبال ;; Pflegeanamnese, Vitalzeichen, Schmerzeinschätzung, Information geben, Dokumentation, Vorbereitung | السيرة التمريضية، العلامات الحيوية، تقييم الألم، إعطاء المعلومات، التوثيق، التحضير
+tr: Präoperative Vorbereitung | التحضير قبل العملية ;; Nüchternheit prüfen, Hautvorbereitung, Begleitung zur OP, Schmuck ablegen | التأكد من الصيام، تحضير الجلد، مرافقة المريض للعملية، نزع المجوهرات
+tr: Operation | العملية ;; Übergabe an OP-Team, SBAR, Dokumentation | التسليم لفريق العمليات، SBAR، التوثيق
+tr: Postoperativ | بعد العملية ;; Überwachung, Schmerzmanagement, Wundkontrolle, Mobilisation | المراقبة، إدارة الألم، فحص الجرح، التحريك
+tr: Entlassung | الخروج ;; Beratung, Wundpflege erklären, Entlassbrief, Entlassungsmanagement | الاستشارة، شرح العناية بالجرح، رسالة الخروج، إدارة الخروج
+
+## 5. Zentraler Aspekt | النقطة الأساسية
+tip: „Damit Pflege gut funktioniert, brauchen wir klare Informationen. Deshalb ist die Pflegeanamnese am Beginn des Behandlungspfades so wichtig. Sie liefert die Basis für alle weiteren Schritte." | "لكي يعمل التمريض بشكل جيد، نحتاج معلومات واضحة. لذلك السيرة التمريضية في بداية مسار العلاج مهمة جداً. فهي الأساس لكل الخطوات التالية."
+
+## 6. Aufgaben | المهام
+- Bearbeiten Sie das Arbeitsblatt „Herr M. – akutes Abdomen" | حل ورقة العمل "السيد M – بطن حاد"
+- Gruppenarbeit: Bilden Sie 6 Gruppen und bearbeiten Sie das Ihnen zugewiesene Thema | عمل جماعي: كوّنوا 6 مجموعات واشتغلوا على الموضوع المخصص لكم
+
+gallery: impuls-seite | Original-Folien (Ausdruck) | الشرائح الأصلية

@@ -1,0 +1,164 @@
+@page g2 | Gruppe 2 – Hüft-TEP | استبدال مفصل الورك | Gruppenarbeit / العمل الجماعي
+# Gruppe 2 – Hüft-TEP | استبدال مفصل الورك الكلي
+p: *Simon, Luca & Charlize*
+note: Eine Hüft-TEP ist ein künstlicher Ersatz des ganzen Hüftgelenks (Kopf + Pfanne), meist bei Arthrose oder Schenkelhalsfraktur. Ziel: weniger Schmerzen, mehr Beweglichkeit. | هو مفصل ورك صناعي كامل (الرأس + الحُق)، غالباً بسبب خشونة المفصل أو كسر عنق الفخذ. الهدف: ألم أقل وحركة أفضل.
+img: g2-folie03 | Hüftprothese | مفصل الورك الصناعي
+## Was ist eine Hüft-TEP? | ما هو؟
+- Künstlicher Ersatz des Hüftgelenks | بديل صناعي لمفصل الورك
+- Einsatz z. B. bei fortgeschrittener Coxarthrose | يُستخدم مثلاً في خشونة الورك المتقدمة
+- Ziel: Schmerzen reduzieren und Beweglichkeit verbessern | الهدف: تقليل الألم وتحسين الحركة
+- Geschädigte Gelenkanteile werden ersetzt | تُستبدل أجزاء المفصل التالفة
+## Gründe für eine Hüft-TEP | أسباب العملية
+- Fortgeschrittene Hüftarthrose (Coxarthrose) | خشونة ورك متقدمة
+- Starke bzw. anhaltende Schmerzen | ألم شديد أو مستمر
+- Deutliche Bewegungseinschränkungen | محدودية حركة واضحة
+- Einschränkung der Lebensqualität und Alltagsaktivitäten | تراجع جودة الحياة والأنشطة اليومية
+- Konservative Behandlung wie Medikamente, Physiotherapie und Bewegung reicht nicht mehr aus | العلاج المحافظ (أدوية، علاج طبيعي، حركة) لم يعد كافياً
+- Außerdem: mediale Schenkelhalsfraktur bei > 65 Jahren, insbesondere TEP bei zusätzlich bestehender Coxarthrose | وأيضاً كسر عنق الفخذ الإنسي فوق 65 سنة، خصوصاً مع وجود خشونة
+## Frakturen des proximalen Femurs | كسور أعلى عظم الفخذ
+- Hüftgelenknahe Frakturen | كسور قريبة من مفصل الورك
+- Häufig bei älteren Menschen | شائعة عند كبار السن
+- Meist nach Sturz | غالباً بعد سقوط
+- Bei jüngeren Menschen eher nach schwerem Trauma | عند الشباب غالباً بعد إصابة قوية
+## Ziele der Behandlung | أهداف العلاج
+1. Stabile Hüftgelenksituation wiederherstellen | إعادة ثبات المفصل
+2. Anatomische Gelenkverhältnisse herstellen | إعادة الوضع التشريحي للمفصل
+3. Operative Versorgung innerhalb von 24 Stunden | العملية خلال 24 ساعة
+4. Mobilität frühzeitig wiedererlangen | استعادة الحركة مبكراً
+5. Komplikationen und Folgeerkrankungen vermeiden (Thrombose, Lungenembolie, Pneumonie, Dekubitus, Immobilität) | تجنّب المضاعفات (جلطة، انصمام رئوي، التهاب رئة، قرحة فراش، عدم حركة)
+img: g2-folie06 | Ziele der Behandlung | أهداف العلاج
+## Diagnostik | التشخيص
+- Röntgen: Beckenübersicht + betroffene Hüfte | أشعة للحوض كامل + الورك المصاب
+- Thorax-Röntgen und EKG | أشعة صدر وتخطيط قلب
+- Labor: kleines Blutbild, Gerinnung, Kreatinin, Blutzucker, Urinstatus | تعداد دم صغير، تخثر، كرياتينين، سكر، فحص بول
+- Anamnese und körperliche Untersuchung | السيرة والفحص الجسدي
+- Medikamentenanamnese – besonders Antikoagulation beachten | سؤال عن الأدوية – خاصة مميعات الدم
+## Formen und operative Versorgung | أنواع الكسور وطريقة العلاج
+th: Fraktur | الكسر ;; Versorgung | العلاج
+tr: Mediale Schenkelhalsfraktur > 65 J. | كسر عنق إنسي فوق 65 ;; DEP, bei Coxarthrose TEP | مفصل جزئي، ومع خشونة مفصل كامل
+tr: Mediale Schenkelhalsfraktur < 65 J. | كسر عنق إنسي تحت 65 ;; kopferhaltende Osteosynthese | تثبيت مع الحفاظ على رأس الفخذ
+tr: Laterale Schenkelhalsfraktur | كسر عنق وحشي ;; Intertan-Nagel oder DHS | مسمار Intertan أو برغي ورك ديناميكي
+tr: Pertrochantäre Fraktur | كسر عبر المدوّر ;; Intertan-Nagel | مسمار Intertan
+tr: Subtrochantäre Fraktur | كسر تحت المدوّر ;; langer Intertan-Nagel | مسمار Intertan طويل
+warn: Wichtig: OP-Fähigkeit möglichst schnell herstellen. | مهم: تجهيز المريض للعملية بأسرع وقت.
+## Präoperative Vorbereitung | التحضير قبل العملية
+- Aufklärung und Einwilligungsfähigkeit beachten | الشرح والانتباه لأهلية الموافقة
+- Ruhigstellung in Schaumstofflagerungsschiene | تثبيت الساق في جبيرة إسفنجية
+- Thromboseprophylaxe | وقاية من الجلطات
+- Körperreinigung | تنظيف الجسم
+- Rasur/Clipping im OP-Vorraum | حلاقة/قص الشعر في غرفة ما قبل العمليات
+- ggf. Urinkatheter | قسطرة بولية إذا لزم
+- Antibiotikaprophylaxe | مضاد حيوي وقائي
+- geriatrisches Screening ab 70 Jahren bzw. bei Hinweis auf kognitive Einschränkung | فحص شيخوخة من 70 سنة أو عند شك بضعف إدراكي
+## Nachbehandlung | العلاج بعد العملية
+- postoperative Schmerztherapie | علاج الألم
+- DEP/TEP ab dem 1. Tag belastungsfähig | المفصل الجزئي/الكامل يتحمّل الوزن من اليوم الأول
+- Belastung bei Osteosynthesen abhängig vom Verfahren | التحميل بعد التثبيت حسب الطريقة
+- konsequente Thromboseprophylaxe | وقاية صارمة من الجلطات
+- postoperative Röntgenkontrolle | أشعة متابعة
+- frühzeitige Einbindung des Sozialdienstes | إشراك الخدمة الاجتماعية مبكراً
+- Anschlussheilbehandlung (AHB) einleiten | بدء إعادة التأهيل اللاحق
+## Physiotherapie und Mobilisation | العلاج الطبيعي والتحريك
+p: Ab dem 1. postoperativen Tag: | من اليوم الأول بعد العملية:
+- Atemgymnastik | تمارين تنفس
+- Bewegungstherapie im Bett | تمارين حركة في السرير
+- Aufstehen und Belastung erproben | تجربة الوقوف والتحميل
+- frühestmöglich Gehen mit Gehstützen | المشي بالعكازات بأقرب وقت
+- intensive Gehschule | تدريب مشي مكثف
+- Ziel: persönliche Unabhängigkeit wiedererlangen | الهدف: استعادة الاستقلالية
+## Wichtig nach der OP | مهم بعد العملية
+- Bewegungsübungen regelmäßig durchführen | تمارين حركة بانتظام
+- Beweglichkeit fördern, Muskulatur aktivieren | تحسين المرونة وتنشيط العضلات
+- Übungen langsam und kontrolliert durchführen | التمارين ببطء وتحكّم
+- Belastungs- und Bewegungsvorgaben beachten | الالتزام بتعليمات التحميل والحركة
+- Ziel: Mobilität und Selbstständigkeit fördern | الهدف: الحركة والاستقلالية
+img: g2-folie12 | Übungen nach der OP | تمارين بعد العملية
+## Wund- und Verlaufskontrolle | مراقبة الجرح والمسار
+- regelmäßige Verbandwechsel ab dem 2. postoperativen Tag | تغيير الضماد بانتظام من اليوم الثاني
+- Drainagen nach Fördermenge entfernen | سحب الدرنقة حسب كمية الإفراز
+- Fäden ab dem 12. postoperativen Tag entfernen | فك الغرز من اليوم 12
+- Labor: 1. Tag kleines Blutbild; 7. Tag kleines Blutbild + Urinstatus | مختبر: يوم 1 تعداد دم صغير؛ يوم 7 تعداد دم + فحص بول
+## Mögliche Komplikationen | المضاعفات
+- Nachblutung | نزيف
+- Thrombose / Lungenembolie | جلطة / انصمام رئوي
+- Infektion, Wundheilungsstörung | عدوى، اضطراب التئام الجرح
+- Prothesenluxation | خلع المفصل الصناعي
+- Implantatversagen / Implantatbruch | فشل/كسر الزرعة
+- Ausbruch oder Dislokation von Osteosynthese- oder Prothesenmaterial | انخلاع أو تزحزح مواد التثبيت أو المفصل
+- Schmerzen und Immobilität | ألم وعدم حركة
+## Komplikationen erkennen | اكتشاف المضاعفات
+- **Nachblutung:** engmaschige Hb-, RR- und Pulskontrolle | نزيف: مراقبة متقاربة للهيموغلوبين والضغط والنبض
+- **Frühinfekt:** Blutbild, Temperatur und lokale Wundkontrolle auf Schmerz, Rötung, Ödem und Schwellung | عدوى مبكرة: تعداد دم، حرارة، فحص الجرح (ألم، احمرار، وذمة، تورّم)
+- **Prothesenluxation:** sofortige Reposition erforderlich | خلع المفصل: إرجاعه فوراً
+## Besonderheiten | خصوصيات
+- Einsatz: häufig bei Schenkelhalsfrakturen älterer Patienten | غالباً عند كسر عنق الفخذ لكبار السن
+- Teilweiser Gelenkersatz: Hüftkopf wird ersetzt, Hüftpfanne bleibt erhalten | استبدال جزئي: يُستبدل رأس الفخذ ويبقى الحُق
+- Frühmobilisation: möglichst ab dem 1. postoperativen Tag | تحريك مبكر من اليوم الأول
+- Belastung: häufig sofortige Vollbelastung nach ärztlicher Anordnung | تحميل كامل فوري غالباً حسب الطبيب
+- Luxationsgefahr: bestimmte Bewegungen je nach Operationszugang vermeiden | خطر الخلع: تجنب حركات معينة حسب مدخل العملية
+- Thromboseprophylaxe: Medikamente und frühzeitige Bewegung | أدوية وحركة مبكرة
+- Wundkontrolle: auf Rötung, Schwellung, Schmerzen und Nachblutungen achten | احمرار، تورم، ألم، نزيف
+- Physiotherapie: Gehtraining und Muskelaufbau | تدريب مشي وبناء عضلات
+- Besonderes Risiko: langfristiger Verschleiß der natürlichen Hüftpfanne | خطر خاص: تآكل الحُق الطبيعي على المدى الطويل
+fix: Diese Folie beschreibt eigentlich die **DEP** (Teilprothese): Kopf wird ersetzt, Pfanne bleibt. Bei der **TEP** werden Kopf **und** Pfanne ersetzt. | الكلام بهالشريحة بيوصف الـ **DEP** (المفصل الجزئي) مش الـ TEP. بالـ TEP بيتبدلوا الاثنين: الرأس والحُق.
+## Entlassung und Weiterbehandlung | الخروج والمتابعة
+- Entlassung nach Abschluss der Wundheilung | الخروج بعد التئام الجرح
+- vorläufiger Entlassungsbericht bei direkter Verlegung in die Reha | تقرير خروج مؤقت عند النقل المباشر للتأهيل
+- wichtige Inhalte: Diagnose/Behandlung, Wundsituation, Belastungsfähigkeit, Belastungskonzept und Begleitmedikation | التشخيص/العلاج، حالة الجرح، قدرة التحمّل، خطة التحميل، الأدوية المرافقة
+- weitere Röntgenkontrollen je nach Operationsverfahren | أشعة متابعة حسب نوع العملية
+- Rehabilitation / AHB | إعادة تأهيل
+## Alltag nach der Hüft-TEP | الحياة اليومية بعد العملية
+- Alltagsaktivitäten schrittweise steigern | زيادة الأنشطة تدريجياً
+- Treppensteigen wird bereits in der Klinik geübt | صعود الدرج يُتدرّب عليه في المستشفى
+- Autofahren erst bei ausreichender Beweglichkeit und Sicherheit | القيادة فقط مع حركة وأمان كافيين
+- Rückkehr zur Arbeit abhängig von Tätigkeit und Heilungsverlauf | العودة للعمل حسب نوعه ومسار الشفاء
+- Sportliche Aktivitäten schrittweise wieder aufnehmen | العودة للرياضة تدريجياً
+- Hilfsmittel bei Bedarf weiterhin nutzen | استخدام الوسائل المساعدة عند الحاجة
+## Fazit | الخلاصة
+tip: Schnelle Diagnostik → Zeitnahe Operation → Komplikationen vermeiden → Schmerzen behandeln → Früh mobilisieren → Selbstständigkeit fördern. Ziel: sichere Rückkehr in einen möglichst selbstständigen Alltag. | تشخيص سريع ← عملية قريبة ← تجنب المضاعفات ← علاج الألم ← تحريك مبكر ← دعم الاستقلالية. الهدف: عودة آمنة لحياة يومية مستقلة قدر الإمكان.
+gallery: g2-folie | Alle Folien der Präsentation | كل شرائح العرض
+
+@page g3 | Gruppe 3 – Frakturversorgung | علاج الكسور | Gruppenarbeit / العمل الجماعي
+# Gruppe 3 – Frakturversorgung | علاج الكسور
+note: Eine Fraktur ist ein Knochenbruch. Sie wird entweder konservativ (Gips/Schiene) oder operativ (Osteosynthese mit Platten, Schrauben, Nägeln) versorgt. Wichtigste Pflegeaufgabe: regelmäßige DMS-Kontrolle. | الكسر هو انقطاع في العظم. يُعالج إما بشكل محافظ (جبس/جبيرة) أو جراحياً (تثبيت بصفائح، براغي، مسامير). أهم مهمة تمريضية: فحص DMS بانتظام.
+## 1. Krankheitsbild / Indikation / Pathophysiologie | وصف المرض / الدواعي / الفيزيولوجيا المرضية
+- **Krankheitsbild:** Unterbrechung der Knochenkontinuität durch traumatische Einwirkung (z. B. Sturz, Unfall) oder pathologische Ursachen. | انقطاع استمرارية العظم بسبب إصابة (سقوط، حادث) أو أسباب مرضية
+- **Indikation:** Dislozierte, instabile oder offene Knochenbrüche (z. B. distale Radiusfraktur, Femurfraktur). | كسور متزحزحة، غير ثابتة أو مفتوحة (مثل كسر نهاية الكعبرة، كسر الفخذ)
+- **Pathophysiologie:** Gewebeschädigung mit Hämatombildung, Entzündungsreaktion, Kallusbildung und anschließender Knochenremodellierung. | تضرر النسيج مع ورم دموي، ثم رد فعل التهابي، ثم تكوّن الدُّشبُذ (Kallus)، ثم إعادة بناء العظم
+## 2. Aufnahme | الاستقبال
+- Administrative Erfassung der Patientendaten und des Unfallhergangs. | التسجيل الإداري لبيانات المريض وكيفية حدوث الإصابة
+- Erstbegutachtung: Erfassung der Vitalzeichen (RR, Puls, SpO₂, Temperatur). | التقييم الأولي: ضغط، نبض، أكسجين، حرارة
+- DMS-Kontrolle: Überprüfung von Durchblutung, Motorik und Sensibilität an der betroffenen Extremität. | فحص DMS: التروية، الحركة، والإحساس في الطرف المصاب
+## 3. Diagnostik | التشخيص
+- Bildgebung: Röntgen der betroffenen Extremität in 2 Ebenen; ggf. CT/MRT bei komplexen oder Gelenkfrakturen. | أشعة للطرف المصاب من اتجاهين، وطبقي/رنين للكسور المعقدة أو المفصلية
+- Labor: Blutbild, Gerinnungsstatus (Quick/INR, PTT), Elektrolyte, Nierenwerte, Blutgruppe (bei OP-Indikation). | تعداد دم، تخثر، أملاح، وظائف كلى، زمرة دم (عند الحاجة لعملية)
+- Anästhesieaufklärung und EKG. | شرح التخدير وتخطيط قلب
+## 4. Präoperative Pflege | التمريض قبل العملية
+- **Nüchternheit:** keine feste Nahrung ab 6 Std., klare Flüssigkeiten bis 2 Std. vor OP. | لا أكل صلب قبل 6 ساعات، سوائل صافية حتى ساعتين قبل العملية
+- **Ruhigstellung:** Sachgerechte Lagerung / Schienung der Fraktur zur Schmerzreduktion und Gewebeschonung. | وضعية صحيحة / جبيرة لتقليل الألم وحماية النسيج
+- **Vorbereitung:** Hautdesinfektion/OP-Vorbereitung, Schmuck/Prothesen entfernen, Thromboseprophylaxe (MTS/NMH). | تعقيم الجلد، نزع المجوهرات/الأطقم، وقاية من الجلطات (جوارب ضاغطة / هيبارين منخفض الوزن الجزيئي)
+## 5. Operation (Chirurgische Versorgung) | العملية
+- **Konservativ:** Reposition und Ruhigstellung im Gips / Schiene. | محافظ: إرجاع العظم لمكانه وتثبيته بالجبس/الجبيرة
+- **Operativ (Osteosynthese):** offene oder geschlossene Reposition; Fixierung mittels Platten, Schrauben, Marknägeln oder Fixateur externe. | جراحي: إرجاع مفتوح أو مغلق؛ تثبيت بصفائح، براغي، مسامير نخاعية أو مثبّت خارجي
+## 6. Postoperative Pflege | التمريض بعد العملية
+- **Überwachung:** Vitalzeichen, Bewusstseinslage und Schmerzintensität (NRS-Skala). | علامات حيوية، الوعي، شدة الألم (مقياس NRS)
+- **Wund- & Verbandskontrolle:** Kontrolle auf Nachblutungen, Schwellung und intakte Drainagen. | نزيف لاحق، تورّم، سلامة الدرنقة
+- **Regelmäßige DMS-Kontrolle:** stündliche Prüfung von Durchblutung, Motorik und Sensibilität. | فحص DMS كل ساعة
+- **Lagerung & Mobilisation:** Hochlagerung der Extremität; Frühmobilisation nach physiotherapeutischer Anleitung. | رفع الطرف؛ تحريك مبكر حسب العلاج الطبيعي
+## 7. Besonderheiten / Komplikationen | خصوصيات / مضاعفات
+warn: **NOTFALL – Kompartmentsyndrom:** Gewebedruckanstieg in den Muskellogen. Leitsymptome: starke, therapieresistente Schmerzen, Spannungsgefühl, Taubheitsgefühl, Blässe. Sofortige Arztinformation! | **طوارئ – متلازمة الحيّز:** ارتفاع الضغط داخل حجرات العضلات. الأعراض: ألم شديد لا يستجيب للعلاج، شعور بالشد، خدر، شحوب. إبلاغ الطبيب فوراً!
+- Weitere Komplikationen: Wundinfektion, Thrombose / Lungenembolie, Pseudarthrose (Falschgelenkbildung). | التهاب الجرح، جلطة / انصمام رئوي، مفصل كاذب (عدم التحام الكسر)
+## 8. Entlassung | الخروج
+- Abschließendes Entlassgespräch und Aushändigung des Arztbriefes. | حديث الخروج وتسليم رسالة الطبيب
+- Rezeptierung von Analgetika und Antikoagulation (Thromboseprophylaxe). | وصفة مسكنات ومميعات
+- Anleitung: Verbandwechsel, Pflegetipps für Gips/Wunde, Nachsorge beim niedergelassenen Arzt/Orthopäden. | تعليم: تغيير الضماد، العناية بالجبس/الجرح، المتابعة عند الطبيب أو أخصائي العظام
+## Begriffe | مصطلحات
+- **DMS** = **D**urchblutung, **M**otorik, **S**ensibilität: Farbe, Temperatur und Puls der Extremität; kann der Patient die Finger/Zehen bewegen; spürt er sie? | التروية، الحركة، الإحساس: لون الطرف وحرارته ونبضه، هل يحرّك أصابعه، وهل يحس فيها؟
+- **Kompartmentsyndrom:** Blutung oder Schwellung im Muskel erhöht den Druck, Muskeln und Nerven werden nicht mehr durchblutet. Ohne schnelle Behandlung stirbt der Muskel ab. | النزيف أو التورم داخل العضلة بيرفع الضغط فبيوقف الدم عن العضلات والأعصاب. إذا ما انعالج بسرعة العضلة بتموت.
+## Anmerkungen | ملاحظات
+fix: **Struktur:** „Konservativ: Gips" steht unter „Operation" – konservativ ist keine OP. Besser: „Therapie (konservativ / operativ)". | العلاج المحافظ مش عملية. الأصح يكون العنوان "Therapie (konservativ / operativ)".
+fix: **Kompartmentsyndrom:** Es fehlt die wichtigste Maßnahme: **Gips/Verband sofort lockern bzw. spalten** und die Extremität **nicht über Herzniveau** lagern (verschlechtert die Durchblutung). | ناقص أهم إجراء: فك أو قص الجبس/الضماد فوراً، والطرف ما يترفع فوق مستوى القلب عند الاشتباه.
+fix: **Offene Fraktur:** Antibiotikagabe + Tetanusschutz prüfen. | الكسر المفتوح: مضاد حيوي + التأكد من لقاح الكزاز.
+fix: **Fettembolie** fehlt (v. a. bei Frakturen langer Röhrenknochen wie Femur): Atemnot, Verwirrtheit, punktförmige Hautblutungen. | ناقص الانصمام الدهني، خاصة بكسور العظام الطويلة: ضيق نفس، تشوّش، نقاط نزيف صغيرة على الجلد.
+fix: **Gipskontrolle** fehlt: Gips auf Druckstellen und zu engen Sitz kontrollieren. | ناقص فحص الجبس لنقاط الضغط وإذا كان ضيق.
+img: gruppe3-blatt | Original-Ausarbeitung der Gruppe 3 | ورقة المجموعة 3 الأصلية
