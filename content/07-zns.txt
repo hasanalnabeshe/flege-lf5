@@ -31,7 +31,7 @@ p: Nicht im Text, aber im Bild: verbindet die rechte und linke Großhirnhälfte.
 p: Sie besteht hauptsächlich aus den Zellkörpern von Nervenzellen und ist für die Verarbeitung von Informationen zuständig. Sie ist ein wesentlicher Bestandteil der Gehirnrinde (Cortex) und bildet im Rückenmark eine innere, schmetterlingsförmige Struktur, die von der weißen Substanz umgeben ist. | تتكون أساساً من أجسام الخلايا العصبية ومسؤولة عن معالجة المعلومات. جزء أساسي من القشرة المخية، وبالنخاع الشوكي تشكّل بنية داخلية على شكل فراشة محاطة بالمادة البيضاء.
 ## Weiße Substanz | المادة البيضاء
 p: Sie besteht hauptsächlich aus den myelinisierten Nervenfasern (Axonen) von Nervenzellen und ist für die schnelle Signalübertragung zwischen Gehirnregionen und dem Rückenmark verantwortlich. Ihre weiße Farbe erhält sie durch das fettreiche Myelin, eine isolierende Hülle, die die Leitungsgeschwindigkeit der Nervenimpulse erhöht. | تتكون من الألياف العصبية (المحاور) المغلّفة بالميالين، ومسؤولة عن نقل الإشارات بسرعة بين مناطق الدماغ والنخاع. لونها الأبيض من الميالين الغني بالدهون، وهو غلاف عازل بيزيد سرعة النبضات.
-img: ns-nervenzelle | Aufbau einer motorischen Nervenzelle – die Myelinscheide macht die weiße Substanz weiß | بنية الخلية العصبية – غمد الميالين هو اللي بيعطي المادة البيضاء لونها
+img: ns-nervenzelle-original | Aufbau einer motorischen Nervenzelle (Original-Arbeitsblatt) – die Myelinscheide macht die weiße Substanz weiß | بنية الخلية العصبية – غمد الميالين هو اللي بيعطي المادة البيضاء لونها
 note: Aufgabe: Bearbeiten Sie das Arbeitsblatt „Ausmalen nach Zahlen". | المهمة: اشتغل على ورقة "التلوين حسب الأرقام" (هي صورة الدماغ المرقّمة).
 
 @page rm | ZNS – Rückenmark, Häute, Liquor, PNS | النخاع الشوكي، الأغشية، السائل، المحيطي | LF 5.3 Nervensystem / الجهاز العصبي
