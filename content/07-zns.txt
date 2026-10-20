@@ -54,7 +54,7 @@ tip: Die hemmenden Bahnen sind dieselben „absteigenden hemmenden Bahnen" aus d
 
 # Hirn- und Rückenmarkshäute | أغشية الدماغ والنخاع الشوكي
 p: Gehirn und Rückenmark werden von 3 Bindegewebshüllen (Meningen) umgeben. | الدماغ والنخاع محاطين بـ 3 أغشية (السحايا).
-img: zns-haeute | Aufgabe: Beschriften Sie das Bild – von außen nach innen: Haut, Periost, Knochen, Dura mater, Arachnoidea, Pia mater | المهمة: اكتب الأسماء – من برا لجوا: جلد، سمحاق، عظم، الأم الجافية، العنكبوتية، الأم الحنون
+img: zns-haeute | Hirn- und Rückenmarkshäute – von außen nach innen: Haut, Knochenhaut (Periost), Knochen, Dura mater, Arachnoidea, Pia mater | أغشية الدماغ والنخاع – من برا لجوا: جلد، سمحاق العظم، عظم، الأم الجافية، العنكبوتية، الأم الحنون
 p: Es gibt drei Rückenmarkshäute, die von außen nach innen folgendermaßen angeordnet sind: | ثلاثة أغشية مرتبة من الخارج للداخل:
 th: Haut | الغشاء ;; Beschreibung | الوصف
 tr: **Dura mater** (harte Hirn- und Rückenmarkshaut) | الأم الجافية ;; Die äußerste und dickste Schicht. Sie besteht aus dichtem, faserigem Bindegewebe und bildet eine schützende Hülle um das Rückenmark und das Gehirn. | الطبقة الأبعد والأسمك، من نسيج ضام ليفي كثيف، وتشكّل غلاف حماية حول النخاع والدماغ
