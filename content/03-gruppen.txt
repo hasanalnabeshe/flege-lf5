@@ -1,47 +1,6 @@
-@page gruppen | Gruppenarbeit – Auftrag | العمل الجماعي – المهمة | Gruppenarbeit / العمل الجماعي
-# Gruppenarbeit zu verschiedenen Krankheitsbildern | عمل جماعي حول صور مرضية مختلفة
-- Bilden Sie 6 Gruppen | كوّنوا 6 مجموعات
-- Beschreiben Sie den typischen Ablauf einer chirurgischen Versorgung in Form eines Behandlungspfades! | صِفوا التسلسل النموذجي للرعاية الجراحية على شكل مسار علاج!
-## Die Themen | المواضيع
-th: Gruppe | المجموعة ;; Thema | الموضوع
-tr: Gruppe 1 ;; Cholezystektomie | استئصال المرارة
-tr: Gruppe 2 ;; Hüft-TEP | استبدال مفصل الورك الكلي
-tr: Gruppe 3 ;; Frakturversorgung | علاج الكسور
-tr: Gruppe 4 ;; Hernien-OP | عملية الفتق
-tr: Gruppe 5 ;; Appendektomie | استئصال الزائدة الدودية
-tr: Gruppe 6 ;; Chirurgisches Débridement | التنظيف الجراحي للجرح (إزالة الأنسجة الميتة)
-## Arbeitsauftrag | المهمة
-p: Erstellen Sie zu Ihrem Thema eine Übersicht (Plakat oder digital): | اعملوا لموضوعكم ملخصاً (ملصق أو رقمي):
-- Beschreibung des Krankheitsbildes / Indikation / Pathophysiologie usw. | وصف المرض / دواعي العملية / الفيزيولوجيا المرضية إلخ
-- Aufnahme | الاستقبال
-- Diagnostik | التشخيص
-- Präoperative Pflege | التمريض قبل العملية
-- Operation | العملية
-- Postoperative Pflege | التمريض بعد العملية
-- Besonderheiten / Komplikationen | خصوصيات / مضاعفات
-- Entlassung | الخروج
-## Präsentation der Ergebnisse | عرض النتائج
-p: Ziel: Vertiefung der gelernten Inhalte und Förderung der Fachkommunikation. | الهدف: تعميق المحتوى المُتعلَّم وتعزيز التواصل المهني.
-## One Minute Wonder
-p: Erstellen Sie zu Ihrem Thema ein One Minute Wonder mit den wichtigsten Informationen auf einen Blick. | اعملوا لموضوعكم "One Minute Wonder" – ورقة واحدة فيها أهم المعلومات بنظرة سريعة (بتنقرأ بدقيقة).
-img: gruppenarbeit-blatt | Arbeitsblatt Gruppenarbeit | ورقة العمل الجماعي
-
-@page g1 | Gruppe 1 – Cholezystektomie | استئصال المرارة | Gruppenarbeit / العمل الجماعي
+@page g1 | Gruppe 1 – Cholezystektomie | استئصال المرارة | Gruppenarbeit – Rolle der Pflege / دور التمريض بالمجموعات
 # Gruppe 1 – Cholezystektomie | استئصال المرارة
-p: *Kimberly, Lena, Grace*
 note: Die Cholezystektomie ist die operative Entfernung der Gallenblase, meist wegen Gallensteinen oder Entzündung. Standard ist die laparoskopische OP (Schlüssellochtechnik). | هي إزالة المرارة جراحياً، غالباً بسبب حصى أو التهاب. الطريقة المعيارية هي المنظار (عبر فتحات صغيرة).
-## Was ist die Gallenblase? | ما هي المرارة؟
-- Kleines Organ unterhalb der Leber | عضو صغير تحت الكبد
-- Speichert und konzentriert Gallenflüssigkeit | تخزّن العصارة الصفراوية وتركّزها
-- Gibt Galle zur Fettverdauung in den Dünndarm ab | تفرز الصفراء للأمعاء الدقيقة لهضم الدهون
-## Krankheitsbild und Indikation | الصورة المرضية ودواعي العملية
-p: Cholezystektomie = operative Entfernung der Gallenblase | استئصال المرارة = إزالتها جراحياً
-p: Gallensteine (Cholezystolithiasis) → Verlegung des Ductus cysticus → Gallenstau → Entzündung: akute Cholezystitis | حصى المرارة ← انسداد القناة المرارية ← ركود الصفراء ← التهاب مرارة حاد
-th: Symptome | الأعراض ;; Weitere Komplikationen | مضاعفات أخرى ;; Indikationen | الدواعي
-tr: kolikartige Schmerzen im rechten bzw. mittleren Oberbauch | آلام مغصية أعلى البطن يميناً أو بالوسط ;; Cholangitis | التهاب القنوات الصفراوية ;; symptomatische Cholezystolithiasis | حصى مع أعراض
-tr: Ausstrahlung in Rücken oder rechte Schulter | انتشار للظهر أو الكتف الأيمن ;; biliäre Pankreatitis | التهاب بنكرياس سببه الصفراء ;; akute Cholezystitis | التهاب حاد
-tr: ;; Gallenblasenempyem | تقيّح المرارة ;; Komplikationen des Gallensteinleidens | مضاعفات الحصى
-tr: ;; Perforation | انثقاب ;; Polypen bzw. erhöhtes Karzinomrisiko | سلائل أو خطر سرطان مرتفع
 ## Aufnahme | الاستقبال
 1. Vitalzeichen kontrollieren | قياس العلامات الحيوية
 2. Schmerzen erfassen: Lokalisation, Intensität, Charakter | تقييم الألم: المكان، الشدة، النوع
@@ -52,27 +11,12 @@ tr: ;; Perforation | انثقاب ;; Polypen bzw. erhöhtes Karzinomrisiko | س�
 7. Venösen Zugang legen | وضع خط وريدي
 8. Patient über den Ablauf des Aufenthalts informieren | إعلام المريض بمسار الإقامة
 9. Nüchternheit beachten | الالتزام بالصيام
-## Diagnostik vor der Operation | التشخيص قبل العملية
-- **Sonografie:** Nachweis von Gallensteinen, Beurteilung der Gallenblase und der Gallengänge | إثبات الحصى، تقييم المرارة والقنوات الصفراوية
-- **Labor:** Blutbild, Elektrolyte, Kreatinin, Leberstatus, Gerinnung mit Quick, PTT, Blutgruppe, CRP | تعداد دم، أملاح، كرياتينين، وظائف كبد، تخثر (Quick, PTT)، زمرة دم، CRP
-- **Weitere Untersuchungen:** MRCP, ERCP – je nach Befund | رنين للقنوات الصفراوية / تنظير القنوات، حسب النتائج
 ## Präoperative Pflege | التمريض قبل العملية
 p: Ziel: Operationsfähigkeit sicherstellen und den Patienten vorbereiten | الهدف: ضمان جاهزية المريض للعملية وتحضيره
 th: Information und Sicherheit | المعلومات والأمان ;; Körperliche Vorbereitung | التحضير الجسدي ;; Schutz und OP-Bereitschaft | الحماية والجاهزية
 tr: Ablauf erklären, Fragen beantworten | شرح المسار والإجابة على الأسئلة ;; Nüchternheit | الصيام ;; OP- und Anästhesievorbereitung | تحضير للعملية والتخدير
 tr: Angst und Unsicherheit wahrnehmen | ملاحظة الخوف والقلق ;; Vitalzeichen kontrollieren; Medikamente nach Anordnung | علامات حيوية؛ أدوية حسب الأمر ;; Schmuck, Piercings, Zahnersatz ablegen | نزع المجوهرات والبيرسنغ وطقم الأسنان
 tr: OP-Unterlagen und Einwilligungen prüfen | التحقق من أوراق العملية والموافقات ;; Körperpflege nach Hausstandard; Ausscheidung ermöglichen | نظافة حسب معيار المستشفى؛ تمكين الإخراج ;; Prophylaxen | الإجراءات الوقائية
-p: Die laparoskopische Cholezystektomie ist heute das Standardverfahren; offen wird nur in bestimmten Situationen operiert. | الاستئصال بالمنظار هو الطريقة المعيارية اليوم؛ الجراحة المفتوحة فقط في حالات معينة.
-## Laparoskopische Cholezystektomie | الاستئصال بالمنظار
-1. Allgemeinanästhesie, Zugang über mehrere kleine Hautschnitte | تخدير عام، دخول عبر عدة شقوق صغيرة
-2. Kamera und Operationsinstrumente einbringen | إدخال الكاميرا والأدوات
-3. Gallenblasenhilus darstellen | كشف عنق المرارة
-4. Ductus cysticus und A. cystica verschließen und durchtrennen | إغلاق وقطع القناة المرارية والشريان المراري
-5. Gallenblase aus dem Leberbett lösen | فصل المرارة عن سرير الكبد
-6. Gallenblase entfernen | إخراج المرارة
-7. Kontrolle auf Blutung und Galleaustritt | فحص النزيف وتسرّب الصفراء
-8. Zugänge verschließen | إغلاق الفتحات
-p: Offene Operation: größerer Bauchschnitt, nur in bestimmten Situationen. | العملية المفتوحة: شق بطني أكبر، فقط في حالات معينة.
 ## Postoperative Überwachung | المراقبة بعد العملية
 - Vitalzeichen kontrollieren | علامات حيوية
 - Bewusstseinslage beobachten | مراقبة الوعي
@@ -87,17 +31,6 @@ p: Offene Operation: größerer Bauchschnitt, nur in bestimmten Situationen. | �
 - **Mobilisation:** möglichst frühzeitig, nach ärztlicher Vorgabe; Thromboseprophylaxe; Atemprophylaxe; Kreislauf beobachten | أبكر ما يمكن حسب الطبيب؛ وقاية من الجلطات؛ وقاية تنفسية؛ مراقبة الدورة الدموية
 - **Ernährung:** Kostaufbau nach Anordnung und Verträglichkeit; auf Übelkeit, Erbrechen und Bauchbeschwerden achten | إعادة الأكل تدريجياً حسب الأمر والتحمّل؛ انتباه للغثيان والإقياء وشكاوى البطن
 - **Wundversorgung:** kleine laparoskopische Wunden beobachten; auf Entzündungszeichen achten | مراقبة جروح المنظار الصغيرة؛ الانتباه لعلامات الالتهاب
-## Mögliche Komplikationen | المضاعفات المحتملة
-- Nachblutung | نزيف لاحق
-- Wundinfektion | التهاب الجرح
-- Intraabdominelle Infektion | عدوى داخل البطن
-- Galleleck / Gallefistel | تسرّب صفراء / ناسور
-- Verletzung der Gallenwege | إصابة القنوات الصفراوية
-- Verletzung benachbarter Organe | إصابة أعضاء مجاورة
-- Gallenstau bzw. verbliebene Gallengangsteine | ركود صفراء أو حصى متبقية
-- Postoperative Schmerzen, Übelkeit / Erbrechen | ألم، غثيان / إقياء بعد العملية
-- Thrombose / Embolie, Pneumonie | جلطة / انصمام، التهاب رئوي
-warn: Besonders relevant: Gallenwegsverletzung | الأهم: إصابة القنوات الصفراوية
 ## Warnzeichen für die Pflege | علامات الخطر للتمريض
 - Zunehmende oder starke Bauchschmerzen | ألم بطن متزايد أو شديد
 - Fieber | حرارة
@@ -115,6 +48,3 @@ tr: Mobilität und Nahrungsaufnahme berücksichtigen | مراعاة الحركة
 tr: Verhalten nach der OP gemäß ärztlicher Empfehlung erklären | شرح السلوك بعد العملية ;; Gelbfärbung von Haut / Skleren | اصفرار الجلد/العين
 tr: Medikamente und weitere Termine besprechen | مناقشة الأدوية والمواعيد ;; auffällige Wundsekretion | إفرازات جرح غير طبيعية
 tr: Entlassungsunterlagen mitgeben; sicherer Übergang nach Hause | إعطاء أوراق الخروج؛ انتقال آمن للبيت ;; Wundbeobachtung erklären | شرح مراقبة الجرح
-## Fazit | الخلاصة
-tip: Die Cholezystektomie ist ein häufiger chirurgischer Eingriff. Durch die Entfernung der Gallenblase werden Beschwerden und Komplikationen durch Gallensteine oder Entzündungen verhindert. Eine normale Lebensführung ist danach in der Regel möglich. | استئصال المرارة عملية شائعة. بإزالتها تُمنع الشكاوى والمضاعفات الناتجة عن الحصى أو الالتهاب. وعادةً تكون الحياة الطبيعية ممكنة بعدها.
-gallery: g1-folie | Alle Folien der Präsentation | كل شرائح العرض

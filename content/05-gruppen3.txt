@@ -1,38 +1,6 @@
-@page g4 | Gruppe 4 – Hernien-OP | عملية الفتق | Gruppenarbeit / العمل الجماعي
+@page g4 | Gruppe 4 – Hernien-OP | عملية الفتق | Gruppenarbeit – Rolle der Pflege / دور التمريض بالمجموعات
 # Gruppe 4 – Hernien-OP | عملية الفتق
-p: *Siji, Jean & Calista*
 note: Eine Hernie (Bruch) ist eine Ausstülpung des Bauchfells durch eine Lücke in der Bauchwand. Die OP verschließt diese Lücke. Gefährlich wird es, wenn Darm eingeklemmt wird. | الفتق هو بروز غشاء البطن من فتحة ضعيفة في جدار البطن. العملية تغلق هذه الفتحة. الخطر إذا انحصرت الأمعاء.
-## Was ist eine Hernien-OP? | ما هي عملية الفتق؟
-- Eine Hernie wird umgangssprachlich auch Bruch genannt. | الفتق يُسمى بالعامية "Bruch"
-- Dabei stülpt sich das Bauchfell durch eine Lücke in der Bauchwand. | يبرز غشاء البطن من فتحة في جدار البطن
-- In dieser Ausstülpung können sich Teile von Bauchorganen befinden. | قد يحتوي البروز على أجزاء من أعضاء البطن
-- Eine Hernien-OP ist die operative Behandlung eines solchen Bruchs. | عملية الفتق هي العلاج الجراحي له
-- Dabei wird die Bruchstelle operativ versorgt. | يتم إصلاح مكان الفتق جراحياً
-- Ziel ist es, Beschwerden und gefährliche Komplikationen zu vermeiden. | الهدف: تجنب الشكاوى والمضاعفات الخطيرة
-## Krankheitsbild und Entstehung | الصورة المرضية والنشوء
-- Eine Hernie besteht aus Bruchpforte, Bruchsack und Bruchinhalt. | يتكون الفتق من: بوابة الفتق، كيس الفتق، محتوى الفتق
-- Die Bruchpforte ist die Lücke, durch die sich das Bauchfell vorwölbt. | البوابة هي الفتحة التي يبرز منها الغشاء
-- Der Bruchsack wird vom Bauchfell gebildet. | الكيس يتكون من غشاء البطن
-- Der Bruchinhalt kann aus Teilen von Bauchorganen bestehen. | المحتوى قد يكون أجزاء من الأعضاء
-- Hernien können angeboren oder erworben sein. | الفتق قد يكون خلقياً أو مكتسباً
-- Ursachen erworbener Hernien sind unter anderem Bindegewebsschwäche und erhöhter Druck im Bauchraum. | أسباب المكتسب: ضعف النسيج الضام وزيادة الضغط داخل البطن
-## Formen und Symptome | الأنواع والأعراض
-th: Form | النوع ;; Häufigkeit | النسبة
-tr: Leistenhernie | فتق إربي ;; ca. 80 % (häufigste Form) | ~80% (الأكثر شيوعاً)
-tr: Schenkelhernie | فتق فخذي ;; ca. 10 %
-tr: Nabelhernie | فتق سُرّي ;; ca. 5 %
-tr: Andere Hernienformen | أنواع أخرى ;; ca. 5 %
-- Typisch ist eine sichtbare oder tastbare Schwellung. | نموذجياً: تورّم مرئي أو محسوس
-- Es können ziehende Schmerzen bei Bewegung oder Belastung auftreten. | ألم شادّ عند الحركة أو الجهد
-- Beim Husten oder Niesen kann die Schwellung deutlicher werden. | يزداد التورم وضوحاً عند السعال أو العطس
-## Wann ist eine Operation notwendig? | متى تلزم العملية؟
-- Eine Hernie kann operativ behandelt werden. | يمكن علاج الفتق جراحياً
-- Eine **reponible** Hernie lässt sich zurückdrücken. | القابل للرد: يمكن إرجاعه
-- Eine **irreponible** Hernie lässt sich nicht zurückdrücken. | غير القابل للرد: لا يرجع
-- Bei einer **inkarzerierten** Hernie ist Gewebe eingeklemmt. | المختنق: نسيج محصور
-- Dadurch kann die Durchblutung des Gewebes gestört werden. | فتضطرب تروية النسيج
-- Im schlimmsten Fall kann Darmgewebe absterben. | وفي أسوأ الحالات يموت نسيج الأمعاء
-warn: Eine eingeklemmte Hernie ist deshalb ein medizinischer Notfall. | لذلك الفتق المختنق حالة طوارئ.
 ## Aufnahme des Patienten | استقبال المريض
 - Patienten begrüßen und über den Ablauf informieren. | الترحيب بالمريض وإعلامه بالمسار
 - Pflegeanamnese durchführen. | إجراء السيرة التمريضية
@@ -55,12 +23,6 @@ warn: Eine eingeklemmte Hernie ist deshalb ein medizinischer Notfall. | لذلك
 - Vitalzeichen und Schmerzen kontrollieren. | مراقبة العلامات الحيوية والألم
 - Patienten informieren und bei Unsicherheiten unterstützen. | إعلام المريض ودعمه عند القلق
 - Begleitung und Übergabe zum OP organisieren. | تنظيم المرافقة والتسليم للعمليات
-## Operation | العملية
-- Die Hernie wird operativ versorgt. | يُعالج الفتق جراحياً
-- Der Bruchinhalt wird, soweit möglich, zurückverlagert. | يُعاد المحتوى لمكانه قدر الإمكان
-- Die Bruchstelle wird chirurgisch behandelt. | يُصلح مكان الفتق
-- Ziel ist es, weitere Beschwerden und Komplikationen zu verhindern. | الهدف منع الشكاوى والمضاعفات
-- Die operative Versorgung wird als Herniotomie bezeichnet. | تُسمى العملية Herniotomie
 ## Postoperative Pflege | التمريض بعد العملية
 - Patienten nach der Operation beobachten. | مراقبة المريض
 - Vitalzeichen regelmäßig kontrollieren. | علامات حيوية بانتظام
@@ -69,13 +31,6 @@ warn: Eine eingeklemmte Hernie ist deshalb ein medizinischer Notfall. | لذلك
 - Patienten bei der Mobilisation unterstützen. | مساعدة المريض بالحركة
 - Auf Veränderungen und mögliche Komplikationen achten. | الانتباه للتغيرات والمضاعفات
 - Pflegemaßnahmen dokumentieren. | توثيق الإجراءات التمريضية
-## Besonderheiten und Komplikationen | خصوصيات ومضاعفات
-- **Obstipationsprophylaxe:** Verstopfung möglichst vermeiden. | الوقاية من الإمساك
-- **Schweres Heben vermeiden:** Bauchwand nicht unnötig belasten. | تجنب حمل الأوزان الثقيلة
-- Eine Einklemmung kann die Durchblutung des Darms beeinträchtigen. | الاختناق يضر تروية الأمعاء
-- Es kann zu einem mechanischen Ileus (Darmverschluss) kommen. | قد يحدث انسداد أمعاء ميكانيكي
-- Eine weitere Gefahr ist die Darmnekrose (Absterben von Darmgewebe). | خطر آخر: موت نسيج الأمعاء
-- Auffällige Beschwerden müssen sofort weitergegeben werden. | الشكاوى غير الطبيعية تُبلَّغ فوراً
 ## Entlassung und Nachsorge | الخروج والمتابعة
 - Patienten über wichtige Verhaltensregeln informieren. | إعلام المريض بقواعد السلوك المهمة
 - Auf das Vermeiden von schwerem Heben hinweisen. | التنبيه لتجنب حمل الثقيل
@@ -83,52 +38,15 @@ warn: Eine eingeklemmte Hernie ist deshalb ein medizinischer Notfall. | لذلك
 - Auf Beschwerden und Veränderungen aufmerksam machen. | التنبيه للشكاوى والتغيرات
 - Fragen des Patienten beantworten. | الإجابة على الأسئلة
 - Wichtige Informationen und Pflegemaßnahmen dokumentieren. | توثيق المعلومات والإجراءات
-## Zusammenfassung | الخلاصة
-- Eine Hernie ist eine Ausstülpung des Bauchfells durch eine Bruchpforte. | الفتق بروز للغشاء عبر بوابة الفتق
-- Die häufigste Form ist die Leistenhernie. | الأشيع: الفتق الإربي
-- Eine eingeklemmte Hernie kann lebensgefährlich werden. | الفتق المختنق قد يهدد الحياة
-- Die operative Behandlung dient der Versorgung der Bruchstelle. | العملية تُصلح مكان الفتق
-- Die Pflege begleitet den Patienten von der Aufnahme bis zur Entlassung. | التمريض يرافق المريض من الاستقبال للخروج
-- Nach der OP sind besonders die Beobachtung, Obstipationsprophylaxe und das Vermeiden von schwerem Heben wichtig. | بعد العملية: المراقبة، منع الإمساك، تجنب الثقيل
-gallery: g4-folie | Alle Folien der Präsentation | كل شرائح العرض
 
-@page g5 | Gruppe 5 – Appendektomie | استئصال الزائدة | Gruppenarbeit / العمل الجماعي
+@page g5 | Gruppe 5 – Appendektomie | استئصال الزائدة | Gruppenarbeit – Rolle der Pflege / دور التمريض بالمجموعات
 # Gruppe 5 – Appendektomie | استئصال الزائدة الدودية
 note: Appendizitis ist eine Entzündung des Wurmfortsatzes. Die Appendektomie (Entfernung) erfolgt laparoskopisch oder konventionell (offen). Bei Perforation droht Peritonitis. | التهاب الزائدة الدودية. تُزال بالمنظار أو بجراحة مفتوحة. إذا انفجرت يحدث خطر التهاب الصفاق.
-## Appendizitis – Krankheitsbild | الصورة المرضية
-p: Appendizitis: Entzündung des Wurmfortsatzes (Appendix) | التهاب الزائدة الدودية
-- Häufigstes Auftreten: 10.–30. Lebensjahr | الأكثر بين 10 و30 سنة
-- Auslöser: Koprolithen, geschwollene Lymphfollikel, Fremdkörper, Parasiten oder anatomische Abknickung | حصى برازية، عقد لمفاوية متورمة، أجسام غريبة، طفيليات، أو انثناء تشريحي
-- **Symptome:** zunächst viszeraler Schmerz im Oberbauch/Nabelbereich, später somatischer Schmerz im rechten Unterbauch; Übelkeit, Erbrechen, Fieber, Inappetenz | أولاً ألم حشوي أعلى البطن/حول السرة، لاحقاً ألم أسفل البطن يميناً؛ غثيان، إقياء، حرارة، فقدان شهية
-- 4 Stadien: katarrhalisch → phlegmonös → seropurulent → gangränös/perforiert | 4 مراحل: نزلي ← فلغموني ← مصلي قيحي ← غنغريني/مثقوب
-- Indikation Appendektomie: akute, chronische/rezidivierende oder perforierte Appendizitis, Peritonitis, Abszess, Tumorverdacht | التهاب حاد، مزمن/متكرر أو مثقوب، التهاب صفاق، خراج، اشتباه ورم
-- Die Appendix liegt am Übergang von Dünn- zu Dickdarm. | تقع الزائدة عند انتقال الأمعاء الدقيقة للغليظة
-img: g5-folie02 | Lage der Appendix | موقع الزائدة
 ## Aufnahme in der Notaufnahme | الاستقبال في الطوارئ
 - Patient kommt in der Regel als Notfall in die Notaufnahme | يأتي المريض عادةً كحالة طارئة
 - Ersteinschätzung durch PFK: Symptomatik & Schmerzassessment, visuelle Einschätzung, Vitalparameter | تقييم أولي من الممرض: الأعراض وتقييم الألم، تقييم بالنظر، العلامات الحيوية
 - Sofortbehandlung bei: akutem Abdomen, septischem Kreislauf, unerträglichen/kaltschweißigen Schmerzen | علاج فوري عند: بطن حاد، دورة دموية إنتانية، ألم لا يُحتمل مع عرق بارد
 - Administrative Notaufnahme-Erfassung | التسجيل الإداري
-## Diagnostik – obligate Maßnahmen | التشخيص – إجراءات إلزامية
-- Anamnese & Inspektion | السيرة والمعاينة
-- Auskultation | الإصغاء بالسماعة
-- Systematische Palpation | الجسّ المنهجي
-- Schmerzpunkt-Evaluation: McBurney-Punkt und Lanz-Punkt | تقييم نقاط الألم: نقطة ماكبرني ونقطة لانز
-- Reiz- und Provokationstests: Blumberg-, Rovsing- und Psoas-Zeichen | اختبارات التحريض: علامة بلومبرغ، روفسينغ، البسواس
-- Blut: Leukozyten & CRP | دم: كريات بيضاء و CRP
-- Urin: Elektrolyte & Gerinnung (so auf der Folie) | بول: أملاح وتخثر (حسب الشريحة)
-- Sonographie | سونار
-- Röntgen-Thorax, EKG | أشعة صدر، تخطيط قلب
-fix: „Urin: Elektrolyte & Gerinnung" ist falsch – Elektrolyte und Gerinnung sind **Blut**werte, keine Urinwerte. | الأملاح والتخثر فحوصات **دم** مش بول.
-img: g5-folie04 | Druckpunkte (McBurney, Lanz) | نقاط الألم
-## Diagnostik – fakultative Maßnahmen & Befunde | إجراءات اختيارية ونتائج
-- Urologische Konsiliaruntersuchung | استشارة مسالك بولية
-- CT, MRT | طبقي، رنين
-- Gynäkologische Untersuchungen, Schwangerschaftstest | فحوصات نسائية، اختبار حمل
-- Leber-/Nierenwerte | وظائف كبد/كلى
-th: Form | الشكل ;; Befund | النتيجة
-tr: Phlegmonöse Appendizitis | التهاب فلغموني ;; reine Entzündung des Gewebes, Organ intakt, lokalisiert im rechten Unterbauch | التهاب نسيج فقط، العضو سليم، موضعي أسفل البطن يميناً
-tr: Perforierte Appendizitis | زائدة مثقوبة ;; Gewebe stirbt ab, Blinddarmdurchbruch, Ausbreitung im gesamten Bauchraum | موت النسيج، انفجار الزائدة، انتشار في كامل البطن
 ## Präoperative Pflege – Vorbereitung | التحضير قبل العملية
 - Aufklärung & Einwilligung: konventionelle/laparoskopische Appendektomie | شرح وموافقة: مفتوحة أو بالمنظار
 - Anästhesieaufklärung | شرح التخدير
@@ -141,11 +59,6 @@ tr: Perforierte Appendizitis | زائدة مثقوبة ;; Gewebe stirbt ab, Blin
 - Piercings/Schmuck entfernen | نزع البيرسنغ/المجوهرات
 - Keine Abführmaßnahmen | لا مُليّنات أو حقن شرجية
 - Prämedikation nach ärztlicher Anordnung | أدوية ما قبل العملية حسب الطبيب
-## Operativer Ablauf | سير العملية
-th: Laparoskopisch | بالمنظار ;; Konventionell (offen) | مفتوحة
-tr: Intubationsnarkose; Rückenlagerung | تخدير مع تنبيب؛ استلقاء على الظهر ;; Rückenlagerung | استلقاء على الظهر
-tr: Semizirkuläre Inzision am kaudalen Nabelrand; Optiktrokar | شق نصف دائري أسفل السرة؛ مبزل الكاميرا ;; Schnittführung: Wechsel- oder Pararektalschnitt rechts | شق متبادل أو بجانب العضلة المستقيمة يميناً
-tr: Arbeitstrokare im Unterbauch links & rechts | مبازل العمل أسفل البطن يساراً ويميناً ;; Abschluss: Kontrolle auf Blutungen/Kontamination; bei komplizierter Appendizitis ggf. Spülung & Drainage | الختام: فحص النزيف/التلوث؛ في الحالات المعقدة غسل ودرنقة
 ## Postoperative Pflege | التمريض بعد العملية
 th: 1. Tag | اليوم الأول ;; 2. Tag | اليوم الثاني
 tr: Patient vom Aufwachraum zur Station; Monitoring & Dokumentation der Vitalparameter | من الإفاقة للقسم؛ مراقبة وتوثيق العلامات الحيوية ;; Bei phlegmonöser Appendizitis: Normalkost | في الالتهاب الفلغموني: أكل عادي
@@ -153,46 +66,14 @@ tr: Blutbildkontrolle; Schmerzassessment & -therapie | تعداد دم؛ تقي�
 tr: Frühmobilisation; Fortsetzung der Thromboseprophylaxe | تحريك مبكر؛ استمرار الوقاية من الجلطات ;; Erster Verbandswechsel | أول تغيير ضماد
 tr: Schonkost | أكل خفيف ;; Erster Stuhlgang wird erwartet | يُتوقع أول تبرز
 tr: Vitalparameter überwachen; Darmgeräusche abhören | مراقبة العلامات؛ الإصغاء لأصوات الأمعاء ;; Bei perforierter Appendizitis: Robinsondrainage je nach Sekretionsmenge ziehen | عند الانثقاب: سحب درنقة روبنسون حسب الإفراز
-## Besonderheiten & Komplikationen | خصوصيات ومضاعفات
-- **Nachblutungen:** sofortige Revision & Hämatomausräumung | نزيف لاحق: إعادة عملية فوراً وإزالة الورم الدموي
-- **Stumpfinsuffizienz:** sofortige Revision | تسرّب من جذع الزائدة: إعادة عملية فوراً
-- **Perityphlitischer Abszess/Peritonitis:** Einlage einer Drainage, ggf. Spülung des Abdomens | خراج حول الأعور/التهاب صفاق: درنقة، وغسل البطن إذا لزم
-- **Bauchdeckenabszess:** Wundspreizung & Teilfädenentfernung | خراج جدار البطن: فتح الجرح وإزالة بعض الغرز
 ## Entlassung & weitere Versorgung | الخروج والمتابعة
 - Weiterbehandlung durch den Hausarzt | المتابعة عند طبيب العائلة
 - Vorläufiger Entlassungsbericht für den Patienten | تقرير خروج مؤقت
 - Informationen zu: Wund- & Körperpflege, körperlicher Belastung, Warnzeichen, Medikamenteneinnahme, Kontrollterminen | معلومات عن: العناية بالجرح والجسم، الجهد البدني، علامات الخطر، الأدوية، مواعيد المتابعة
-## Behandlungspfad auf einen Blick | المسار بنظرة
-1. Aufnahme – Notaufnahme, Ersteinschätzung | الاستقبال – الطوارئ، التقييم الأولي
-2. Diagnostik – Klinik, Labor, Bildgebung | التشخيص – الفحص، المختبر، التصوير
-3. Präoperativ – Aufklärung, Nüchternheit, OP-Vorbereitung | قبل العملية – الشرح، الصيام، التحضير
-4. Operation – laparoskopisch oder konventionell | العملية – بالمنظار أو مفتوحة
-5. Postoperativ – Monitoring, Mobilisation, Schmerztherapie | بعد العملية – مراقبة، تحريك، علاج الألم
-6. Entlassung – Wundpflege, Warnzeichen, Kontrollen | الخروج – العناية بالجرح، علامات الخطر، المتابعة
-gallery: g5-folie | Alle Folien der Präsentation | كل شرائح العرض
 
-@page g6 | Gruppe 6 – Débridement | التنظيف الجراحي | Gruppenarbeit / العمل الجماعي
+@page g6 | Gruppe 6 – Débridement | التنظيف الجراحي | Gruppenarbeit – Rolle der Pflege / دور التمريض بالمجموعات
 # Gruppe 6 – Chirurgisches Débridement | التنظيف الجراحي للجرح
 note: Beim Débridement wird totes oder infiziertes Gewebe aus einer Wunde entfernt, damit sie heilen kann. Typisch bei chronischen Wunden wie Dekubitus oder diabetischem Fuß. | هو إزالة النسيج الميت أو الملتهب من الجرح حتى يقدر يلتئم. شائع في الجروح المزمنة مثل قرحة الفراش والقدم السكرية.
-p: Vom Aufnahmetag bis zur Entlassung – die Rolle der Pflege in jeder Phase | من يوم الاستقبال حتى الخروج – دور التمريض في كل مرحلة
-## Was ist ein Débridement? | ما هو؟
-p: Entfernung von abgestorbenem, infiziertem Gewebe, Belägen und Fremdkörpern aus einer Wunde – bis ins gesunde, gut durchblutete Gewebe. | إزالة النسيج الميت والملتهب والطبقات والأجسام الغريبة من الجرح – حتى الوصول لنسيج سليم جيد التروية.
-- Débridement (franz.) = „Entfesselung" – die Wunde wird von allem befreit, was die Heilung blockiert. | بالفرنسية "فك القيود" – يتحرر الجرح من كل ما يمنع الشفاء
-- **Ziel:** saubere, gut durchblutete Wunde. Erst dann kann die Wundheilung beginnen. | الهدف: جرح نظيف جيد التروية. فقط بعدها يبدأ الالتئام
-## Krankheitsbild und Indikation | متى ولماذا؟
-th: Chronische oder infizierte Wunden | جروح مزمنة أو ملتهبة ;; Warum entfernen? | لماذا الإزالة؟
-tr: Dekubitus (Druckgeschwür) | قرحة الفراش ;; Nekrosen und Beläge blockieren neues Gewebe | النسيج الميت يمنع النسيج الجديد
-tr: Diabetisches Fußsyndrom | القدم السكرية ;; Totes Gewebe ist Nährboden für Bakterien | بيئة للبكتيريا
-tr: Ulcus cruris (offenes Bein) | قرحة الساق ;; Infektion kann sich ausbreiten → Sepsis-Gefahr | العدوى قد تنتشر ← خطر تسمم الدم
-tr: Abszess, Verbrennung | خراج، حرق ;; Nur eine saubere Wunde kann heilen | فقط الجرح النظيف يلتئم
-## Der Behandlungspfad im Überblick | المسار بنظرة
-1. Aufnahme: Wunde erfassen und dokumentieren | تقييم وتوثيق الجرح
-2. Diagnostik: Abstrich, Labor, Gefäße | مسحة، مختبر، أوعية
-3. Präoperative Pflege: Vorbereiten, Schmerz lindern | تحضير، تخفيف الألم
-4. Operation: Nekrosen entfernen, spülen | إزالة النسيج الميت، غسل
-5. Postoperative Pflege: Überwachen, Verband | مراقبة، ضماد
-6. Entlassung: Überleitung, Schulung | تحويل، تعليم
-p: Pflegekräfte sind in allen Phasen beteiligt – ihre Aufgaben unterscheiden sich, sind aber immer entscheidend für den Verlauf. | الممرضون مشاركون بكل المراحل – مهامهم مختلفة لكن دائماً حاسمة
 ## Phase 1 – Aufnahme | الاستقبال
 th: Wundanamnese | سيرة الجرح ;; Wunddoku | توثيق الجرح ;; Risiken | المخاطر
 tr: Ursache der Wunde | السبب ;; Größe und Tiefe | الحجم والعمق ;; Schmerz (Skala) | الألم (مقياس)
@@ -210,28 +91,14 @@ tr: Nüchtern bei Narkose | صيام عند التخدير ;; Schmerzmittel vorh
 tr: Einwilligung prüfen | التحقق من الموافقة ;; Blutzucker kontrollieren | فحص السكر ;; Schmuck ab | نزع المجوهرات
 tr: OP-Checkliste | قائمة فحص العملية ;; Vitalzeichen messen | قياس العلامات الحيوية ;; Identität & Seite prüfen | التحقق من الهوية وجهة العملية
 warn: Débridement ist schmerzhaft – Analgesie rechtzeitig vorher! | التنظيف مؤلم – المسكن قبله بوقت كافٍ!
-## Phase 4 – Operation | العملية
-- **Ort:** im OP oder am Patientenbett – je nach Größe und Tiefe der Wunde | في غرفة العمليات أو عند السرير – حسب حجم وعمق الجرح
-- **Vorgehen:** Skalpell, scharfer Löffel, Schere; Abtragen bis ins gesunde, blutende Gewebe | مشرط، ملعقة حادة، مقص؛ الإزالة حتى النسيج السليم النازف
-- **Danach:** gründliche Wundspülung; ggf. Gewebeprobe; ggf. Vakuumtherapie | غسل الجرح جيداً؛ عينة نسيج؛ علاج بالشفط إذا لزم
-tip: VAC / NPWT: Unterdruck saugt Sekret ab und fördert die Durchblutung. | علاج الضغط السلبي: يشفط الإفراز ويحسّن التروية.
 ## Phase 5 – Postoperative Pflege | التمريض بعد العملية
 th: Überwachung | المراقبة ;; Wunde | الجرح ;; Heilung fördern | دعم الشفاء
 tr: Schmerz einschätzen und behandeln | تقييم الألم وعلاجه ;; Aseptischer Verbandwechsel | تغيير ضماد معقم ;; Eiweißreiche Ernährung | تغذية غنية بالبروتين
 tr: Nachblutung früh erkennen | اكتشاف النزيف مبكراً ;; Infektzeichen: Rötung, Wärme, Fieber | علامات العدوى: احمرار، حرارة موضعية، حمى ;; Druckentlastung, Lagerung | تخفيف الضغط، تغيير الوضعية
 tr: Vitalzeichen | العلامات الحيوية ;; VAC: Sog & Dichtigkeit | جهاز الشفط: قوة الشفط والإحكام ;; Wunddokumentation | توثيق الجرح
 warn: Veränderungen sofort dem Arzt melden und dokumentieren. | أي تغيير يُبلَّغ للطبيب فوراً ويُوثّق.
-## Besonderheiten & Komplikationen | خصوصيات ومضاعفات
-- **Blutung:** Abtragen bis ins gesunde Gewebe → Nachblutung möglich | الإزالة حتى السليم ← نزيف لاحق ممكن
-- **Schmerzen:** Eingriff ist schmerzhaft → Analgesie vorher und danach | الإجراء مؤلم ← مسكن قبله وبعده
-- **Infektion bis Sepsis:** Fieber, Tachykardie, Verwirrtheit sofort melden | حرارة، تسرّع قلب، تشوّش: إبلاغ فوري
-- **Wiederholung nötig:** Oft sind mehrere Débridements erforderlich | غالباً يلزم أكثر من تنظيف
-- Außerdem: Verletzung gesunder Strukturen (Sehnen, Gefäße, Nerven) möglich. | وأيضاً: إصابة أنسجة سليمة (أوتار، أوعية، أعصاب) ممكنة
 ## Phase 6 – Entlassung | الخروج
 th: Überleitung & Nachsorge | التحويل والمتابعة ;; Warnzeichen → sofort zum Arzt | علامات الخطر ← فوراً للطبيب
 tr: Überleitung: ambulanter Pflegedienst / Wundexperte | تحويل لخدمة تمريض منزلي / خبير جروح ;; Fieber | حرارة
 tr: Verbandmaterial organisieren; Patient und Angehörige schulen | تأمين مواد الضماد؛ تعليم المريض والأهل ;; Zunehmende Rötung oder Schmerz | احمرار أو ألم متزايد
 tr: Druckentlastung, passende Schuhe (diabetischer Fuß); Nachsorgetermine vereinbaren | تخفيف الضغط، أحذية مناسبة (للقدم السكرية)؛ مواعيد المتابعة ;; Übler Geruch, Eiter | رائحة كريهة، قيح
-## Merke | تذكّر
-tip: Keine Wundheilung ohne saubere Wunde – Nekrosen müssen raus! Und die Pflege begleitet den Patienten durch jede Phase des Behandlungspfads. | لا التئام بدون جرح نظيف – النسيج الميت لازم يطلع! والتمريض يرافق المريض بكل مرحلة من المسار.
-gallery: g6-folie | Alle Folien der Präsentation | كل شرائح العرض

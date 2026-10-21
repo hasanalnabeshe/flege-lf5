@@ -33,9 +33,9 @@ content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ
   00b-teamarbeit.txt       Ingos TB – Gruppenarbeit Lösung (Teams & Hierarchien)
   01-behandlungspfad.txt   Behandlungspfad + Impulsfrage
   02-herr-m.txt            Herr M. – akutes Abdomen (Aufgaben 1–5)
-  03-gruppen.txt           Gruppenarbeit-Auftrag + Gruppe 1 Cholezystektomie
-  04-gruppen2.txt          Gruppe 2 Hüft-TEP + Gruppe 3 Frakturversorgung
-  05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement
+  03-gruppen.txt           Gruppe 1 Cholezystektomie (nur Rolle der Pflege)
+  04-gruppen2.txt          Gruppe 2 Hüft-TEP + Gruppe 3 Frakturversorgung (nur Rolle der Pflege)
+  05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement (nur Rolle der Pflege)
   06-nervensystem.txt      NS Grundlagen, Fälle, Lernaufgabe Schmerz
   07-zns.txt               Gehirn, Rückenmark, Häute, Liquor, PNS
 template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
@@ -91,8 +91,7 @@ HANDOVER.md         ← هالملف
 - [x] **Behandlungspfad**: النص كامل، أهداف، مثال akutes Abdomen، جدول Hüft-TEP، وصور الورقة الأصلية
 - [x] **Impulsfrage & Rolle der Pflege**: شرائح المعلمة (Print2) مع جدول دور التمريض
 - [x] **Herr M. – akutes Abdomen**: Aufgaben 1–5 كاملة مع الجداول، صور حلول Hasan، تصحيحات وإضافات
-- [x] **Gruppenarbeit**: الطلب، وجدول المواضيع، وصورة الورقة
-- [x] **Gruppe 1–6**: كل مجموعة صفحة لحالها، مع ترجمة كاملة ومعرض لكل الشرائح (Gruppe 3 ورقة، مش عرض)
+- [x] **Gruppe 1–6 – Rolle der Pflege**: كل مجموعة صفحة قصيرة فيها بس شغل التمريض (Aufnahme، Prä-OP، Post-OP، Entlassung). الباقي انحذف بطلب Hasan (شوف سجل التغييرات)
 - [x] **Nervensystem LF 5.3**: Frau Müller، Aufbau/Funktion، Reflex، Weg des Reizes، Was kann ausfallen، PNS-Schäden
 - [x] **Fälle**: Herr Schneider، Frau Weber، Herr Müller، مع ملاحظات Hasan وجدول تصحيح إملائي
 - [x] **Lernaufgabe Schmerz**: تعاريف الخلية العصبية، رسمة الخلية الأصلية، طريق الألم
@@ -121,6 +120,7 @@ HANDOVER.md         ← هالملف
 | **مشروع Vercel تبع Hasan مش ظاهر لـ Claude** | Hasan فتح نسخة على `…alnabeshe.vercel.app` (بحساب أو scope تاني)، و Claude ما بيشوفها بالـ MCP | بعد Import `flege-lf5` كل push بيعمل deploy لحاله، فما في حاجة يشوفها Claude |
 | **GitHub: Claude ما بيقدر يعمل repo** | `POST user/repos` ممنوع بالـ session (403) | Hasan بيعمل الـ repo، و Claude بيعمل push |
 | **رسالة git غريبة وقت الـ push** | `fatal: expected 'acknowledgments'` بتطلع، بس الـ push بينجح (اتأكدنا بـ `git ls-remote`) | تجاهلها، بس دايماً تأكد بـ `ls-remote` |
+| **صور القروبات مش مستعملة** | بعد الحذف، صور `g*-folie*`، `gruppe3-blatt`، `gruppenarbeit-blatt` ضلت بـ `public/img` بس ما في صفحة بتعرضها | تركناها بحال بدنا نرجّعها؛ ممكن تنحذف لاحقاً |
 | **صور الـ scans باهتة** | ملفات PDF الأصلية صور موبايل لأوراق مطبوعة (~200ppi) | الصور المهمة اتبدلت بنسخ نظيفة. أي صورة باهتة تانية: Hasan بيبعت نسخة أوضح |
 | **الجهاز (remote device) مش متصل** | `device_bash` بيرجع "not connected to the bridge" | مش مهم لهالمشروع |
 | **GitHub Actions / billing** | ما في Actions بهالمشروع، فما في مشكلة billing | — |
@@ -128,9 +128,7 @@ HANDOVER.md         ← هالملف
 ### أخطاء بالمحتوى الأصلي (موثقة بالموقع كـ `fix:`)
 - Herr M., Aufgabe 2: "Koliken → Extrauteringravidität" ← الصح: Gallen-/Nierenkolik
 - Herr M., Aufgabe 5: "SBR A" ← SBAR
-- Gruppe 2: شريحة "Besonderheiten" بتوصف DEP مش TEP
-- Gruppe 3: Konservativ تحت Operation؛ ناقص: فك الجبس عند Kompartmentsyndrom، Fettembolie، Gipskontrolle، Antibiotika/Tetanus بالكسر المفتوح
-- Gruppe 5: "Urin: Elektrolyte & Gerinnung" ← هدول فحوصات دم
+- Gruppe 3: ناقص فك الجبس عند Kompartmentsyndrom، و Gipskontrolle
 - Nervensystem: "Lähmung" عند العصب الحسي ← الصح Taubheit؛ "Vorderes Übertragungsgehirn" ← Hinterhorn
 - Hypophyse: Oxytocin مش "Glückshormon" (هو Bindungshormon، وبيتصنع بالـ Hypothalamus)
 
@@ -166,3 +164,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan قال الجواب هو السطرين تحت الشريحة بس. انحطوا أول صفحة `team` كـ "Antwort"، وانشالت جملة الحفظ اللي كتبها Claude. باقي الشريحة صار تحت عنوان "Hintergrund".
 - **21.10.2026**: صفحة Ingos TB انتقلت لأول القائمة (بعد Übersicht مباشرة)، متل ترتيب اللوح. صفحة البداية انفصلت بـ `00-start.txt`، و `08-teamarbeit.txt` صار `00b-teamarbeit.txt`.
 - **21.10.2026**: Hasan طلب: صفحة Ingos TB بس سؤال واحد وجوابه. انشال قسم "Hintergrund" كله (مع تصحيحاته). ضل السؤال، الجواب، وصورة الشريحة.
+- **21.10.2026**: Hasan طلب يضل من القروبات الستة بس دور التمريض. انحذف: صفحة Gruppenarbeit-Auftrag، أسماء الطلاب، التشريح/Krankheitsbild، التشخيص الطبي، طريقة العملية، المضاعفات الطبية، الخلاصات، ومعارض الشرائح (وتصحيحات Gruppe 2 و 5 و جزء من 3 لأنها كانت بالأقسام المحذوفة). ضل: Aufnahme، Prä-OP Pflege، Post-OP Pflege، Entlassung (وبـ Gruppe 3 تحذير Kompartmentsyndrom + DMS). القائمة صار اسمها "Gruppenarbeit – Rolle der Pflege". الموقع صار 16 صفحة. المحتوى القديم موجود بتاريخ git.
