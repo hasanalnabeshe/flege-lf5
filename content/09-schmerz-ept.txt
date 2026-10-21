@@ -1,6 +1,6 @@
 @page sm-erfassung | Schmerzerfassung (Assessment) | تقييم الألم | Schmerzmanagement / إدارة الألم
 # Schmerzmanagement – Erfassung, Prävention, Therapie | إدارة الألم – التقييم، الوقاية، العلاج
-note: Skript „LF 5 Schmerz und Schmerzmanagement" – Teil 1: Erfassung. Teil 2 (Prävention & Therapie) ist die nächste Seite. Abschnitt 4 (Expertenstandard) steht auf der Seite „Expertenstandard – Kriterien". Seiten 4, 6 und 9 des Skripts fehlen in den Fotos. | سكربت "الألم وإدارة الألم" – الجزء 1: التقييم. الجزء 2 (الوقاية والعلاج) بالصفحة الجاية. القسم 4 (المعيار الخبير) بصفحة "المعيار الخبير – المعايير". الصفحات 4 و 6 و 9 مش موجودة بالصور.
+note: Skript „LF 5 Schmerz und Schmerzmanagement" – Teil 1: Erfassung. Teil 2 (Prävention & Therapie) ist die nächste Seite. Seiten 4, 6 und 9 des Skripts fehlen in den Fotos. | سكربت "الألم وإدارة الألم" – الجزء 1: التقييم. الجزء 2 (الوقاية والعلاج) بالصفحة الجاية. الصفحات 4 و 6 و 9 مش موجودة بالصور.
 
 ## 1.–2. Einstieg – Ingos Tagebuch | 1.–2. البداية – يوميات Ingo
 p: Bearbeiten Sie die Einstiegsaufgabe zu Ingos Tagebucheinträgen vom 16. Mai und 17. Mai | اشتغل على مهمة البداية عن يوميات Ingo بتاريخ 16 و 17 أيار
@@ -21,6 +21,18 @@ box: blau | Rolle der Pflege: | دور التمريض:
 + *Teamkoordination*: Pflege, Ärzte, interdisziplinäres Team | *تنسيق الفريق*: تمريض، أطباء، فريق متعدد التخصصات
 + *Fördert Nähe* zum Patienten durch Kommunikation | *بيقرّب* من المريض عن طريق التواصل
 tip: Ziel: Sicherstellung einer Kontinuität in der **Schmerzerfassung** und **Schmerzbehandlung**. → Nur so kann die Schmerztherapie zur Schmerzlinderung und ggf. Schmerzfreiheit führen | الهدف: ضمان **الاستمرارية** بتقييم الألم وعلاجه. ← بس هيك علاج الألم بيوصل لتخفيفه، وإذا أمكن لإزالته
+
+## 4. Expertenstandard | 4. المعيار الخبير
+box: blau | Expertenstandards | المعايير الخبيرة
++ „Schmerzmanagement in der Pflege bei akuten Schmerzen" | "إدارة الألم بالتمريض عند الألم الحاد"
++ „Schmerzmanagement in der Pflege bei chronischen Schmerzen" | "إدارة الألم بالتمريض عند الألم المزمن"
++ → Dienen als fachliche und juristische Grundlage des Schmerzmanagements in der Pflege | ← بيشكّلوا الأساس **المهني والقانوني** لإدارة الألم بالتمريض
+fix: Seit der **Aktualisierung 2020** gibt es nur noch **einen** gemeinsamen Expertenstandard „Schmerzmanagement in der Pflege" (für akute **und** chronische Schmerzen). | من **تحديث 2020** صار في معيار واحد بس "Schmerzmanagement in der Pflege" للألم الحاد **و** المزمن مع بعض.
+box: gruen | Ziel der Expertenstandards | هدف المعايير
++ → Jeder Pflegeempfänger mit akuten oder chronischen Schmerzen soll ein adäquates, auf seine individuelle Situation angepasstes professionelles Schmerzmanagement erhalten | ← كل مريض عنده ألم حاد أو مزمن لازم ياخد إدارة ألم مهنية ومناسبة، ومفصّلة على وضعه الشخصي
++ → Das Motto lautet: Bestehende Schmerzen lindern, unnötig schmerzen verhindern und einer | ← الشعار: تخفيف الألم الموجود، منع الألم اللي ما إله داعي، و...
+fix: Motto vollständig: „Bestehende Schmerzen lindern, unnötige Schmerzen verhindern und einer **Chronifizierung vorbeugen**." (Steht so auch in Abschnitt 3 deines Skripts.) | الشعار كامل: "...و **الوقاية من تحوّل الألم لمزمن**". (نفس اللي كتبته بالقسم 3 بالسكربت.)
+tip: **Zielsetzung (DNQP 2020):** Jeder Mensch mit akuten, chronischen oder zu erwartenden Schmerzen erhält ein individuell angepasstes Schmerzmanagement, das der Entstehung sowie der Chronifizierung von Schmerzen und schmerzbedingten Krisen vorbeugt oder Schmerzen beseitigt sowie zu einer akzeptablen Schmerzsituation und zu Erhalt oder Erreichung einer bestmöglichen Lebensqualität und Funktionsfähigkeit beiträgt. | **الهدف (DNQP 2020):** كل إنسان عنده ألم حاد أو مزمن أو متوقّع، بياخد إدارة ألم مفصّلة عليه، بتمنع نشوء الألم وتحوّله لمزمن وأزمات الألم، أو بتزيل الألم، وبتوصّل لوضع ألم مقبول، وبتحافظ على (أو بتحقق) أفضل جودة حياة وقدرة على الأداء.
 
 ## 5. Schmerzassessment | 5. تقييم الألم
 p: **Definition:** Das Wort Assessment stammt aus dem Englischen und bedeutet „Bewertung", „Beurteilung", „Einschätzung". Schmerzassessment ist die systematische Einschätzung und Beurteilung von Schmerzen mithilfe geeigneter Assessmentinstrument. | **التعريف:** كلمة Assessment إنجليزية ومعناها "تقييم، حكم، تقدير". تقييم الألم هو تقدير وتقييم منهجي للألم بمساعدة أدوات تقييم مناسبة.

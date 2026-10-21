@@ -1,28 +1,6 @@
 @page es-krit | Expertenstandard – Kriterien | المعيار الخبير – المعايير | Schmerzmanagement / إدارة الألم
 # Expertenstandard: Schmerzmanagement in der Pflege | المعيار الخبير: إدارة الألم بالتمريض
-note: Prüfungsthema 4. Quellen: Skript „LF 5 Expertenstandard Schmerz" + Skript „Erfassung, Prävention, Therapie" (Abschnitt 4) + DNQP-Übersicht (Stand Juni 2020). Das Ablaufschema steht auf der nächsten Seite. | موضوع الامتحان 4. المصادر: سكربت المعيار الخبير + سكربت "التقييم، الوقاية، العلاج" (القسم 4) + جدول DNQP (حزيران 2020). مخطط الخطوات بالصفحة الجاية.
-
-## Was ist der Expertenstandard? | شو هو المعيار الخبير؟
-box: blau | 4. Expertenstandard | 4. المعيار الخبير
-+ „Schmerzmanagement in der Pflege bei akuten Schmerzen" | "إدارة الألم بالتمريض عند الألم الحاد"
-+ „Schmerzmanagement in der Pflege bei chronischen Schmerzen" | "إدارة الألم بالتمريض عند الألم المزمن"
-+ → Dienen als fachliche und juristische Grundlage des Schmerzmanagements in der Pflege | ← بيشكّلوا الأساس **المهني والقانوني** لإدارة الألم بالتمريض
-fix: Seit der **Aktualisierung 2020** gibt es nur noch **einen** gemeinsamen Expertenstandard „Schmerzmanagement in der Pflege" (für akute **und** chronische Schmerzen). | من **تحديث 2020** صار في معيار واحد بس "Schmerzmanagement in der Pflege" للألم الحاد **و** المزمن مع بعض.
-box: gruen | Ziel der Expertenstandards | هدف المعايير
-+ → Jeder Pflegeempfänger mit akuten oder chronischen Schmerzen soll ein adäquates, auf seine individuelle Situation angepasstes professionelles Schmerzmanagement erhalten | ← كل مريض عنده ألم حاد أو مزمن لازم ياخد إدارة ألم مهنية ومناسبة، ومفصّلة على وضعه الشخصي
-+ → Das Motto lautet: Bestehende Schmerzen lindern, unnötig schmerzen verhindern und einer | ← الشعار: تخفيف الألم الموجود، منع الألم اللي ما إله داعي، و...
-fix: Motto vollständig: „Bestehende Schmerzen lindern, unnötige Schmerzen verhindern und einer **Chronifizierung vorbeugen**." (Steht so auch in Abschnitt 3 deines Skripts.) | الشعار كامل: "...و **الوقاية من تحوّل الألم لمزمن**". (نفس اللي كتبته بالقسم 3 بالسكربت.)
-tip: **Zielsetzung (DNQP 2020):** Jeder Mensch mit akuten, chronischen oder zu erwartenden Schmerzen erhält ein individuell angepasstes Schmerzmanagement, das der Entstehung sowie der Chronifizierung von Schmerzen und schmerzbedingten Krisen vorbeugt oder Schmerzen beseitigt sowie zu einer akzeptablen Schmerzsituation und zu Erhalt oder Erreichung einer bestmöglichen Lebensqualität und Funktionsfähigkeit beiträgt. | **الهدف (DNQP 2020):** كل إنسان عنده ألم حاد أو مزمن أو متوقّع، بياخد إدارة ألم مفصّلة عليه، بتمنع نشوء الألم وتحوّله لمزمن وأزمات الألم، أو بتزيل الألم، وبتوصّل لوضع ألم مقبول، وبتحافظ على (أو بتحقق) أفضل جودة حياة وقدرة على الأداء.
-
-## Aufbau: Struktur – Prozess – Ergebnis | البنية: بنية – عملية – نتيجة
-p: Jeder Expertenstandard hat 3 Arten von Kriterien, jeweils mit 5 Ebenen (S1–S5, P1–P5, E1–E5): | كل معيار خبير فيه 3 أنواع معايير، كل نوع فيه 5 مستويات:
-th: Ebene | المستوى ;; Struktur (S) – wer / womit? | بنية – مين / بشو؟ ;; Prozess (P) – was tun? | عملية – شو منعمل؟ ;; Ergebnis (E) – was kommt raus? | نتيجة – شو بيطلع؟
-tr: **1** ;; Kompetenz zur Schmerzeinschätzung; Einrichtung stellt Assessmentinstrumente | كفاءة تقييم الألم؛ المؤسسة بتأمّن أدوات التقييم ;; Systematische Schmerzeinschätzung | تقييم منهجي للألم ;; Schmerzsituation ist erfasst | وضع الألم متسجّل
-tr: **2** ;; Kompetenz zur Planung und Koordinierung; Verfahrensregelung | كفاءة التخطيط والتنسيق؛ تعليمات إجرائية ;; Individuelle Maßnahmenplanung | تخطيط إجراءات فردي ;; Individueller Behandlungsplan liegt vor | في خطة علاج فردية
-tr: **3** ;; Kompetenz zur Information, Schulung, Beratung | كفاءة المعلومات والتعليم والإرشاد ;; Information, Schulung und Beratung | معلومات، تعليم، إرشاد ;; Beteiligte sind informiert, geschult und beraten | المعنيين عندهم معلومات وتعلّموا وانرشدوا
-tr: **4** ;; Kompetenz zum Medikamentenmanagement + nicht-medikamentöse Maßnahmen; Ressourcen | كفاءة إدارة الأدوية + إجراءات بدون أدوية؛ الموارد ;; Interprofessionelle Zusammenarbeit (Durchführung) | تعاون متعدد المهن (التنفيذ) ;; Team koordiniert, Maßnahmen haben sich positiv ausgewirkt | الفريق منسّق، والإجراءات أثّرت إيجابياً
-tr: **5** ;; Kompetenz, den Verlauf zu beurteilen | كفاءة تقييم المسار ;; Evaluation | التقييم ;; Verlaufskontrolle und Wirksamkeitsprüfung liegt vor | في متابعة وفحص للفعالية
-note: Übersichtstabelle von Claude zusammengestellt aus deinem Skript + DNQP-Tabelle. Die Einzelheiten stehen unten. | الجدول من تجميع Claude من سكربتك وجدول DNQP. التفاصيل تحت.
+note: Prüfungsthema 4. Skript „LF 5 Expertenstandard Schmerz" (Seiten 1–7), danach die DNQP-Tabelle. Abschnitt 4 „Expertenstandard" aus dem anderen Skript steht auf der Seite „Schmerzerfassung". Das Ablaufschema (Anhang 1) ist die nächste Seite. | موضوع الامتحان 4. سكربت المعيار الخبير (صفحات 1–7)، وبعده جدول DNQP. القسم 4 من السكربت التاني موجود بصفحة "تقييم الألم". مخطط الخطوات (الملحق 1) بالصفحة الجاية.
 
 ## 1. Strukturkriterien | 1. معايير البنية
 p: Legen Fest | بتحدّد
@@ -157,3 +135,13 @@ box: gruen | Ergebnisskriterien | معايير النتيجة
 + **E3:** Beteiligte sind informiert, geschult und beraten | **E3:** المعنيين عندهم معلومات، تعلّموا، وانرشدوا
 + **E4:** Interprofessionelles Team ist koordniert. MAßnahmen haben sich positiv ausgewirkt | **E4:** الفريق متعدد المهن منسّق، والإجراءات أثّرت إيجابياً
 + **E5:** Verlaufskontrolle und Wirksamkeitsprüfung liegt vor | **E5:** في متابعة للمسار وفحص للفعالية
+
+## Übersicht: Struktur – Prozess – Ergebnis (DNQP-Tabelle, Stand Juni 2020) | ملخص: بنية – عملية – نتيجة (جدول DNQP، حزيران 2020)
+p: Jeder Expertenstandard hat 3 Arten von Kriterien, jeweils mit 5 Ebenen (S1–S5, P1–P5, E1–E5): | كل معيار خبير فيه 3 أنواع معايير، كل نوع فيه 5 مستويات:
+th: Ebene | المستوى ;; Struktur (S) – wer / womit? | بنية – مين / بشو؟ ;; Prozess (P) – was tun? | عملية – شو منعمل؟ ;; Ergebnis (E) – was kommt raus? | نتيجة – شو بيطلع؟
+tr: **1** ;; Kompetenz zur Schmerzeinschätzung; Einrichtung stellt Assessmentinstrumente | كفاءة تقييم الألم؛ المؤسسة بتأمّن أدوات التقييم ;; Systematische Schmerzeinschätzung | تقييم منهجي للألم ;; Schmerzsituation ist erfasst | وضع الألم متسجّل
+tr: **2** ;; Kompetenz zur Planung und Koordinierung; Verfahrensregelung | كفاءة التخطيط والتنسيق؛ تعليمات إجرائية ;; Individuelle Maßnahmenplanung | تخطيط إجراءات فردي ;; Individueller Behandlungsplan liegt vor | في خطة علاج فردية
+tr: **3** ;; Kompetenz zur Information, Schulung, Beratung | كفاءة المعلومات والتعليم والإرشاد ;; Information, Schulung und Beratung | معلومات، تعليم، إرشاد ;; Beteiligte sind informiert, geschult und beraten | المعنيين عندهم معلومات وتعلّموا وانرشدوا
+tr: **4** ;; Kompetenz zum Medikamentenmanagement + nicht-medikamentöse Maßnahmen; Ressourcen | كفاءة إدارة الأدوية + إجراءات بدون أدوية؛ الموارد ;; Interprofessionelle Zusammenarbeit (Durchführung) | تعاون متعدد المهن (التنفيذ) ;; Team koordiniert, Maßnahmen haben sich positiv ausgewirkt | الفريق منسّق، والإجراءات أثّرت إيجابياً
+tr: **5** ;; Kompetenz, den Verlauf zu beurteilen | كفاءة تقييم المسار ;; Evaluation | التقييم ;; Verlaufskontrolle und Wirksamkeitsprüfung liegt vor | في متابعة وفحص للفعالية
+note: Übersichtstabelle von Claude zusammengestellt aus deinem Skript + DNQP-Tabelle. Die Einzelheiten stehen unten. | الجدول من تجميع Claude من سكربتك وجدول DNQP. التفاصيل تحت.

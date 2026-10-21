@@ -38,10 +38,10 @@ content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ
   05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement (nur Rolle der Pflege)
   06-nervensystem.txt      NS Grundlagen, Fälle, Lernaufgabe Schmerz
   07-zns.txt               Gehirn, Rückenmark, Häute, Liquor, PNS
-  08-expertenstandard-a.txt Expertenstandard – Kriterien (Struktur/Prozess/Ergebnis S1–5, P1–5, E1–5)
-  08-expertenstandard.txt  Expertenstandard – Ablaufschema DNQP 2020 als farbige Schritte
-  09-schmerz.txt           Schmerzmanagement: Grundlagen (1–5, + Tabelle wo steht was), Schmerzarten (6–12), Pflege bei Schmerzen
-  10-schmerz-ept.txt       Skript „Erfassung, Prävention, Therapie": Schmerzerfassung (Ingos Tagebuch, Assessment, Kinder, alte Menschen, Demenz) + Prävention & Therapie (WHO-Stufenschema, Analgetika, nicht-medikamentös)
+  08-schmerz.txt           Skript zur PowerPoint: Grundlagen (1–5), Schmerzarten (6–12), Pflege bei Schmerzen
+  09-schmerz-ept.txt       Skript „Erfassung, Prävention, Therapie" (1–13, mit 4. Expertenstandard an seiner Stelle)
+  10-expertenstandard-kriterien.txt  Skript „Expertenstandard Schmerz" (1–7) + DNQP-Übersichtstabelle am Ende
+  11-expertenstandard-ablauf.txt     Anhang 1: Ablaufschema DNQP 2020
 template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
 build.py            ← بيحوّل content/*.txt + template.html إلى public/index.html
 public/index.html   ← الصفحة النهائية (بتنبنى، لا تعدّلها باليد)
@@ -53,6 +53,8 @@ HANDOVER.md         ← هالملف
 ---
 
 ## 3. القرارات المهمة
+
+- **الترتيب = نفس ترتيب ما بعته Hasan.** ما نعيد ترتيب الأقسام على كيفنا (هو طلب هيك صراحة). أي ملخص من Claude بيروح آخر الصفحة.
 
 - **موقع ثابت 100%**: ما في Supabase، ما في قاعدة بيانات، ما في تسجيل دخول، ما في backend. ما في حاجة لهيك، والمحتوى نص وصور بس.
 - **ما في build على Vercel**: الصفحة بتنبنى محلياً بـ `python3 build.py`، و`public/` بينرفع جاهز مع الـ commit. إعدادات Vercel: Framework **Other**، Build Command فاضي، Output Directory **`public`**.
@@ -180,3 +182,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Schmerzmanagement انضاف (`content/08-schmerz.txt`، 3 صفحات) من صور Hasan + PDF "Schmerzmangment.pdf" (9 صفحات scan). بدون صور الأوراق الأصلية (طلب Hasan). نوع جديد `box:` / `+` بـ build.py + CSS بـ template.html للصناديق الملوّنة. أغلاط بخط الإيد الواضحة (Analgeitika، dagenung، Beherung، Arwartung) انكتبت صح بالنص. الموقع صار 19 صفحة.
 - **21.10.2026**: Hasan بعت صورة Anhang 1 "Ablauf des pflegerischen Schmerzmanagements" (Expertenstandard DNQP 2020). انعملت صفحة `es` (`content/08-expertenstandard.txt`) بصناديق ملوّنة وأسهم، بدون الصورة. `08-schmerz.txt` صار `09-schmerz.txt` حتى Expertenstandard يجي قبله (متل اللوح). عنصر جديد `↓` بـ build.py. الموقع صار 20 صفحة. كل مواضيع الامتحان الخمسة صارت بالموقع.
 - **21.10.2026**: Hasan بعت 16 صورة: سكربت "Schmerzmanagement – Erfassung, Prävention, Therapie" (صفحات 1،2،3،5،7،8،10–14 + جدول 21.1) وسكربت "Expertenstandard Schmerz" (1–7) وجدول DNQP 2020. انعملت 3 صفحات: `es-krit` (`08-expertenstandard-a.txt`)، `sm-erfassung` و `sm-therapie` (`10-schmerz-ept.txt`). جدول "wo steht was" بـ `09-schmerz.txt` تحدّث. اكتشفنا إنه "Ingos TB" = Ingos Tagebuch. الموقع صار 23 صفحة.
+- **21.10.2026**: Hasan طلب الترتيب يكون متل ما بعت. صار: Schmerz Grundlagen ← Arten ← Pflege ← Erfassung ← Prävention & Therapie ← Expertenstandard Kriterien ← Ablaufschema (آخر شي). القسم 4 (Expertenstandard) رجع لمكانه بسكربت Erfassung بين 3 و 5. جدول الملخص S/P/E انتقل لآخر صفحة Kriterien. الملفات انعادت تسميتها 08–11.
