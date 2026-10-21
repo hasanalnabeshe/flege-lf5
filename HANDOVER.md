@@ -97,7 +97,7 @@ HANDOVER.md         ← هالملف
 - [x] **Lernaufgabe Schmerz**: تعاريف الخلية العصبية، رسمة الخلية الأصلية، طريق الألم
 - [x] **ZNS – Gehirn**: الأجزاء ①–⑩ مع صورة الدماغ المرقمة
 - [x] **ZNS – Rückenmark / Häute / Liquor / PNS**: كل الصور اتبدلت بنسخ واضحة بعتها Hasan (Wirbel، Wirbelsäule، Rückenmark-Querschnitt، Häute، Liquor)
-- [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" حرفياً مع ترجمة، صورة الشريحة، تصحيحين (`fix:`)، وجملة حفظ مقترحة (معلّمة إنها من Claude)
+- [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" حرفياً مع ترجمة، صورة الشريحة، تصحيحين (`fix:`). الجواب (سطرين "Für Auszubildende bedeutet dies…") أول الصفحة، والشريحة كاملة تحته كخلفية
 - [x] الموقع مرفوع على GitHub (`flege-lf5` main)
 - [x] الموقع شغال على الموبايل (جرّبناه 390px) وبالـ dark mode
 
@@ -163,3 +163,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan عمل repo `flege-lf5`، والموقع انرفع على `main`. صار هو المصدر الأساسي. انعمل HANDOVER.md و CLAUDE.md.
 - **21.10.2026**: Hasan بعت صورة اللوح بمواضيع الامتحان (5 مواضيع) – انضافت بالقسم 3b.
 - **21.10.2026**: Hasan بعت صورة شريحة "Gruppenarbeit Lösung" (جواب موضوع الامتحان 1، Ingos TB). انضافت صفحة جديدة `content/08-teamarbeit.txt` + صورة `ingo-loesung.jpg`. الموقع صار 17 صفحة.
+- **21.10.2026**: Hasan قال الجواب هو السطرين تحت الشريحة بس. انحطوا أول صفحة `team` كـ "Antwort"، وانشالت جملة الحفظ اللي كتبها Claude. باقي الشريحة صار تحت عنوان "Hintergrund".

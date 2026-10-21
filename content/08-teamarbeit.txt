@@ -1,9 +1,12 @@
 @page team | Ingos TB – Teams & Hierarchien | حالة Ingo – الفريق والتسلسل الوظيفي | Teamarbeit & Hierarchien / الفريق والتسلسل الوظيفي
 # Ingos TB – Teamarbeit & Hierarchien | حالة Ingo – الشغل بالفريق والتسلسل الوظيفي
 q: Merksatz zur Gruppenarbeit → Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? | جملة للحفظ عن العمل الجماعي ← كيف يتعامل المتدرّبون مع العمل في فرق وفئات مهنية مختلفة، ومع التسلسل الوظيفي (الهرمية)؟
-note: Prüfungsthema 1 (Tafel, 21.10.2026). Unten: Folie „Gruppenarbeit Lösung" aus dem Unterricht. | موضوع الامتحان رقم 1 (من اللوح، 21.10.2026). تحت: شريحة "حل العمل الجماعي" من الدرس.
+## Antwort | الجواب
+tip: Für Auszubildende bedeutet dies: sie müssen sich in ein bestehendes System integrieren, lernen Teamstrukturen zu verstehen, aktiv Kontakt zu Kolleg*innen suchen, eigene Lerninteressen formulieren | بالنسبة للمتدرّبين هاد بيعني: لازم يندمجوا بنظام موجود أصلاً، يتعلّموا يفهموا بنية الفريق، يدوّروا بنشاط على تواصل مع الزملاء، ويحكوا بوضوح شو بدهم يتعلّموا
+note: Prüfungsthema 1 (Tafel, 21.10.2026). Das ist die Antwort von der Folie – diese zwei Zeilen lernen. | موضوع الامتحان 1 (من اللوح). هاد هو الجواب من الشريحة – احفظ هالسطرين.
 
-## Gruppenarbeit Lösung | حل العمل الجماعي
+## Hintergrund: Gruppenarbeit Lösung (ganze Folie) | خلفية: الشريحة كاملة
+p: Zum Verstehen – woher die Antwort kommt. | للفهم بس – من وين إجا الجواب.
 
 ### Berufsgruppen | الفئات المهنية
 - Pflegeberufe | مهن التمريض
@@ -60,12 +63,5 @@ p: **4. Interdisziplinäre Zusammenarbeit** | **4. التعاون بين الت�
 - Rettungsdienst | الإسعاف
 - Spezialkliniken | المستشفيات المتخصصة
 fix: „Ärzten" in der Aufzählung → richtig: **Ärzte** (Nominativ). | بالقائمة لازم تكون **Ärzte** مش "Ärzten" (Ärzten بتنستعمل بعد mit / zwischen، متل "zwischen Pflege und Ärzten").
-
-## Für Auszubildende bedeutet dies | شو بيعني هاد للمتدرّبين
-tip: Für Auszubildende bedeutet dies: sie müssen sich in ein bestehendes System integrieren, lernen Teamstrukturen zu verstehen, aktiv Kontakt zu Kolleg*innen suchen, eigene Lerninteressen formulieren | بالنسبة للمتدرّبين هاد بيعني: لازم يندمجوا بنظام موجود أصلاً، يتعلّموا يفهموا بنية الفريق، يدوّروا بنشاط على تواصل مع الزملاء، ويحكوا بوضوح شو بدهم يتعلّموا
-
-## Merksatz für die Prüfung (Vorschlag) | جملة الحفظ للامتحان (اقتراح)
-p: Auszubildende integrieren sich aktiv in das bestehende interdisziplinäre Team: Sie verstehen die Berufsgruppen und Hierarchien, suchen selbst Kontakt zu Kolleg*innen und Praxisanleitung und formulieren ihre Lernziele. Hierarchien respektieren sie, sprechen aber Probleme – vor allem bei Gefahr für die Patientensicherheit – sachlich und begründet an. | المتدرّبون بيندمجوا بشكل فعّال بالفريق متعدد التخصصات الموجود: بيفهموا الفئات المهنية والهرمية، بيبادروا بالتواصل مع الزملاء والمرشد العملي، وبيحددوا أهدافهم التعليمية. بيحترموا الهرمية، بس بيحكوا عن المشاكل – خصوصاً لما تكون سلامة المريض بخطر – بشكل موضوعي ومع سبب.
-note: Dieser Merksatz ist eine Zusammenfassung von Claude, nicht von der Folie. | هالجملة تلخيص من Claude، مش من الشريحة. احفظ جملة الشريحة فوق كأساس.
 
 img: ingo-loesung | Folie „Gruppenarbeit Lösung" (Foto aus dem Unterricht) | شريحة "حل العمل الجماعي" (صورة من الدرس)
