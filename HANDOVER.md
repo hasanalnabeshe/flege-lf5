@@ -36,6 +36,7 @@ content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ
   05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement
   06-nervensystem.txt      NS Grundlagen, Fälle, Lernaufgabe Schmerz
   07-zns.txt               Gehirn, Rückenmark, Häute, Liquor, PNS
+  08-teamarbeit.txt        Ingos TB – Gruppenarbeit Lösung (Teams & Hierarchien)
 template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
 build.py            ← بيحوّل content/*.txt + template.html إلى public/index.html
 public/index.html   ← الصفحة النهائية (بتنبنى، لا تعدّلها باليد)
@@ -69,6 +70,7 @@ HANDOVER.md         ← هالملف
   - `ns-seiteNN` صفحات دفتر Nervensystem
   - `ns-*` رسمات الجهاز العصبي
   - `zns-*` صور الدماغ والنخاع
+  - `ingo-*` شريحة حل Ingos TB
 - **الترجمة**: الألماني منقول متل الورقة بالضبط ("ما تغير شي"). والعربي فصحى بسيطة، مع شروحات بالعامية الشامية/الفلسطينية متل ما بيحكي Hasan.
 - **الأخطاء بأوراق Hasan** ما بتنصلح جوّا النص الأصلي. بيضل النص متل ما هو، وبينحط تحته صندوق `fix:` فيه التصحيح.
 - **الخطوط**: IBM Plex Sans + IBM Plex Sans Arabic + Fraunces (من Google Fonts).
@@ -77,7 +79,7 @@ HANDOVER.md         ← هالملف
 
 ## 3b. مواضيع الامتحان (من اللوح، 21.10.2026)
 
-1. **Ingos TB** – Merksatz zur Gruppenarbeit: Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? ← **مش بالموقع بعد**
+1. **Ingos TB** – Merksatz zur Gruppenarbeit: Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? ← ✅ موجود (صفحة `team`، من شريحة "Gruppenarbeit Lösung")
 2. **Chirurgische Behandlungspfade** – Was ist ein Behandlungspfad? Welche Rolle spielen die PFK im Behandlungspfad → zentraler Aspekt ← ✅ موجود
 3. **ZNS** – Einteilung (Tafelbild insb.); Reiz-Reaktions-Kette = Grundprinzip ↔ Reflex; worauf können Veränderungen im ZNS Einfluss nehmen; Beschreibung NZ (Nervenzelle); Bestandteile des Gehirns; Rückenmark; Hirn- + RM-Häute ← ✅ موجود
 4. **Expertenstandard** ← **مش بالموقع بعد** (غالباً DNQP Expertenstandard Schmerzmanagement)
@@ -95,6 +97,7 @@ HANDOVER.md         ← هالملف
 - [x] **Lernaufgabe Schmerz**: تعاريف الخلية العصبية، رسمة الخلية الأصلية، طريق الألم
 - [x] **ZNS – Gehirn**: الأجزاء ①–⑩ مع صورة الدماغ المرقمة
 - [x] **ZNS – Rückenmark / Häute / Liquor / PNS**: كل الصور اتبدلت بنسخ واضحة بعتها Hasan (Wirbel، Wirbelsäule، Rückenmark-Querschnitt، Häute، Liquor)
+- [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" حرفياً مع ترجمة، صورة الشريحة، تصحيحين (`fix:`)، وجملة حفظ مقترحة (معلّمة إنها من Claude)
 - [x] الموقع مرفوع على GitHub (`flege-lf5` main)
 - [x] الموقع شغال على الموبايل (جرّبناه 390px) وبالـ dark mode
 
@@ -103,7 +106,7 @@ HANDOVER.md         ← هالملف
 - [ ] **التأكد من Vercel**: Hasan لازم يعمل Import لـ `flege-lf5` (Other / Output `public`) ويبعت الرابط. بعدها نكتب الرابط هون.
 - [ ] **الـ repo `flege-lf5` لازم يصير Private**. هو هلأ Public وفيه خط إيد Hasan، صور أوراقه، وأسماء زملائه على الشرائح.
 - [ ] **تقرير إذا لازم نحذف branch `lf5-lernseite`** من `pflege` (صار نسخة مكررة).
-- [ ] **مواضيع الامتحان الناقصة**: Ingos TB (Teamarbeit/Hierarchien)، Expertenstandard، Schmerzmanagement كامل – بانتظار أوراق Hasan
+- [ ] **مواضيع الامتحان الناقصة**: Expertenstandard، Schmerzmanagement كامل – بانتظار أوراق Hasan
 - [ ] **مواضيع جديدة**: كل ما يبعت Hasan أوراق جديدة، بتنضاف (صفحة جديدة أو ملف `08-....txt`).
 - [ ] اختياري: One Minute Wonder لكل مجموعة، وأسئلة مراجعة / Quiz.
 
@@ -128,6 +131,7 @@ HANDOVER.md         ← هالملف
 - Gruppe 3: Konservativ تحت Operation؛ ناقص: فك الجبس عند Kompartmentsyndrom، Fettembolie، Gipskontrolle، Antibiotika/Tetanus بالكسر المفتوح
 - Gruppe 5: "Urin: Elektrolyte & Gerinnung" ← هدول فحوصات دم
 - Nervensystem: "Lähmung" عند العصب الحسي ← الصح Taubheit؛ "Vorderes Übertragungsgehirn" ← Hinterhorn
+- Ingos TB (Folie): "Verlegunge" ← Verlegung؛ "Ärzten" بالقائمة ← Ärzte
 - Hypophyse: Oxytocin مش "Glückshormon" (هو Bindungshormon، وبيتصنع بالـ Hypothalamus)
 
 ---
@@ -158,3 +162,4 @@ git add -A && git commit -m "..." && git push origin main
 - **20.10.2026**: Hasan بعت صور واضحة، اتبدلت: Wirbel، Wirbelsäule، Rückenmark-Querschnitt، Hirn-/Rückenmarkshäute، Liquorräume.
 - **21.10.2026**: Hasan عمل repo `flege-lf5`، والموقع انرفع على `main`. صار هو المصدر الأساسي. انعمل HANDOVER.md و CLAUDE.md.
 - **21.10.2026**: Hasan بعت صورة اللوح بمواضيع الامتحان (5 مواضيع) – انضافت بالقسم 3b.
+- **21.10.2026**: Hasan بعت صورة شريحة "Gruppenarbeit Lösung" (جواب موضوع الامتحان 1، Ingos TB). انضافت صفحة جديدة `content/08-teamarbeit.txt` + صورة `ingo-loesung.jpg`. الموقع صار 17 صفحة.

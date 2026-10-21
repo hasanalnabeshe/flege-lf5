@@ -1,0 +1,71 @@
+@page team | Ingos TB – Teams & Hierarchien | حالة Ingo – الفريق والتسلسل الوظيفي | Teamarbeit & Hierarchien / الفريق والتسلسل الوظيفي
+# Ingos TB – Teamarbeit & Hierarchien | حالة Ingo – الشغل بالفريق والتسلسل الوظيفي
+q: Merksatz zur Gruppenarbeit → Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? | جملة للحفظ عن العمل الجماعي ← كيف يتعامل المتدرّبون مع العمل في فرق وفئات مهنية مختلفة، ومع التسلسل الوظيفي (الهرمية)؟
+note: Prüfungsthema 1 (Tafel, 21.10.2026). Unten: Folie „Gruppenarbeit Lösung" aus dem Unterricht. | موضوع الامتحان رقم 1 (من اللوح، 21.10.2026). تحت: شريحة "حل العمل الجماعي" من الدرس.
+
+## Gruppenarbeit Lösung | حل العمل الجماعي
+
+### Berufsgruppen | الفئات المهنية
+- Pflegeberufe | مهن التمريض
+  - Gesundheits- und Krankenpfleger*innen (z. B. Jutta, Horst) | ممرضون وممرضات (مثلاً Jutta و Horst)
+  - Auszubildende (Ingo) | المتدرّبون (Ingo)
+  - Praxisanleiter (Werner) | المرشد العملي (Werner) – هو اللي بيعلّم المتدرّب بالقسم
+  - Pflegekräfte im Früh-, Spät- und Nachtdienst | الممرضون بالمناوبة الصباحية والمسائية والليلية
+- Ärztlicher Dienst | الخدمة الطبية (الأطباء)
+  - Stationsärzte | أطباء القسم
+  - Oberarzt / Chefarzt (Chefarztvisite) | الطبيب الأول / رئيس الأطباء (زيارة رئيس الأطباء)
+- Weitere Berufsgruppen | فئات مهنية أخرى
+  - OP-Team | فريق العمليات
+  - Rettungsdienst / Hubschrauberteam | الإسعاف / فريق المروحية
+  - Spezialkliniken bei Verlegunge | المستشفيات المتخصصة عند نقل المريض
+fix: „Verlegunge" → richtig: **Verlegung**. | "Verlegunge" غلط إملائي، الصح **Verlegung** (نقل المريض لمستشفى تاني).
+
+### Hierarchien | التسلسل الوظيفي (الهرمية)
+p: **Ärztliche Hierarchie** | **الهرمية عند الأطباء**
+p: Chefarzt, Oberarzt, Assistenzarzt | رئيس الأطباء ← الطبيب الأول ← الطبيب المساعد (من فوق لتحت)
+p: **Pflegehierarchie** | **الهرمية بالتمريض**
+p: erfahrene PP, neue PP, Auszubildende, Praxisanleiter | ممرض/ة خبير، ممرض/ة جديد، متدرّبون، مرشد عملي
+note: PP = Pflegeperson / Pflegepersonal. | PP يعني Pflegeperson، أي الممرض أو الممرضة.
+p: Der Auszubildende Ingo steht in der Hierarchie ganz unten und ist stark von Anleitung abhängig. | المتدرّب Ingo بأسفل الهرمية، ومعتمد كتير على الإرشاد (حدا يعلّمه ويوجّهه).
+p: **Ein Beispiel aus dem Fall:** | **مثال من الحالة:**
+p: Ein Arzt ordnet an, einen Patienten mit möglicher Infektion zu zwei frisch operierten Patienten zu legen. Eine PP widerspricht aus hygienischen Gründen. | طبيب بيأمر يحطّوا مريض عنده احتمال عدوى بنفس الغرفة مع مريضين لسا عاملين عملية. ممرضة بتعترض لأسباب صحية (Hygiene) – خطر العدوى على الجروح.
+p: → Hierarchiekonflikte zwischen Pflege und Ärzten. | ← صراعات بسبب الهرمية بين التمريض والأطباء.
+tip: Pflege darf und soll widersprechen, wenn die Patientensicherheit gefährdet ist – sachlich begründen (hier: Hygiene). | التمريض مسموح له، وواجب عليه، يعترض لما تكون سلامة المريض بخطر – بس بشكل موضوعي ومع سبب واضح (هون: النظافة ومنع العدوى). (إضافة من Claude)
+
+### Umgang mit Auszubildenden | التعامل مع المتدرّبين
+p: **Positive Aspekte** | **الجوانب الإيجابية**
+- Er darf bei der Chefarztvisite mitgehen. | مسموح له يمشي مع زيارة رئيس الأطباء.
+- Er führt erste pflegerische Tätigkeiten aus: | بيعمل أول مهام تمريضية:
+  - Verbandswechsel beobachten | يراقب تغيير الضماد
+  - Patienten in den OP bringen | يوصّل المرضى لغرفة العمليات
+  - Gespräche mit Patienten führen | يحكي مع المرضى
+- später erhält er Unterstützung durch seinen Praxisanleiter. | بعدين بيحصل على دعم من مرشده العملي.
+p: **Schwierigkeiten** | **الصعوبات**
+- Zu Beginn hat niemand richtig Zeit für ihn. | بالبداية ما حدا عنده وقت فعلاً إله.
+- wenig strukturierte Anleitung | إرشاد قليل وغير منظّم
+- Learning-by-doing | التعلّم بالممارسة (بيتعلّم وهو عم يشتغل، بدون شرح مسبق)
+- Unsicherheit bei neuen Aufgaben | عدم ثقة / تردد بالمهام الجديدة
+
+### Systemische Zusammenhänge | الارتباطات بالنظام (ليش الوضع هيك)
+p: **1. Zeitdruck und Arbeitsbelastung** | **1. ضغط الوقت وعبء العمل**
+p: Grund: ambulantes Operieren, kürzere Liegezeiten, mehr Arbeitsverdichtung | السبب: العمليات الخارجية (المريض بيروّح بنفس اليوم)، مدة إقامة أقصر، وشغل أكتف بنفس الوقت
+p: **2. Ökonomische Aspekte** | **2. الجوانب الاقتصادية**
+p: viele Operationen werden ambulant durchgeführt dadurch bleiben nur komplexere Fälle im KH → zeigt den Einfluss des Gesundheitssystems und der Finanzierung. | عمليات كتير صارت تنعمل بدون مبيت، فبيضل بالمستشفى (KH = Krankenhaus) بس الحالات الأعقد ← هاد بيبيّن تأثير النظام الصحي والتمويل.
+p: **3. Spezialisierung im Gesundheitssystem** | **3. التخصّص بالنظام الصحي**
+p: Pat. mit schweren Verletzungen wird in Spezialklinik verlegt. → zeigt: medizinische Spezialisierung, Versorgungsnetzwerke zwischen Kliniken | المريض اللي إصاباته خطيرة بينتقل لمستشفى متخصص. ← بيبيّن: التخصص الطبي، وشبكات رعاية بين المستشفيات
+p: **4. Interdisziplinäre Zusammenarbeit** | **4. التعاون بين التخصصات**
+- Pflege | التمريض
+- Ärzten | الأطباء
+- OP-Team | فريق العمليات
+- Rettungsdienst | الإسعاف
+- Spezialkliniken | المستشفيات المتخصصة
+fix: „Ärzten" in der Aufzählung → richtig: **Ärzte** (Nominativ). | بالقائمة لازم تكون **Ärzte** مش "Ärzten" (Ärzten بتنستعمل بعد mit / zwischen، متل "zwischen Pflege und Ärzten").
+
+## Für Auszubildende bedeutet dies | شو بيعني هاد للمتدرّبين
+tip: Für Auszubildende bedeutet dies: sie müssen sich in ein bestehendes System integrieren, lernen Teamstrukturen zu verstehen, aktiv Kontakt zu Kolleg*innen suchen, eigene Lerninteressen formulieren | بالنسبة للمتدرّبين هاد بيعني: لازم يندمجوا بنظام موجود أصلاً، يتعلّموا يفهموا بنية الفريق، يدوّروا بنشاط على تواصل مع الزملاء، ويحكوا بوضوح شو بدهم يتعلّموا
+
+## Merksatz für die Prüfung (Vorschlag) | جملة الحفظ للامتحان (اقتراح)
+p: Auszubildende integrieren sich aktiv in das bestehende interdisziplinäre Team: Sie verstehen die Berufsgruppen und Hierarchien, suchen selbst Kontakt zu Kolleg*innen und Praxisanleitung und formulieren ihre Lernziele. Hierarchien respektieren sie, sprechen aber Probleme – vor allem bei Gefahr für die Patientensicherheit – sachlich und begründet an. | المتدرّبون بيندمجوا بشكل فعّال بالفريق متعدد التخصصات الموجود: بيفهموا الفئات المهنية والهرمية، بيبادروا بالتواصل مع الزملاء والمرشد العملي، وبيحددوا أهدافهم التعليمية. بيحترموا الهرمية، بس بيحكوا عن المشاكل – خصوصاً لما تكون سلامة المريض بخطر – بشكل موضوعي ومع سبب.
+note: Dieser Merksatz ist eine Zusammenfassung von Claude, nicht von der Folie. | هالجملة تلخيص من Claude، مش من الشريحة. احفظ جملة الشريحة فوق كأساس.
+
+img: ingo-loesung | Folie „Gruppenarbeit Lösung" (Foto aus dem Unterricht) | شريحة "حل العمل الجماعي" (صورة من الدرس)
