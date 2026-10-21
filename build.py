@@ -70,7 +70,9 @@ def render_page(lines):
             cells = re.split(r"\s*;;\s*", line[3:].strip())
             table.append("<tr>" + "".join(cell(c, th) for c in cells) + "</tr>"); continue
         close()
-        if line.startswith("### "):
+        if line.strip() == "↓":
+            out.append('<div class="flowarrow" aria-hidden="true">↓</div>')
+        elif line.startswith("### "):
             out.append(f"<h4>{bi(line[4:])}</h4>")
         elif line.startswith("## "):
             out.append(f"<h3>{bi(line[3:])}</h3>")

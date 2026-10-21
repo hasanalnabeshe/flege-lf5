@@ -1,0 +1,58 @@
+@page es | Expertenstandard Schmerzmanagement | المعيار الخبير لإدارة الألم | Schmerzmanagement / إدارة الألم
+# Expertenstandard Schmerzmanagement | المعيار الخبير لإدارة الألم
+note: Prüfungsthema 4. Anhang 1: Ablauf des pflegerischen Schmerzmanagements – © Deutsches Netzwerk für Qualitätsentwicklung in der Pflege (DNQP) 2020. Das Ablaufschema ist dem Expertenstandard „Schmerzmanagement in der Pflege, Aktualisierung 2020" entnommen. | موضوع الامتحان 4. الملحق 1: خطوات إدارة الألم التمريضية – من الشبكة الألمانية لتطوير الجودة بالتمريض (DNQP) 2020. المخطط مأخوذ من المعيار الخبير "إدارة الألم بالتمريض، تحديث 2020".
+tip: Merke die 5 Schritte: **Screening → Assessment → Maßnahmen → Verlaufskontrolle → Evaluation** | احفظ الخطوات الخمسة: **فحص أولي ← تقييم ← إجراءات ← متابعة ← تقييم نهائي**
+
+## Ablauf des pflegerischen Schmerzmanagements | خطوات إدارة الألم التمريضية
+box: grau | Rahmen | الإطار العام
++ Koordination des Schmerzmanagements unter Einbeziehung des Menschen mit Schmerzen. | تنسيق إدارة الألم مع إشراك الشخص اللي عنده ألم.
++ Bei speziellen Bedarfen und komplexen Situationen: Pflegerische Schmerzexpertin/pflegerischen Schmerzexperten einbeziehen. | بالاحتياجات الخاصة والحالات المعقّدة: إشراك خبيرة/خبير ألم تمريضي.
++ Zusammenarbeit im interprofessionellen Team. | تعاون ضمن فريق متعدد المهن.
+p: **Beginn des pflegerischen Auftrags** | **بداية المهمة التمريضية**
+↓
+box: teal | ① Screening | ① الفحص الأولي
++ **Sind Schmerzen vorhanden?** | **هل في ألم؟**
++ Keine Schmerzen vorhanden = Screening negativ → (später erneut screenen) | ما في ألم = الفحص سلبي ← (منرجع منفحص بعدين)
++ Schmerzen vorhanden = Screening positiv → Assessment | في ألم = الفحص إيجابي ← التقييم
+box: rot | ! Initialbehandlung | ! العلاج الأولي الفوري
++ bei starken Schmerzen und sofortige Information des Arztes/der Ärztin | عند الألم الشديد، مع إبلاغ الطبيب/الطبيبة فوراً
+↓
+box: blau | ② Assessment | ② التقييم
++ **Welche Eigenschaften haben die Schmerzen?** | **شو خصائص الألم؟**
++ **Chronisch oder akut?** | **مزمن ولا حاد؟**
++ **Stabile oder instabile Situation?** | **الوضع مستقر ولا غير مستقر؟**
+↓
+box: rot | Akuter Schmerz | ألم حاد
++ stabile Situation → direkt zu Maßnahmen | وضع مستقر ← مباشرة للإجراءات
++ instabile Situation → Ziele / Behandlungsplan | وضع غير مستقر ← الأهداف / خطة العلاج
+box: lila | Chronischer Schmerz | ألم مزمن
++ instabile Situation → Ziele / Behandlungsplan | وضع غير مستقر ← الأهداف / خطة العلاج
++ stabile Situation → direkt zu Maßnahmen | وضع مستقر ← مباشرة للإجراءات
+↓
+box: orange | Nur bei instabiler Situation | بس بالوضع غير المستقر
++ **Überprüfung/Festlegung** individueller Ziele | **مراجعة / تحديد** أهداف فردية
++ **Entwicklung/Überprüfung** Behandlungsplan | **وضع / مراجعة** خطة العلاج
+↓
+box: gruen | ③ Maßnahmen | ③ الإجراءات
++ **Umsetzung/Fortführung des Behandlungsplans** | **تنفيذ / استمرار خطة العلاج**
++ Information, Schulung, Beratung | معلومات، تعليم، إرشاد
++ Nicht-medikamentöse Maßnahmen | إجراءات بدون أدوية
++ Medikamentöse Maßnahmen | إجراءات بالأدوية
++ Prophylaxe und Dokumentation von Nebenwirkungen | الوقاية من الأعراض الجانبية وتوثيقها
+↓
+box: orange | ④ Verlaufskontrolle | ④ متابعة المسار
++ **Wie haben sich die Schmerzen verändert?** | **كيف تغيّر الألم؟**
++ regelmäßig, oder anlassbezogen (z.B. wenn Schmerzen weiterhin vorhanden und instabil), oder wenn keine Schmerzen mehr vorhanden sind → Evaluation | بشكل منتظم، أو عند سبب (مثلاً الألم لسا موجود وغير مستقر)، أو لما الألم يروح ← التقييم النهائي
++ Schmerzen weiterhin vorhanden, stabile Situation, Schmerzmaß akzeptabel → zurück zu Maßnahmen | الألم لسا موجود، الوضع مستقر، ودرجة الألم مقبولة ← نرجع للإجراءات
+↓
+box: lila | ⑤ Evaluation | ⑤ التقييم النهائي
++ **Sind die pflegerischen Maßnahmen wirksam?** | **هل الإجراءات التمريضية فعّالة؟**
++ **Sind die Therapieziele erreicht?** | **هل تحققت أهداف العلاج؟**
+
+## Nach der Evaluation – wohin? | بعد التقييم – لوين؟
+box: gruen | Keine Schmerzen mehr vorhanden | ما عاد في ألم
++ → zurück zum **Screening** | ← نرجع **للفحص الأولي**
+box: orange | Schmerzen weiterhin vorhanden, stabile Situation, Schmerzmaß akzeptabel | الألم لسا موجود، مستقر، ودرجته مقبولة
++ → zurück zu **Maßnahmen** (Behandlungsplan fortführen) | ← نرجع **للإجراءات** (نكمّل الخطة)
+box: rot | Schmerzen weiterhin vorhanden, instabil, nicht akzeptabel | الألم لسا موجود، غير مستقر، وغير مقبول
++ → zurück zum **Assessment** | ← نرجع **للتقييم** من جديد
