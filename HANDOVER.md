@@ -75,6 +75,14 @@ HANDOVER.md         ← هالملف
 
 ---
 
+## 3b. مواضيع الامتحان (من اللوح، 21.10.2026)
+
+1. **Ingos TB** – Merksatz zur Gruppenarbeit: Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? ← **مش بالموقع بعد**
+2. **Chirurgische Behandlungspfade** – Was ist ein Behandlungspfad? Welche Rolle spielen die PFK im Behandlungspfad → zentraler Aspekt ← ✅ موجود
+3. **ZNS** – Einteilung (Tafelbild insb.); Reiz-Reaktions-Kette = Grundprinzip ↔ Reflex; worauf können Veränderungen im ZNS Einfluss nehmen; Beschreibung NZ (Nervenzelle); Bestandteile des Gehirns; Rückenmark; Hirn- + RM-Häute ← ✅ موجود
+4. **Expertenstandard** ← **مش بالموقع بعد** (غالباً DNQP Expertenstandard Schmerzmanagement)
+5. **Schmerzmanagement – Pflege bei Schmerzen**: Rolle der Pflege, Schmerzassessment, Schmerzen bei Kindern, Begleitsymptome, Schmerzprävention, Schmerztherapie ← **جزئياً** (بس Lernaufgabe Schmerz)
+
 ## 4. شو خلص
 
 - [x] **Behandlungspfad**: النص كامل، أهداف، مثال akutes Abdomen، جدول Hüft-TEP، وصور الورقة الأصلية
@@ -95,6 +103,7 @@ HANDOVER.md         ← هالملف
 - [ ] **التأكد من Vercel**: Hasan لازم يعمل Import لـ `flege-lf5` (Other / Output `public`) ويبعت الرابط. بعدها نكتب الرابط هون.
 - [ ] **الـ repo `flege-lf5` لازم يصير Private**. هو هلأ Public وفيه خط إيد Hasan، صور أوراقه، وأسماء زملائه على الشرائح.
 - [ ] **تقرير إذا لازم نحذف branch `lf5-lernseite`** من `pflege` (صار نسخة مكررة).
+- [ ] **مواضيع الامتحان الناقصة**: Ingos TB (Teamarbeit/Hierarchien)، Expertenstandard، Schmerzmanagement كامل – بانتظار أوراق Hasan
 - [ ] **مواضيع جديدة**: كل ما يبعت Hasan أوراق جديدة، بتنضاف (صفحة جديدة أو ملف `08-....txt`).
 - [ ] اختياري: One Minute Wonder لكل مجموعة، وأسئلة مراجعة / Quiz.
 
@@ -148,3 +157,4 @@ git add -A && git commit -m "..." && git push origin main
 - **20.10.2026**: صور ZNS انقصت من جديد من الـ scan الأصلي. صورة الخلية العصبية اتبدلت بورقة العمل الأصلية (رسمة Hasan مع كتابته).
 - **20.10.2026**: Hasan بعت صور واضحة، اتبدلت: Wirbel، Wirbelsäule، Rückenmark-Querschnitt، Hirn-/Rückenmarkshäute، Liquorräume.
 - **21.10.2026**: Hasan عمل repo `flege-lf5`، والموقع انرفع على `main`. صار هو المصدر الأساسي. انعمل HANDOVER.md و CLAUDE.md.
+- **21.10.2026**: Hasan بعت صورة اللوح بمواضيع الامتحان (5 مواضيع) – انضافت بالقسم 3b.
