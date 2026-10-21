@@ -1,0 +1,225 @@
+@page sm-grund | Schmerz – Grundlagen | الألم – الأساسيات | Schmerzmanagement / إدارة الألم
+# Schmerzmanagement – Grundlagen | إدارة الألم – الأساسيات
+note: Skript zur PowerPoint, LF 5 Schmerzmanagement (DRK Krankenpflegeschule Saarlouis). Die handschriftlichen Lücken sind Hasans Notizen. | سكربت العرض، LF 5 إدارة الألم. الفراغات المكتوبة بخط اليد هي ملاحظات Hasan.
+
+## Prüfungsthema 5 – wo steht was? | موضوع الامتحان 5 – وين موجود كل شي؟
+th: Tafel | على اللوح ;; Hier im Skript | بالسكربت ;; Stand | الحالة
+tr: Rolle der Pflege | دور التمريض ;; Seite „Pflege bei Schmerzen" | صفحة "التمريض عند الألم" ;; ✅
+tr: Schmerzassessment | تقييم الألم ;; „Bedeutung für die Pflege" + 10. Schmerzqualität | "أهمية للتمريض" + 10. نوعية الألم ;; ⚠️ teilweise (keine Skalen) | جزئي (ما في مقاييس)
+tr: Schmerzen bei Kindern | الألم عند الأطفال ;; 11. Akuter Schmerz (1 Zeile) | 11. الألم الحاد (سطر واحد) ;; ⚠️ nur 1 Zeile | سطر واحد بس
+tr: Begleitsymptome | الأعراض المرافقة ;; 5. vegetativ + motorisch; 9. psychogen | 5. لاإرادية + حركية؛ 9. نفسي المنشأ ;; ✅
+tr: Schmerzprävention | الوقاية من الألم ;; – ;; ❌ fehlt im Skript | ❌ مش موجود بالسكربت
+tr: Schmerztherapie | علاج الألم ;; Auftrag: Pflege bei akuten / chronischen Schmerzen | المهمة: تمريض الألم الحاد / المزمن ;; ⚠️ teilweise | جزئي
+
+## 1. Dimensionen des Schmerzes | 1. أبعاد الألم
+q: Einstiegsfrage: Wenn Sie Schmerz definieren könnten, wie würde Ihre Definition lauten? | سؤال البداية: لو بدك تعرّف الألم، شو رح يكون تعريفك؟
+p: **Definition:** Schmerz ist ein unangenehmes und Gefühlserlebnis, das mit aktueller oder potenzieller Gewebeschädigung verknüpft ist mit Begriffen eine solchen Schädigung beschrieben werden kann (ASP, 1983) | **التعريف:** الألم تجربة حسّية وعاطفية مزعجة، مرتبطة بتلف نسيجي حاصل أو محتمل، أو بتنوصف بكلمات متل كأنه في تلف.
+fix: Richtig: „Schmerz ist ein unangenehmes **Sinnes- und Gefühlserlebnis**, das mit aktueller oder potenzieller Gewebeschädigung verknüpft ist **oder** mit Begriffen **einer solchen** Schädigung beschrieben werden kann." Quelle: **IASP** (International Association for the Study of Pain). | ناقص كلمة **Sinnes-** (حسّي)، وكلمة **oder** قبل mit Begriffen، و **einer solchen**. والمصدر اسمه **IASP** مش ASP.
+tip: → Beide Aussagen machen deutlich, dass Schmerz nicht nur mit einer potenziellen Schädigung des Körpers einhergeht, sondern dass Schmerz auch ein subjektives Empfinden ist | ← الجملتين بيوضّحوا إنه الألم مش بس مرتبط بتلف محتمل بالجسم، كمان هو إحساس شخصي (ذاتي).
+
+## 2. Ebenen des Schmerzempfindens | 2. مستويات الإحساس بالألم
+p: **Viele verschiedene Faktoren haben Einfluss darauf, wie wir Schmerzen empfinden** | **عوامل كتير مختلفة بتأثّر على كيف منحسّ بالألم**
+p: Abb. 21.1 Faktoren des Schmerzempfindens | الشكل 21.1 عوامل الإحساس بالألم
+box: rot | physische Faktoren | عوامل جسدية
++ Kraftlosigkeit | ضعف / قلة قوة
++ Erbrechen | إقياء
++ Appetitlosigkeit | فقدان الشهية
++ Verstopfung | إمساك
+box: orange | soziale Faktoren | عوامل اجتماعية
++ Rollen/Beziehungen | الأدوار والعلاقات
++ Zuneigung | المودّة والاهتمام
++ Passivität | السلبية (قلة النشاط)
++ häufiges Aufsuchen des Arztes | الذهاب للطبيب كتير
++ Arbeitsunfähigkeit | عدم القدرة على العمل
+box: teal | geistige Faktoren | عوامل روحية / فكرية
++ Leiden | المعاناة
++ Motivationsverlust | فقدان الحافز
++ Religiosität | التديّن
++ Schuldgefühl | الشعور بالذنب
+box: lila | psychische Faktoren | عوامل نفسية
++ Angst | خوف
++ Depression | اكتئاب
++ Qual | معاناة
++ Wahrnehmungs-/Aufmerksamkeitsstörung | اضطراب بالإدراك / الانتباه
+box: blau | kulturelle Faktoren | عوامل ثقافية
++ Jammern und Klagen sind üblich | التشكّي والأنين شي طبيعي (بثقافات معيّنة)
++ Schmerz wird nicht gezeigt | الألم ما بينظهر (بثقافات تانية)
+tip: Schmerz ist ein subjektives Empfinden, daher gilt folgender Merksatz: Schmerzen ist das, was der Betroffen als Schmerz empfindet, bzw. was er als solches beherrscht. | الألم إحساس شخصي، لهيك في جملة حفظ: الألم هو اللي الشخص المصاب بيحسّه كألم، أو اللي هو بيسمّيه ألم.
+fix: „der Betroffen" → **der Betroffene**; „beherrscht" → gemeint ist **bezeichnet** / **beschreibt**. Bekannte Form (McCaffery): „Schmerz ist das, was der Betroffene über die Schmerzen mitteilt. Sie sind vorhanden, wenn der Patient sagt, dass er Schmerzen hat." | الصح **der Betroffene**. والجملة المعروفة (McCaffery): الألم هو اللي المريض بيقوله عن ألمه، والألم موجود لما المريض بيقول إنه موجوع.
+
+## 3. Funktionen des Schmerzes | 3. وظائف الألم
+p: **Lebenswichtiges Warnsignal:** | **إشارة تحذير ضرورية للحياة:**
+p: Zeigt sich in: | بيظهر بـ:
+box: blau | Reflexen | الردود الانعكاسية
++ Rückzug aus einer Gefahrensituation (z.B. heiße Herdplatte) | الانسحاب من موقف خطر (مثلاً لوح الطبخ السخن)
+box: gruen | Ruhe | الراحة
++ Bei Frakturen, Bänderrissen usw. zwingt uns der Schmerz zur Ruhe | بالكسور وتمزّق الأربطة وغيرها، الألم بيجبرنا نرتاح
+p: Umgekehrt können auch z.B im Schockzustand erstmal keine Schmerzen empfunden werden → damit der Körper zunächst die akute Stresssituation überwinden kann. | وبالعكس، ممكن مثلاً بحالة الصدمة ما نحسّ بأي ألم بالبداية ← حتى الجسم يقدر أول شي يتخطّى موقف الضغط الحاد.
+warn: Merke: Schmerzen sind Warnsignale des Körpers. Sie haben eine lebenserhaltende Melde-, Schutz- und Heilfunktion! | تذكّر: الألم إشارات تحذير من الجسم. إله وظيفة بتحافظ على الحياة: **تبليغ، حماية، وشفاء!**
+
+## 4. Physiologie des Schmerzes | 4. فيزيولوجيا الألم
+p: Ein Schmerzreiz entsteht, wenn die Schmerzrezeptoren (=*Nozizeptoren*) auf einen Reiz reagieren! | منبّه الألم بيصير لما مستقبلات الألم (= *Nozizeptoren*) بتتفاعل مع منبّه!
+p: Schmerzrezeptoren sitzen in: **Haut, Organe,** | مستقبلات الألم موجودة بـ: **الجلد، الأعضاء،**
+fix: Ergänzen: auch in **Muskeln, Gelenken, Knochen(haut), Bindegewebe, Gefäßen**. (Das Gehirngewebe selbst hat keine.) | ضيف كمان: **العضلات، المفاصل، غشاء العظم، النسيج الضام، الأوعية**. (نسيج الدماغ نفسه ما فيه مستقبلات ألم.)
+tip: **Nozizepzion** = Physiologischer Prozess der Schmerzwahrnehmung, d.h. die Aufnahme, Weiterleitung und Verarbeitung von Schmerzreizen durch das Nervensystem | **Nozizeption** = العملية الفيزيولوجية لإدراك الألم، يعني: استقبال منبّهات الألم، نقلها، ومعالجتها عبر الجهاز العصبي
+fix: Schreibweise: **Nozizeption** (mit t). | الكتابة الصح: **Nozizeption** (بحرف t).
+p: Schmerzauslösend wirken dabei: | الشي اللي بيسبّب الألم:
+box: grau | Mechanische Reize | منبّهات ميكانيكية
++ Druck, Verletzung | ضغط، إصابة
+box: rot | Thermische Reize | منبّهات حرارية
++ Hitze, Kälte | حر، برد
+box: gruen | Chemische Reize | منبّهات كيميائية
++ toxische Einflüsse, Krankheitserreger | مواد سامة، جراثيم
+box: orange | Elektrische Reize | منبّهات كهربائية
+
+## 5. Schmerzweiterleitung | 5. نقل الألم
+p: Die freigesetzten Schmerzreize gelangen über 2 verschiedene Nervenfasern zum Rückenmark | منبّهات الألم بتوصل للنخاع الشوكي عبر نوعين مختلفين من الألياف العصبية
+box: blau | 1. Die A-delta-Fasern | 1. ألياف A-delta
++ haben eine Myelinschicht und sind schnellleitend | عليها طبقة ميالين، وسريعة النقل
++ Sie bewirken einen gut lokalisierbaren Sofortschmerz | بتعمل ألم فوري، مكانه واضح
++ und lösen Fluchtreflexe aus, z.B. das Wegziehen der Hand von der Herdplatte bei starker Hitze | وبتطلق رد الهروب، مثلاً سحب الإيد عن لوح الطبخ السخن
++ → „erster Schmerz" | ← "الألم الأول"
+box: rot | 2. Die C-Fasern | 2. ألياف C
++ sind nicht myelisiert und leiten den Schmerzreiz langsam weiter | بدون ميالين، وبتنقل الألم ببطء
++ → „zweiter Schmerz" (bis Minuten) | ← "الألم التاني" (بيطوّل لدقائق)
+- Beide Nervenfasern treten in das Hinterhorn ein: hier erfolgt die erste Umschaltung | النوعين بيدخلوا على **القرن الخلفي** للنخاع: هون بيصير أول تحويل (Umschaltung)
+- Dann passieren gleichzeitig: | بعدين بيصيروا بنفس الوقت:
+  - Weiterleitung an das Gehirn (Mittelhirn – Zwischenhirn – Hypothalamus – Großhirn – Kleinhirn – Rückenmark | نقل للدماغ (الدماغ المتوسط – الدماغ البيني – الوطاء – المخ – المخيخ – النخاع الشوكي)
+  - Reflexartige muskuläre Antwort (z.B. Hand weg von der Herdplatte) | رد عضلي انعكاسي (مثلاً تشيل إيدك عن لوح الطبخ)
+fix: Die wichtigste Umschaltstelle im Gehirn ist der **Thalamus** (nicht Hypothalamus) → von dort zur **sensorischen Rinde** (Großhirn) = bewusste Schmerzwahrnehmung. So steht es auch in der Abbildung im Skript. | أهم محطة بالدماغ هي **المهاد (Thalamus)** مش الوطاء ← ومنه للقشرة الحسية بالمخ = هون منحسّ بالألم بوعي. هيك مرسوم كمان بصورة السكربت.
+p: **Weg des Schmerzes (Abbildung):** Schmerzreiz (mechanisch / elektrisch / chemisch / thermisch) → Nozizeptoren → A-delta-Fasern (myelisiert) / C-Fasern (nicht myelisiert) → Hinterhorn des Rückenmarks → Rückenmark → Thalamus → sensorische Rinde: Schmerzwahrnehmung | **طريق الألم (الرسمة):** منبّه ← مستقبلات الألم ← ألياف A-delta / C ← القرن الخلفي ← النخاع ← المهاد ← القشرة الحسية: إدراك الألم
+
+## Begleitsymptome | الأعراض المرافقة
+box: rot | Körperlich wird dieser Prozess begleitet von vegetativen Symptomen wie: | جسدياً هالعملية بترافقها أعراض لاإرادية (vegetativ) متل:
++ Blässe | شحوب
++ Schweißausbrüche | نوبات عرق
++ Übelkeit, Erbrechen | غثيان، إقياء
++ Hypertonie | ارتفاع الضغط
++ Tachykardie und Tachypnoe, Atmung | تسرّع القلب وتسرّع التنفس، (تغيّر) التنفس
+box: orange | Motorisch: | حركياً:
++ Schwäche | ضعف
++ Schonhaltung | وضعية حماية (المريض بيحمي المكان الموجوع)
++ steife und verkrampfte Körperhaltung | وضعية جسم متيبّسة ومتشنّجة
+
+@page sm-arten | Schmerzarten | أنواع الألم | Schmerzmanagement / إدارة الألم
+# Schmerzarten | أنواع الألم
+
+## 6. Schmerzarten | 6. أنواع الألم
+p: Schmerzen werden nach dem Ort ihrer Entstehung eingeordnet in: | الألم بيتصنّف حسب مكان نشوئه لـ:
+box: blau | Nozizeptiver Schmerz | ألم مستقبِلي (من مستقبلات الألم)
+box: lila | Neuropathischer Schmerz | ألم عصبي
+box: rosa | Psychogener Schmerz | ألم نفسي المنشأ
+p: **Nozirezeptoren** = Die sog. Nozizeptoren sind freie sensorische Nervenendigungen, die für die Schmerzwahrnehmung verantwortlich sind. Sie werden bei einer drohenden oder bereits erfolgten Schädigung eines Organs oder eines Gewebes gereizt und leiten den Schmerzreiz an das Gehirn weiter, wo es das Schmerzempfinden auslöst | **مستقبلات الألم** = هي نهايات عصبية حسّية حرّة، مسؤولة عن إدراك الألم. بتتنبّه لما يكون في تلف بعضو أو نسيج (رح يصير أو صار)، وبتنقل منبّه الألم للدماغ، وهناك بيطلع الإحساس بالألم.
+fix: Überschrift im Skript „Nozirezeptoren" → richtig **Nozizeptoren**. | العنوان بالسكربت غلط، الصح **Nozizeptoren**.
+p: Schmerz entsteht hier wenn: | الألم بيصير هون لما:
+tip: Reiz → trifft Nervenendigung → Überschreitung Schmerzschwelle → Ausschüttung chemischer Botenstoffe → Stimulation der Schmerzrezeptoren. **Diesen Prozess nennt man Nozizepzion** | منبّه ← بيوصل للنهاية العصبية ← بيتخطّى عتبة الألم ← إفراز مواد كيميائية ناقلة ← تنبيه مستقبلات الألم. **هالعملية اسمها Nozizeption**
+
+## 7. Schmerzarten – Nozizeptiver Schmerz | 7. الألم المستقبِلي
+p: Nozizeptive Schmerzen werden unterschieden in: | الألم المستقبِلي بينقسم لـ:
+box: gruen | 1. Somatischer Schmerz | 1. ألم جسدي (سوماتي)
++ Direkte Reizung erfolgt in Haut, Muskeln, Bindegewebe, Knochen und Gelenken | التنبيه مباشر بالجلد، العضلات، النسيج الضام، العظام والمفاصل
++ Je nach Lage werden Sie in **oberflächlichen Schmerz** und **tiefen Schmerz** eingeteilt. | حسب المكان بينقسم لـ **ألم سطحي** (بالجلد) و **ألم عميق** (عضلات، عظام، مفاصل)
++ beschrieben werden sie als: **stechend, scharf begrenzt und gut lokalisierbar** | بيتوصف إنه: **واخز، حدوده واضحة، ومكانه سهل يتحدد**
+box: blau | 2. Viszeraler Schmerz | 2. ألم حشوي (من الأعضاء الداخلية)
++ Schmerzen in Brust-, Bauch- und Beckenraum | ألم بالصدر والبطن والحوض
++ beschrieben wird der Schmerz als: **dumpf und schlecht lokalisierbar** (Grund: weniger Schmerzrezeptoren) | بيتوصف إنه: **مكتوم وصعب نحدد مكانه** (السبب: مستقبلات ألم أقل)
++ Abbildung: dumpf, ziehend, drückend | بالرسمة: مكتوم، شادّ، ضاغط
+warn: → Gefahr der Fehldiagnosen ist hier erhöht! | ← هون خطر التشخيص الغلط أعلى!
+
+## 8. Schmerzarten – Neuropathischer Schmerz | 8. الألم العصبي
+box: lila | Neuropathischer Schmerz | الألم العصبي
++ Entstehen durch Störung oder Schädigung des peripheren oder zentralen Nervensystem | بينتج عن خلل أو تلف بالجهاز العصبي المحيطي أو المركزي
++ **Beispiele:** Tumore, Bandscheibenvorfälle → üben Druck auf einen Nerv aus | **أمثلة:** أورام، انزلاق غضروفي ← بيضغطوا على عصب
++ Schmerz werden beschrieben als: **einschießend, schneidend, stechend und attackenweise auftretend** | بيتوصف إنه: **بيضرب فجأة، قاطع، واخز، وبيجي على شكل نوبات**
+fix: Typisch beim neuropathischen Schmerz ist außerdem: **brennend** und **elektrisierend**, oft mit Kribbeln oder Taubheit. | كمان نموذجي بالألم العصبي: **حارق** و **متل الكهربا**، وكتير مع تنميل أو خدر.
+
+## 9. Schmerzarten – Psychogener Schmerz | 9. الألم نفسي المنشأ
+box: rosa | Psychogener Schmerz | الألم نفسي المنشأ
++ **Hier liegt keine organische Ursache vor.** | **هون ما في سبب عضوي.**
++ **Entstehung durch:** Konflikte, psychische Überforderung, Angst, Depressionen, Stress | **بينتج عن:** صراعات، ضغط نفسي زايد، خوف، اكتئاب، توتر
++ Schmerz wird beschrieben als: **real, aber nicht deutlich beschreibbar, nicht veränderbar** | بيتوصف إنه: **حقيقي، بس صعب ينوصف بوضوح، وما بيتغيّر**
++ Schmerz geht oft einher mit vegetativen Symptome wie: Kopfschmerzen, Schlafstörungen | غالباً بيرافقه أعراض لاإرادية متل: صداع، مشاكل نوم
+warn: Schmerzmittel helfen nicht → psychotherapeutische Begleitung ist notwendig | المسكّنات ما بتفيد ← لازم مرافقة علاج نفسي
+
+## 10. Schmerzdauer und Schmerzqualität | 10. مدة الألم ونوعيته
+p: **Schmerzqualität** | **نوعية الألم**
+box: rot | akutes Schmerzereignis | ألم حاد
++ Schmerzen, die als schneidend, stechend, scharf und klar lokalisierbar beschrieben werden, weisen auf ein akutes Schmerzereignis hin. | الألم اللي بيتوصف إنه قاطع، واخز، حاد ومكانه واضح، بيدل على ألم حاد.
+box: blau | länger andauerndes Schmerzgeschehen | ألم طويل المدة
++ Ziehende, klopfende oder brennende Schmerzen deuten hingegen eher auf ein länger andauerndes Schmerzgeschehen hin. | أما الألم الشادّ أو النابض أو الحارق، فبيدل أكتر على ألم مستمر من زمان.
+note: Therapie und Pflege sind hier jeweils sehr unterschiedlich. | العلاج والتمريض بيختلفوا كتير بين الحالتين.
+
+## 11. Akuter Schmerz · 12. Chronischer Schmerz | 11. الألم الحاد · 12. الألم المزمن
+box: rot | Akuter Schmerz | الألم الحاد
++ Plötzlich auftretend | بيجي فجأة
++ Dauer: kurz | مدته: قصيرة
++ Setzen ein wenn ein Gewebe geschädigt wurde; z.B. Verletzung, Quetschung, Fraktur usw. | بيبلش لما يتضرر نسيج؛ مثلاً إصابة، رضّ، كسر...
++ Funktion: sinnvoll und lebenserhaltend → melden Schäden oder drohende Schädigungen am Organismus | وظيفته: مفيد وبيحافظ على الحياة ← بيبلّغ عن ضرر صار أو رح يصير بالجسم
++ Lokalisation bei Kindern schwierig → zeigt sich durch Mimik | عند الأطفال صعب نحدد المكان ← بيبيّن من تعابير الوجه
++ Akuter Schmerz fördert Wundheilung z.B. durch Ruhigstellung | الألم الحاد بيساعد بشفاء الجرح، مثلاً لأنه بيخلّينا نثبّت المكان
+box: blau | Chronischer Schmerz | الألم المزمن
++ Chronische Schmerzen haben ihre sinnvolle Melde-, Schutz- und Heilfunktion verloren | الألم المزمن خسر وظيفته المفيدة: التبليغ، الحماية، والشفاء
++ Bestehen 3 - 6 Monate kontinuierlich durch | مستمر 3 – 6 أشهر بدون انقطاع
++ Kehren immer wieder | بيرجع كل مرة
++ Schlecht lokalisierbar | صعب نحدد مكانه
++ Stehen mit der ursprünglichen Verletzung oder Schädigung kaum noch in Zusammenhang | تقريباً ما عاد إله علاقة بالإصابة الأصلية
++ Schmerz verselbstständigen sich und entwickeln sich zu einem eigenständigen Krankheitsbild | الألم بيصير مستقل، وبيتحوّل لمرض قائم بحد ذاته
++ Ist physisch und psychisch belastend mit Folgen für das soziale Leben | متعب جسدياً ونفسياً، وإله نتائج على الحياة الاجتماعية
++ Bsp.: Arthrose, Rheuma, Osteoporose, chronische Wunden, Rückenschmerzen | أمثلة: خشونة المفاصل، روماتيزم، هشاشة العظام، جروح مزمنة، ألم ظهر
+p: **Abb. 21.3 Entwicklung von chronischen Schmerzen** | **الشكل 21.3 كيف بيتطوّر الألم المزمن**
+1. akuter Schmerz | ألم حاد
+2. Schmerzgedächtnis | ذاكرة الألم
+3. chronischer Schmerz | ألم مزمن
+- Nervenzellen werden empfindlicher | الخلايا العصبية بتصير أحسّاس
+- geringere Reize lösen Schmerzempfinden aus | منبّهات أصغر بتعمل ألم
+box: rosa | psychische und soziale Probleme | مشاكل نفسية واجتماعية
++ Depressionen, Reizbarkeit, Schwäche | اكتئاب، عصبية، ضعف
++ Isolation | عزلة
++ Körperzentriertheit | تركيز زايد على الجسم
+
+@page sm-pflege | Pflege bei Schmerzen | التمريض عند الألم | Schmerzmanagement / إدارة الألم
+# Pflege bei Schmerzen | التمريض عند الألم
+
+## Bedeutung für die Pflege | الأهمية بالنسبة للتمريض
+q: Welche Faktoren sollten bei der Beobachtung eines Pflegeempfängers beachtet werden, um das subjektive Schmerzempfinden eines Pflegeempfängers individuell einschätzen zu können? | شو العوامل اللي لازم ننتبهلها لما نراقب المريض، حتى نقدر نقيّم إحساسه الشخصي بالألم بشكل فردي؟
+box: teal | Beobachten | المراقبة
++ Körperhaltung | وضعية الجسم
++ Anzeichen für Krampf | علامات تشنّج
++ Mimik | تعابير الوجه
++ wie kommuniziert der PE? (leise, verkrampft) | كيف بيتواصل المريض؟ (بصوت واطي، متشنّج)
+box: lila | Zustand | الحالة
++ Kognitiver Zustand | الحالة الإدراكية (الذهنية)
++ Organischer Zustand | الحالة العضوية (الجسدية)
++ Medikamente | الأدوية
+box: rosa | Person | الشخص نفسه
++ Erwartung und Erfahrungen | التوقّعات والتجارب السابقة
++ Angst | الخوف
++ Kompensationsstrategie | استراتيجية التعويض (كيف بيتعامل مع الألم)
++ ↳ wie wird das Ereignis in die Lebenswelt eingeordnet | ↳ كيف بيحطّ هالشي بسياق حياته
+note: PE = Pflegeempfänger (Patient). | PE يعني Pflegeempfänger، أي المريض.
+
+## Pflege bei akuten und chronischen Schmerzen | التمريض عند الألم الحاد والمزمن
+q: Auftrag: Stellen Sie die pflegerischen Maßnahmen bei akuten und chronischen Schmerzen tabellarisch gegenüber. | المهمة: قارن بجدول بين الإجراءات التمريضية بالألم الحاد والألم المزمن.
+box: rot | Pflege bei akuten Schmerzen | التمريض عند الألم الحاد
++ Analgetika | مسكّنات
++ Ruhigstellung | تثبيت المكان المصاب
++ Lagerung | وضعية مريحة
++ Schmerzort/-art/Veränderungen beobachten + dokumentieren | مراقبة مكان الألم ونوعه وتغيّراته + توثيقها
++ Kommunikation → vom Schmerz ablenken → Beobachtung der Situation | التواصل ← إلهاء عن الألم ← مراقبة الوضع
++ Ruhe und Entspannung | هدوء واسترخاء
++ VZ-Kontrolle | قياس العلامات الحيوية
++ Kühlen + Wärmen | تبريد + تدفئة
++ Medikamentenmanagement (auf Wirkung und NW achten) | إدارة الأدوية (الانتباه للمفعول والأعراض الجانبية)
++ Schmerzauslösende Maßnahmen vermeiden | تجنّب الإجراءات اللي بتسبّب ألم
++ leichten Gegendruck ausüben oder dazu → erleichtert z.B das Husten | ضغط خفيف مقابل (مثلاً على الجرح بإيد أو مخدة) ← بيسهّل مثلاً السعال
+box: blau | Pflege bei chronischen Schmerzen | التمريض عند الألم المزمن
++ Psychologische Betreuung → Selbstwert | دعم نفسي ← تقوية الثقة بالنفس
++ Schmerztherapeuten | معالجين ألم مختصين
++ sollen Ängste nennen | المريض يحكي عن مخاوفه
++ Selbstpflege fördern | تشجيع العناية الذاتية
++ **Pflegebedarf einleiten durch:** | **تحديد الحاجة للتمريض عن طريق:**
++ Ermöglichen von Mobilisation | تسهيل الحركة
++ Überwachen VZ – Doku | مراقبة العلامات الحيوية – توثيق
++ Beobachtung | المراقبة
+note: VZ = Vitalzeichen · NW = Nebenwirkungen | VZ = العلامات الحيوية · NW = الأعراض الجانبية
+fix: Ergänzung für chronische Schmerzen: **regelmäßige Schmerzerfassung mit Skala (NRS/VAS)**, **Schmerztagebuch**, **Analgetika nach festem Zeitschema** (WHO-Stufenschema), **nicht-medikamentöse Maßnahmen** (Wärme, Bewegung, Entspannung), **Beratung / Schulung** von Patient und Angehörigen. | إضافة للألم المزمن: **قياس الألم بانتظام بمقياس (NRS/VAS)**، **دفتر يوميات الألم**، **مسكّنات بمواعيد ثابتة** (سلّم منظمة الصحة العالمية)، **إجراءات بدون أدوية** (دفا، حركة، استرخاء)، **إرشاد وتعليم** للمريض وأهله.

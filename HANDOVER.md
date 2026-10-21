@@ -38,6 +38,7 @@ content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ
   05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement (nur Rolle der Pflege)
   06-nervensystem.txt      NS Grundlagen, Fälle, Lernaufgabe Schmerz
   07-zns.txt               Gehirn, Rückenmark, Häute, Liquor, PNS
+  08-schmerz.txt           Schmerzmanagement: Grundlagen (1–5), Schmerzarten (6–12), Pflege bei Schmerzen
 template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
 build.py            ← بيحوّل content/*.txt + template.html إلى public/index.html
 public/index.html   ← الصفحة النهائية (بتنبنى، لا تعدّلها باليد)
@@ -62,6 +63,7 @@ HANDOVER.md         ← هالملف
   - `img: اسم-الصورة | تعليق DE | تعليق AR` (بدون .jpg، من public/img)
   - `gallery: بادئة | عنوان DE | عنوان AR` ← معرض لكل الصور اللي اسمها بيبلش بالبادئة
   - `cards:` ← بطاقات كل الصفحات (بصفحة البداية)
+  - `box: لون | عنوان DE | عنوان AR` وبعده أسطر `+ عنصر DE | AR` ← صناديق ملوّنة جنب بعض (الصناديق المتتالية بتنحط بشبكة). الألوان: rot, orange, gruen, blau, lila, teal, grau, rosa (بتشتغل بالـ dark mode)
   - `**غامق**` و `*مائل*` مدعومين
 - **أسماء الصور**:
   - `herrm-*` أوراق Herr M.
@@ -84,7 +86,7 @@ HANDOVER.md         ← هالملف
 2. **Chirurgische Behandlungspfade** – Was ist ein Behandlungspfad? Welche Rolle spielen die PFK im Behandlungspfad → zentraler Aspekt ← ✅ موجود
 3. **ZNS** – Einteilung (Tafelbild insb.); Reiz-Reaktions-Kette = Grundprinzip ↔ Reflex; worauf können Veränderungen im ZNS Einfluss nehmen; Beschreibung NZ (Nervenzelle); Bestandteile des Gehirns; Rückenmark; Hirn- + RM-Häute ← ✅ موجود
 4. **Expertenstandard** ← **مش بالموقع بعد** (غالباً DNQP Expertenstandard Schmerzmanagement)
-5. **Schmerzmanagement – Pflege bei Schmerzen**: Rolle der Pflege, Schmerzassessment, Schmerzen bei Kindern, Begleitsymptome, Schmerzprävention, Schmerztherapie ← **جزئياً** (بس Lernaufgabe Schmerz)
+5. **Schmerzmanagement – Pflege bei Schmerzen**: Rolle der Pflege, Schmerzassessment, Schmerzen bei Kindern, Begleitsymptome, Schmerzprävention, Schmerztherapie ← **أغلبه موجود** (3 صفحات من Skript zur PowerPoint). بالسكربت نفسه ناقص: مقاييس الألم، الأطفال (سطر واحد بس)، Schmerzprävention، WHO-Stufenschema. جدول "wo steht was" بأول صفحة Grundlagen
 
 ## 4. شو خلص
 
@@ -98,6 +100,7 @@ HANDOVER.md         ← هالملف
 - [x] **ZNS – Gehirn**: الأجزاء ①–⑩ مع صورة الدماغ المرقمة
 - [x] **ZNS – Rückenmark / Häute / Liquor / PNS**: كل الصور اتبدلت بنسخ واضحة بعتها Hasan (Wirbel، Wirbelsäule، Rückenmark-Querschnitt، Häute، Liquor)
 - [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" : بس السؤال والجواب (سطرين "Für Auszubildende bedeutet dies…") مع صورة الشريحة
+- [x] **Schmerzmanagement** (موضوع 5): Skript zur PowerPoint (9 صفحات) منقول كنص، بدون صور الأوراق (Hasan طلب هيك)، مع صناديق ملوّنة. 3 صفحات: Grundlagen، Schmerzarten، Pflege bei Schmerzen
 - [x] الموقع مرفوع على GitHub (`flege-lf5` main)
 - [x] الموقع شغال على الموبايل (جرّبناه 390px) وبالـ dark mode
 
@@ -106,7 +109,7 @@ HANDOVER.md         ← هالملف
 - [ ] **التأكد من Vercel**: Hasan لازم يعمل Import لـ `flege-lf5` (Other / Output `public`) ويبعت الرابط. بعدها نكتب الرابط هون.
 - [ ] **الـ repo `flege-lf5` لازم يصير Private**. هو هلأ Public وفيه خط إيد Hasan، صور أوراقه، وأسماء زملائه على الشرائح.
 - [ ] **تقرير إذا لازم نحذف branch `lf5-lernseite`** من `pflege` (صار نسخة مكررة).
-- [ ] **مواضيع الامتحان الناقصة**: Expertenstandard، Schmerzmanagement كامل – بانتظار أوراق Hasan
+- [ ] **مواضيع الامتحان الناقصة**: Expertenstandard. وبـ Schmerzmanagement: Schmerzen bei Kindern، Schmerzprävention، Schmerztherapie (WHO)، Assessment-Skalen – مش بالسكربت، بانتظار شرائح المعلمة – بانتظار أوراق Hasan
 - [ ] **مواضيع جديدة**: كل ما يبعت Hasan أوراق جديدة، بتنضاف (صفحة جديدة أو ملف `08-....txt`).
 - [ ] اختياري: One Minute Wonder لكل مجموعة، وأسئلة مراجعة / Quiz.
 
@@ -130,6 +133,7 @@ HANDOVER.md         ← هالملف
 - Herr M., Aufgabe 5: "SBR A" ← SBAR
 - Gruppe 3: ناقص فك الجبس عند Kompartmentsyndrom، و Gipskontrolle
 - Nervensystem: "Lähmung" عند العصب الحسي ← الصح Taubheit؛ "Vorderes Übertragungsgehirn" ← Hinterhorn
+- Schmerz: Definition ناقصها "Sinnes-" و "oder"، والمصدر IASP مش ASP؛ Merksatz "Betroffen … beherrscht"؛ Schmerzrezeptoren مش بس Haut/Organe؛ "Nozirezeptoren"/"Nozizepzion" ← Nozizeptoren/Nozizeption؛ Weiterleitung: Thalamus مش Hypothalamus؛ neuropathisch كمان brennend/elektrisierend؛ chronisch: إضافات (Skala، Schmerztagebuch، festes Zeitschema)
 - Hypophyse: Oxytocin مش "Glückshormon" (هو Bindungshormon، وبيتصنع بالـ Hypothalamus)
 
 ---
@@ -165,3 +169,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: صفحة Ingos TB انتقلت لأول القائمة (بعد Übersicht مباشرة)، متل ترتيب اللوح. صفحة البداية انفصلت بـ `00-start.txt`، و `08-teamarbeit.txt` صار `00b-teamarbeit.txt`.
 - **21.10.2026**: Hasan طلب: صفحة Ingos TB بس سؤال واحد وجوابه. انشال قسم "Hintergrund" كله (مع تصحيحاته). ضل السؤال، الجواب، وصورة الشريحة.
 - **21.10.2026**: Hasan طلب يضل من القروبات الستة بس دور التمريض. انحذف: صفحة Gruppenarbeit-Auftrag، أسماء الطلاب، التشريح/Krankheitsbild، التشخيص الطبي، طريقة العملية، المضاعفات الطبية، الخلاصات، ومعارض الشرائح (وتصحيحات Gruppe 2 و 5 و جزء من 3 لأنها كانت بالأقسام المحذوفة). ضل: Aufnahme، Prä-OP Pflege، Post-OP Pflege، Entlassung (وبـ Gruppe 3 تحذير Kompartmentsyndrom + DMS). القائمة صار اسمها "Gruppenarbeit – Rolle der Pflege". الموقع صار 16 صفحة. المحتوى القديم موجود بتاريخ git.
+- **21.10.2026**: Schmerzmanagement انضاف (`content/08-schmerz.txt`، 3 صفحات) من صور Hasan + PDF "Schmerzmangment.pdf" (9 صفحات scan). بدون صور الأوراق الأصلية (طلب Hasan). نوع جديد `box:` / `+` بـ build.py + CSS بـ template.html للصناديق الملوّنة. أغلاط بخط الإيد الواضحة (Analgeitika، dagenung، Beherung، Arwartung) انكتبت صح بالنص. الموقع صار 19 صفحة.

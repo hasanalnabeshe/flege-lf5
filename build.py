@@ -31,16 +31,29 @@ def img(path):
     return f"img/{path}.jpg"
 
 def render_page(lines):
-    out, listtype, table = [], None, None
+    out, listtype, table, boxes = [], None, None, None
     def close():
-        nonlocal listtype, table
+        nonlocal listtype, table, boxes
         if listtype: out.append(f"</{listtype}>"); listtype = None
         if table is not None:
             out.append('<div class="tablewrap"><table>' + "".join(table) + "</table></div>"); table = None
+        if boxes is not None:
+            html_boxes = "".join(f'<div class="box c-{c}"><div class="bt">{bi(t)}</div>' + (f'<ul>{"".join(items)}</ul>' if items else "") + "</div>" for c, t, items in boxes)
+            out.append(f'<div class="boxes">{html_boxes}</div>'); boxes = None
     for raw in lines:
         line = raw.rstrip()
         if not line.strip():
             close(); continue
+        if line.startswith("box: "):
+            if listtype or table is not None:
+                b = boxes; boxes = None; close(); boxes = b
+            if boxes is None: boxes = []
+            color, rest = line[5:].split(" | ", 1)
+            boxes.append((color.strip(), rest, [])); continue
+        if line.startswith("+ ") and boxes:
+            boxes[-1][2].append(f"<li>{bi(line[2:])}</li>"); continue
+        if boxes is not None:
+            close()
         m = re.match(r"^(\s*)(- |\d+\. )(.*)$", line)
         if m and not line.startswith(("th:", "tr:")):
             kind = "ol" if m.group(2)[0].isdigit() else "ul"
