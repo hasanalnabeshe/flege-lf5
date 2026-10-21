@@ -3,13 +3,14 @@
 note: Skript zur PowerPoint, LF 5 Schmerzmanagement (DRK Krankenpflegeschule Saarlouis). Die handschriftlichen Lücken sind Hasans Notizen. | سكربت العرض، LF 5 إدارة الألم. الفراغات المكتوبة بخط اليد هي ملاحظات Hasan.
 
 ## Prüfungsthema 5 – wo steht was? | موضوع الامتحان 5 – وين موجود كل شي؟
-th: Tafel | على اللوح ;; Hier im Skript | بالسكربت ;; Stand | الحالة
-tr: Rolle der Pflege | دور التمريض ;; Seite „Pflege bei Schmerzen" | صفحة "التمريض عند الألم" ;; ✅
-tr: Schmerzassessment | تقييم الألم ;; „Bedeutung für die Pflege" + 10. Schmerzqualität | "أهمية للتمريض" + 10. نوعية الألم ;; ⚠️ teilweise (keine Skalen) | جزئي (ما في مقاييس)
-tr: Schmerzen bei Kindern | الألم عند الأطفال ;; 11. Akuter Schmerz (1 Zeile) | 11. الألم الحاد (سطر واحد) ;; ⚠️ nur 1 Zeile | سطر واحد بس
-tr: Begleitsymptome | الأعراض المرافقة ;; 5. vegetativ + motorisch; 9. psychogen | 5. لاإرادية + حركية؛ 9. نفسي المنشأ ;; ✅
-tr: Schmerzprävention | الوقاية من الألم ;; – ;; ❌ fehlt im Skript | ❌ مش موجود بالسكربت
-tr: Schmerztherapie | علاج الألم ;; Auftrag: Pflege bei akuten / chronischen Schmerzen | المهمة: تمريض الألم الحاد / المزمن ;; ⚠️ teilweise | جزئي
+p: Alle 6 Punkte von der Tafel sind jetzt da: | كل النقاط الست من اللوح صارت موجودة:
+th: Tafel | على اللوح ;; Wo? | وين؟
+tr: Rolle der Pflege | دور التمريض ;; „Erfassung" Abschnitt 3 + „Prävention & Therapie" (10) + „Pflege bei Schmerzen" | صفحة التقييم قسم 3 + الوقاية والعلاج (10) + التمريض عند الألم
+tr: Schmerzassessment | تقييم الألم ;; „Schmerzerfassung" Abschnitt 5 + Expertenstandard P1 | صفحة التقييم قسم 5 + المعيار الخبير P1
+tr: Schmerzen bei Kindern | الألم عند الأطفال ;; „Schmerzerfassung" Abschnitt 6 (Tab. 21.1) | صفحة التقييم قسم 6 (جدول 21.1)
+tr: Begleitsymptome | الأعراض المرافقة ;; diese Seite: 5. vegetativ + motorisch; „Schmerzarten" 9. psychogen | هالصفحة: قسم 5؛ وأنواع الألم: 9
+tr: Schmerzprävention | الوقاية من الألم ;; „Prävention & Therapie" Abschnitt 9 | صفحة الوقاية والعلاج قسم 9
+tr: Schmerztherapie | علاج الألم ;; „Prävention & Therapie" 10–13 (WHO-Stufenschema) | صفحة الوقاية والعلاج 10–13 (سلّم WHO)
 
 ## 1. Dimensionen des Schmerzes | 1. أبعاد الألم
 q: Einstiegsfrage: Wenn Sie Schmerz definieren könnten, wie würde Ihre Definition lauten? | سؤال البداية: لو بدك تعرّف الألم، شو رح يكون تعريفك؟

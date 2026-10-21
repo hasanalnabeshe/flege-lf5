@@ -1,0 +1,172 @@
+@page sm-erfassung | Schmerzerfassung (Assessment) | تقييم الألم | Schmerzmanagement / إدارة الألم
+# Schmerzmanagement – Erfassung, Prävention, Therapie | إدارة الألم – التقييم، الوقاية، العلاج
+note: Skript „LF 5 Schmerz und Schmerzmanagement" – Teil 1: Erfassung. Teil 2 (Prävention & Therapie) ist die nächste Seite. Abschnitt 4 (Expertenstandard) steht auf der Seite „Expertenstandard – Kriterien". Seiten 4, 6 und 9 des Skripts fehlen in den Fotos. | سكربت "الألم وإدارة الألم" – الجزء 1: التقييم. الجزء 2 (الوقاية والعلاج) بالصفحة الجاية. القسم 4 (المعيار الخبير) بصفحة "المعيار الخبير – المعايير". الصفحات 4 و 6 و 9 مش موجودة بالصور.
+
+## 1.–2. Einstieg – Ingos Tagebuch | 1.–2. البداية – يوميات Ingo
+p: Bearbeiten Sie die Einstiegsaufgabe zu Ingos Tagebucheinträgen vom 16. Mai und 17. Mai | اشتغل على مهمة البداية عن يوميات Ingo بتاريخ 16 و 17 أيار
+box: teal | Ingos Tagebuch – Fazit | يوميات Ingo – الخلاصة
++ → Schmerzen sind ein Warnsignal. Auch wenn ein Patient uns lästig erscheint, sind seine Äußerungen ernst zu nehmen → sie können auf Komplikationen hinweisen | ← الألم إشارة تحذير. حتى لو المريض بيبيّن مزعج، لازم ناخد كلامه بجدية ← ممكن يدل على مضاعفات
++ → Als Pflegende dürfen wir uns über Belastung ärgern → aber wir müssen trotzdem professionell prüfen, was hinter dem Verhalten steckt | ← كممرضين مسموح نتضايق من الضغط ← بس لازم نفحص بشكل مهني شو ورا هالسلوك
++ → Wenn jemand wiederholt Schmerzen meldet, ist das ein Zeichen für genauere Abklärung, auch wenn die Vitalwerte zunächst unauffällig sind | ← إذا حدا عم يشتكي من ألم كذا مرة، هاد علامة إنه لازم نفحص أدق، حتى لو العلامات الحيوية طبيعية
+note: „Ingos TB" auf der Tafel = **Ingos Tagebuch**. | "Ingos TB" على اللوح يعني **يوميات Ingo (Tagebuch)**.
+
+## 3. Schmerzmanagement in der Pflege | 3. إدارة الألم بالتمريض
+- Schmerzfreiheit ist eine Grundvoraussetzung für das Wohlfühlen | عدم وجود ألم شرط أساسي للشعور بالراحة
+- Laut der Deutschen Schmerzgesellschaft gehört die adäquate Schmerztherapie zum **fundamentalen Menschenrecht** → d.h. jeder Mensch hat das Recht auf eine angemessene Schmerzfreiheit | حسب الجمعية الألمانية للألم، علاج الألم المناسب من **حقوق الإنسان الأساسية** ← يعني كل إنسان إله حق يكون بدون ألم بشكل مناسب
+box: gruen | Schmerzmanagement muss planvoll durchgeführt werden um: | إدارة الألم لازم تكون مخطّطة حتى:
++ bestehende Schmerzen zu lindern | نخفّف الألم الموجود
++ unnötige Schmerzen zu verhindern | نمنع الألم اللي ما إله داعي
++ Chronifizierung vorbeugen | نمنع تحوّله لمزمن
+box: blau | Rolle der Pflege: | دور التمريض:
++ *Teamkoordination*: Pflege, Ärzte, interdisziplinäres Team | *تنسيق الفريق*: تمريض، أطباء، فريق متعدد التخصصات
++ *Fördert Nähe* zum Patienten durch Kommunikation | *بيقرّب* من المريض عن طريق التواصل
+tip: Ziel: Sicherstellung einer Kontinuität in der **Schmerzerfassung** und **Schmerzbehandlung**. → Nur so kann die Schmerztherapie zur Schmerzlinderung und ggf. Schmerzfreiheit führen | الهدف: ضمان **الاستمرارية** بتقييم الألم وعلاجه. ← بس هيك علاج الألم بيوصل لتخفيفه، وإذا أمكن لإزالته
+
+## 5. Schmerzassessment | 5. تقييم الألم
+p: **Definition:** Das Wort Assessment stammt aus dem Englischen und bedeutet „Bewertung", „Beurteilung", „Einschätzung". Schmerzassessment ist die systematische Einschätzung und Beurteilung von Schmerzen mithilfe geeigneter Assessmentinstrument. | **التعريف:** كلمة Assessment إنجليزية ومعناها "تقييم، حكم، تقدير". تقييم الألم هو تقدير وتقييم منهجي للألم بمساعدة أدوات تقييم مناسبة.
+- Das *initiale* Schmerzassessment wird in der pflegerischen Anamnese durchgeführt | التقييم *الأولي* للألم بينعمل بالسيرة التمريضية (عند الاستقبال)
+- Dabei unterscheidet man zwischen: | ومنفرّق بين:
+box: gruen | Selbsteinschätzung | التقييم الذاتي
++ hat durch die Subjektivität des Schmerzes eine vorrangige Rolle | إله الأولوية لأنه الألم إحساس شخصي
+box: orange | Fremdeinschätzung | التقييم الخارجي
++ hierzu verwendet man z.B. Assessmentinstrumente | منستعمل فيه مثلاً أدوات تقييم
+box: blau | Assessmentinstrumente | أدوات التقييم
++ → Dienen der Beurteilung und Einschätzung der Schmerzintensität und Schmerzqualität | ← بتساعد بتقييم شدة الألم ونوعيته
++ → Zu den Instrumenten gehören u.a.: | ← من هالأدوات:
++ → Erheben einer Schmerzanamnese | ← أخذ سيرة الألم
++ → Führen eines Schmerztagebuchs | ← كتابة يوميات للألم
++ → Schmerzeinschätzung mittels verschiedener Schmerzskalen | ← تقييم الألم بمقاييس مختلفة
+note: Skalen: **NRS** = Numerische Rating-Skala (0–10) · **VRS** = Verbale Rating-Skala (kein / leicht / mittel / stark …) · **VAS** = Visuelle Analogskala (Linie/Schieber). | المقاييس: **NRS** = أرقام من 0 لـ 10 · **VRS** = كلمات (ما في / خفيف / متوسط / قوي...) · **VAS** = خط بيحرّك عليه المريض. (شرح من Claude)
+
+## 6. Schmerzerfassung bei Kindern | 6. تقييم الألم عند الأطفال
+tip: → Die Schmerzerfassung bei Kindern ist eng verbunden mit dem körperlichen, geistigen und emotionalen Entwicklungsstand | ← تقييم الألم عند الأطفال مرتبط كتير بمستوى نموّهم الجسدي والعقلي والعاطفي
+box: blau | Rolle der Pflegenden: | دور الممرضين:
++ Enger bis Engster Kontakt in der Triade | تواصل قريب جداً ضمن الثلاثي (طفل – أهل – ممرض)
++ Schmerzerfassung durch intensive pflegerische Beobachtung → liefern so wichtige Hinweise zum Behandlungsplan | تقييم الألم بمراقبة تمريضية مكثّفة ← بتعطي معلومات مهمة لخطة العلاج
++ Der Schmerzerfassung dienen erlernte Kenntnisse über Kennzeichen und Symptome von Schmerzen bei Kindern unterschiedlichen Alters | المعرفة المكتسبة عن علامات وأعراض الألم عند الأطفال بأعمار مختلفة بتساعد بالتقييم
++ → Hierfür wählen die PFK geeignete Methoden zur Schmerzbeobachtung aus | ← لهيك الممرضين بيختاروا طرق مناسبة لمراقبة الألم
+### Tab. 21.1 Wie zeigt sich Schmerz? | جدول 21.1 كيف بيبيّن الألم؟
+th: Kennzeichen | العلامات ;; Methoden zur Schmerzbeobachtung | طرق مراقبة الألم ;; pflegerische Maßnahmen | الإجراءات التمريضية
+tr: **Säuglinge:** Weinen und Unruhe, Veränderung des Schlaf-wach-Rhythmus (z. B. nur kurze unruhige Schlafphasen) · Anspannung der Körperhaltung, verzerrte Gesichtsmimik · Hautfarbe und -durchblutung (Blässe, marmoriertes Hautkolorit) · Veränderung der Vitalzeichen (Tachykardien, angestrengte Atmung, Tachypnoe, Sauerstoffsättigungsabfälle) | **الرضّع:** بكاء وقلق، تغيّر بالنوم (فترات نوم قصيرة ومتقطعة) · تشنّج بالجسم، تكشير بالوجه · لون الجلد (شحوب، جلد مبقّع) · تغيّر العلامات الحيوية (تسرّع قلب، تنفّس صعب وسريع، هبوط الأكسجين) ;; reine Fremdbeobachtung durch Pflegefachkräfte und Eltern, therapeutisches Team · Verwenden von Schmerzmessinstrumenten (z. B. Berner Schmerzscore für Neugeborene oder Neonatal Infant Pain Scale für Früh- und Neugeborene [NIPS]) | مراقبة خارجية بس (ممرضين، أهل، فريق علاجي) · أدوات قياس (مثلاً Berner Schmerzscore أو NIPS للخدّج وحديثي الولادة) ;; nonnutritives Saugen am Schnuller · Verabreichen von Saccharoselösung vor invasiven Maßnahmen · Einhalten von Ruhephasen, reizarme Umgebung, „Känguruhen" | مصّ اللهّاية (بدون رضاعة) · إعطاء محلول سكّر قبل الإجراءات المؤلمة · فترات راحة، مكان هادي، "الكنغر" (جلد على جلد مع الأهل)
+tr: **Kleinkinder (1.–3. Lebensjahr):** Schmerzzeichen wie Anspannung, Unruhe, Veränderung von Mimik und Körperhaltung, Appetitlosigkeit, Schlafstörungen · Verschlechterung des Allgemeinzustands (Tachykardie, Dyspnoe, Blutdruckanstieg) · Kleinkinder können Schmerzen meist nicht genau lokalisieren und geben oft Bauchschmerzen als generelle Schmerzlokalisation an | **الأطفال الصغار (1–3 سنين):** تشنّج، قلق، تغيّر الوجه والوضعية، قلة أكل، مشاكل نوم · تراجع الحالة العامة (تسرّع قلب، ضيق نفس، ارتفاع ضغط) · ما بيقدروا يحددوا مكان الألم، وغالباً بيقولوا "بطني" لأي ألم ;; Fremdbeobachtung durch Pflegefachkräfte und therapeutisches Team, enge Einbindung der Eltern zur Interpretation der Schmerzäußerung · Beobachtung anhand von Verhaltenschecklisten und Ratingskalen, z. B. kindliche Unbehagens- und Schmerzskala = KUSS oder Toddler-Preschooler Postoperative Pain Scale – TPPPS | مراقبة من الممرضين والفريق، وإشراك الأهل ليفهموا تعبير الطفل عن الألم · قوائم سلوك ومقاييس، مثلاً **KUSS** أو TPPPS ;; vorherige Aufklärung von Kind und Eltern · Anwesenheit der Eltern, Hautkontakt · spielerische Ablenkung | شرح مسبق للطفل والأهل · وجود الأهل، لمس جلد · إلهاء باللعب
+tr: **Kinder und Jugendliche:** Schmerzzeichen wie Anspannung, Unruhe, Veränderung von Mimik und Körperhaltung, Appetitlosigkeit, Schlafstörungen · Verschlechterung des Allgemeinzustands (Tachykardie, Dyspnoe, Blutdruckanstieg) | **الأطفال والمراهقين:** نفس علامات الأطفال الصغار ;; Selbstauskunft des Kindes/Jugendlichen, Fremdbeobachtung durch Pflegefachkräfte und therapeutisches Team, enge Einbindung der Eltern zur Interpretation der Schmerzäußerung · Etwa ab dem 4. Lebensjahr können Skalen zur Selbsteinschätzung von Schmerzen verwendet werden, z. B. Faces-Pain-Scale revised · Ältere Kinder (> 7 Jahre) sind bereits in der Lage, Schmerzlokalisation, -intensität und -qualität anhand von Bewertungsskalen einzustufen | الطفل بيحكي بنفسه + مراقبة + إشراك الأهل · من حوالي **4 سنين** منقدر نستعمل مقاييس ذاتية (مثلاً **مقياس الوجوه** Faces-Pain-Scale) · فوق **7 سنين** بيقدروا يحددوا المكان والشدة والنوعية بمقاييس ;; vorherige Aufklärung von Kind und Eltern · Anwesenheit der Eltern, ggf. Hautkontakt · spielerische Ablenkung | شرح مسبق · وجود الأهل، ولمس إذا لزم · إلهاء باللعب
+note: Die rechte Spalte bei Säuglingen ist auf dem Foto am Rand abgeschnitten – die Endungen wurden ergänzt. | العمود اليمين عند الرضّع مقصوص بالصورة – كمّلت آخر الكلمات.
+p: **Schmerzbeobachtung** | **مراقبة الألم**
+- Bei Kindern im Schulalter kann je nach Entwicklungsstand schon die NRS, die VRS oder die VAS eingesetzt werden | عند أطفال المدرسة، حسب نموّهم، منقدر نستعمل NRS أو VRS أو VAS
+- Aber: wichtig ist nicht welche Skala wann angewendet wird, sondern ob das Kind diese Skala versteht. | بس: المهم مش أي مقياس ومتى، المهم إنه **الطفل يفهم المقياس**.
+warn: **CAVE: Umgang mit Schmerz** – „Nicht zu vergessen ist im Kindesalter die emotionale Seite von Schmerzen, die durch den Aufenthalt in der Klinik, eine eventuelle Trennung von den Eltern und erforderliche Untersuchungen verstärkt werden kann." | **انتبه:** عند الأطفال ما لازم ننسى الجانب العاطفي للألم، اللي ممكن يزيد بسبب الإقامة بالمستشفى، البعد عن الأهل، والفحوصات.
+
+## 7. Schmerzerfassung bei alten Menschen | 7. تقييم الألم عند كبار السن
+box: orange | Merkmale: | الخصائص:
++ Viele Ältere Menschen leiden unter Schmerzen | كتير من كبار السن عندهم ألم
++ Der Schmerz wird jedoch verschwiegen oder ignoriert | بس الألم بينسكت عنه أو بيتجاهلوه
++ PFK müssen sich ein Bild zum **Umgang mit Schmerzen** machen | الممرضين لازم يفهموا **كيف بيتعامل مع الألم**
++ PFK achtet auf **Kommunikation über Schmerzen** (Wie äußert sich der Patient?) | الممرض/ة بينتبه **كيف بيحكي عن الألم** (كيف بيعبّر المريض؟)
++ Für die systematisch Erfassung mit Schmerzskalen werden i.d.R die **NRS** und die **VRS** verwendet | للتقييم المنهجي بالمقاييس، عادةً **NRS** و **VRS**
+warn: Cave: Hör- und Seheinschränkungen sollten bei der Anwendung beachtet werden | انتبه: ضعف السمع والنظر لازم ينحسب حسابه عند استعمال المقاييس
+
+## 8. Schmerzerfassung bei Menschen mit kognitiver Beeinträchtigung | 8. تقييم الألم عند الناس اللي عندهم ضعف إدراكي
+note: *Hier ist die Schmerzerfassung besonders anspruchsvoll (verbale Äußerungen sind oft nicht hinreichend)* | *هون تقييم الألم صعب بشكل خاص (الكلام غالباً مش كافي)*
+p: Demnach ist auch hier die Schmerzbeobachtung entscheiden für den weiteren Therapieverlauf. | لهيك هون كمان مراقبة الألم حاسمة لمسار العلاج.
+box: lila | Dies trifft besonders auf folgende Gruppen zu: | هاد بينطبق خصوصاً على:
++ Menschen mit Demenz oder geistiger Behinderung | الناس مع خرف أو إعاقة ذهنية
++ Menschen mit eigengeschränktem Bewusstsein | الناس مع وعي محدود
++ Menschen mit psychischen Erkrankungen | الناس مع أمراض نفسية
+q: Auftrag: Lesen Sie den Text: „Wie man Schmerzen auch bei Demenz erkennen kann". Fassen Sie die wichtigsten Aspekte kurz zusammen | المهمة: اقرأ نص "كيف منعرف الألم حتى عند الخرف" ولخّص أهم النقاط
+tip: Antwort-Hilfe aus dem Expertenstandard-Skript: Schmerzindikatoren = Mimik (Grimassen), Lautäußerungen (Stöhnen), Abwehrverhalten, Unruhe / Aggression, Rückzug. Skalen: **BESD**, PAINAD, ZOPA. | مساعدة للجواب من سكربت المعيار الخبير: علامات الألم = الوجه (تكشير)، أصوات (أنين)، سلوك دفاعي، قلق / عدوانية، انعزال. المقاييس: **BESD**، PAINAD، ZOPA.
+
+@page sm-therapie | Schmerzprävention & -therapie | الوقاية من الألم وعلاجه | Schmerzmanagement / إدارة الألم
+# Schmerzprävention & Schmerztherapie | الوقاية من الألم وعلاجه
+note: Skript „LF 5 Schmerz und Schmerzmanagement" – Teil 2 (Abschnitte 9–13). | سكربت "الألم وإدارة الألم" – الجزء 2 (الأقسام 9–13).
+
+## 9. Schmerzprävention | 9. الوقاية من الألم
+p: **Rolle der Pflege:** Gezielte schmerzpräventive Tätigkeiten | **دور التمريض:** نشاطات مقصودة للوقاية من الألم
+p: Sollten Schmerzen unumgänglich sein sollten geeignet Maßnahmen eingeleitet werden um sie so gering wie möglich zuhalten | إذا الألم ما في مهرب منه، لازم نعمل إجراءات مناسبة حتى يضل أقل ما يمكن
+box: gruen | Schmerzpräventive Maßnahmen sind: | إجراءات الوقاية من الألم:
++ Vorausschauende Arbeitsweise | شغل بتخطيط مسبق (نفكّر قبل)
++ Schmerzhafte Tätigkeiten bündeln | نجمع الإجراءات المؤلمة مع بعض (مش كل شوي وحدة)
++ Schmerztherapie sollte nicht schmerzhaft sein | علاج الألم نفسه ما لازم يكون مؤلم
+box: blau | Settingsbezogen | حسب المكان / الفئة
++ Ambulante Pflege | التمريض المنزلي
++ Säuglinge | الرضّع
++ Kinder jeden Alters | الأطفال بكل الأعمار
+
+## 10. Schmerztherapie | 10. علاج الألم
+warn: Die Schmerztherapie ist ein grundlegendes Menschenrecht! | علاج الألم حق أساسي من حقوق الإنسان!
+p: Lässt sich grundsätzlich in zwei Bereiche einteilen | بينقسم لمجالين:
+box: blau | 1. Medikamentöse Schmerztherapie | 1. علاج الألم بالأدوية
+box: gruen | 2. Nicht – medikamentöse Schmerztherapie | 2. علاج الألم بدون أدوية
+box: teal | Rolle der Pflege in der medikamentösen Schmerztherapie: | دور التمريض بالعلاج بالأدوية:
++ Durchführen des Schmerzassessment | إجراء تقييم الألم
++ Ermitteln der Schmerzintensität (Basis für die Dosierung) | تحديد شدة الألم (أساس للجرعة)
++ Richten und Verabreichen der Medikamente | تحضير الأدوية وإعطاؤها
++ Information über Wirkung und Nebenwirkung der Medikamente | معلومات عن مفعول الأدوية وأعراضها الجانبية
++ Dokumentation und Zusammenarbeit im interdisziplinären Team | التوثيق والتعاون بالفريق متعدد التخصصات
+p: **Schmerzmittel = Analgetika** – Einteilung in zwei Gruppen: Nichtopioidanalgetika (Nichtopioide) · Opioidanalgetika (Opioide) · Hinzu kommen unterstützende Schmerzmittel wie Koanalgetika und Lokalanästhetika | **المسكّنات = Analgetika** – نوعين: مسكّنات غير أفيونية · مسكّنات أفيونية · ومعهم مسكّنات مساعدة متل Koanalgetika والمخدّر الموضعي
+
+## 11. Analgetika im Überblick | 11. نظرة على المسكّنات
+box: blau | Nichtopioidanalgetika (Nichtopioide) | مسكّنات غير أفيونية
++ → Wirken überwiegend im Bereich **der Nozizeptoren** und nicht am **Opioidrezeptor**. | ← بتشتغل غالباً عند **مستقبلات الألم** مش عند **المستقبل الأفيوني**
++ Bsp.: Acatylsalicylsäure (ASS, Aspirin), Paracetamol (Ben-u-ron), Metamizol (Novalgin), Diclofenac (Voltaren), Ibuprofen (Dolormin) | أمثلة: أسبرين، باراسيتامول، ميتاميزول (نوفالجين)، ديكلوفيناك (فولتارين)، إيبوبروفين
++ → Wirken überwiegend: **analgetisch** (schmerzlindernd), **antipyretisch** (fiebersenkend) und oder **antiphlogistisch** (entzündungshemmend) | ← مفعولها: **مسكّن** للألم، **خافض** للحرارة، و/أو **مضاد** للالتهاب
+box: orange | Nebenwirkungen (Nichtopioide): | الأعراض الجانبية (غير الأفيونية):
++ Gastointestinale Schädigungen (Gastitis, Ulkus) und Blutungen (z.B. Aspirin) | ضرر بالمعدة والأمعاء (التهاب معدة، قرحة) ونزيف (مثلاً أسبرين)
++ Übelkeit, Erbrechen, Durchfall | غثيان، إقياء، إسهال
++ Blutungsneigung durch Thrombozytenaggregationshemmer (z.B. Aspirin) | ميل للنزيف لأنها بتمنع تجمّع الصفائح (مثلاً أسبرين)
++ Leber- und Nierenfunktionsstörung | خلل بوظيفة الكبد والكلى
++ Blutbildveränderung | تغيّر بتعداد الدم
++ Bronchospasmus | تشنّج القصبات
+fix: Schreibweise: **Acetyl**salicylsäure, **Gastro**intestinal, **Gastritis**. | الكتابة الصح: Acetylsalicylsäure، Gastrointestinal، Gastritis.
+box: rot | Opioide | الأفيونيات
++ → Wirken zentral durch Opioidrezeptoren ZNS → hemmen die neuronale Erregung | ← بتشتغل مركزياً عبر المستقبلات الأفيونية بالجهاز العصبي المركزي ← بتخفّف الإثارة العصبية
++ → Man unterscheidet zwischen: **Schwachen Opioiden:** z.B. Codein, Tramadol | ← في **أفيونيات ضعيفة:** مثلاً كودئين، ترامادول
++ **Stark wirksamen:** z.B. Fentanyl (z.B. Abstral), transdermales Fentanyl (z.B. Durogesic SMAT), Morphin | **قوية:** مثلاً فنتانيل، فنتانيل لاصقة على الجلد، مورفين
++ → Fast alle Opioide unterliegen dem BTM (Betäubungsmittelgesetz) → Sind BTM – rezeptpflichtig → Müssen lückenlos aus dem BTM Buch ausgetragen werden | ← تقريباً كلها تحت قانون المواد المخدّرة ← بدها وصفة BTM خاصة ← ولازم تنسجّل بدفتر BTM بدون أي نقص
+box: rosa | Nebenwirkungen von Opioiden | الأعراض الجانبية للأفيونيات
++ Atemdepression, Unterdrückung des Hustenreflexes → Pneumonieprophylaxe | تثبيط التنفس، كبت السعال ← وقاية من التهاب الرئة
++ Müdigkeit, Sedierung → Sturzprophylaxe | نعاس، تهدئة ← وقاية من السقوط
++ Zerebrale Krampfanfälle → VZ – Kontrolle unumgänglich | نوبات تشنّج ← مراقبة العلامات الحيوية ضرورية
++ Übelkeit, Erbrechen → Gabe von Antiemetika | غثيان، إقياء ← أدوية ضد الإقياء
++ Obstipation → Obstipationsprophylaxe | إمساك ← وقاية من الإمساك
++ Abhängigkeit und Missbrauch | إدمان وسوء استعمال
+note: BTM = Betäubungsmittel; das Gesetz heißt **BtMG** (Betäubungsmittelgesetz). | BTM يعني مواد مخدّرة؛ والقانون اسمه **BtMG**.
+box: teal | Koanalgetika und Lokalanästhetika | مسكّنات مساعدة ومخدّر موضعي
++ **Koanalgetika:** Unterstützen die Analgetika bei der Analgesie und behandeln Nebenwirkungen der Analgetika – z.B. Antidepressive, Antikonvulsiva, Biphosphonate, Glukokortikoide, Antiemetika | **Koanalgetika:** بتساعد المسكّنات وبتعالج أعراضها الجانبية – مثلاً مضادات اكتئاب، مضادات اختلاج، بيسفوسفونات، كورتيزون، ضد الإقياء
++ **Lokalanästhetika:** Werden direkt in den Bereich von Nervenzellen injiziert → blockieren die Natriumkanäle → Hemmung der Weiterleitung von Schmerzreizen – z.B. Peridual- oder Spinalanästhesie | **المخدّر الموضعي:** بينحقن جنب الأعصاب ← بيسكّر قنوات الصوديوم ← بيوقّف نقل الألم – مثلاً تخدير فوق الجافية أو نخاعي
+
+### Abb. 21.7 Stufenschema nach WHO | سلّم منظمة الصحة العالمية (WHO)
+p: Ja nach Schmerzstärke werden Analgetika in drei Stufen eingesetzt | حسب شدة الألم، المسكّنات بتنعطى على 3 درجات
+box: blau | Stufe 1 | الدرجة 1
++ **Nicht-Opioid-Analgetikum** z.B. Metamizol, Acetylsalicylsäure, Ibuprofen, Paracetamol | **مسكّن غير أفيوني** مثلاً ميتاميزول، أسبرين، إيبوبروفين، باراسيتامول
++ +/– Koanalgetika | +/– مسكّنات مساعدة
+box: teal | Stufe 2 | الدرجة 2
++ **schwaches Opioid** z.B. Tramadol, Tilidin | **أفيوني ضعيف** مثلاً ترامادول، تيليدين
++ +/– Nicht-Opioid-Analgetikum | +/– مسكّن غير أفيوني
++ +/– Koanalgetika | +/– مسكّنات مساعدة
+box: rot | Stufe 3 | الدرجة 3
++ **starkes Opioid** z.B. Morphin, Fentanyl | **أفيوني قوي** مثلاً مورفين، فنتانيل
++ +/– Nicht-Opioid-Analgetikum | +/– مسكّن غير أفيوني
++ +/– Koanalgetika | +/– مسكّنات مساعدة
+tip: Bei persistierendem / verstärktem Schmerz → eine Stufe höher. | إذا الألم ضل أو زاد ← منطلع درجة.
+
+## 12. Grundregel bei Analgetikagabe | 12. القواعد الأساسية لإعطاء المسكّنات
+box: gruen | Grundregeln | القواعد
++ Durchführungsverantwortung übernehmen | تحمّل مسؤولية التنفيذ
++ Einnahme nach festem Schema gewährleisten | ضمان أخذ الدوا بمواعيد ثابتة
++ Auf Bedarfsmedikation und Interventionsgrenzen achten | الانتباه لأدوية "عند الحاجة" وحدود التدخّل
++ Auf nicht invasive Applikation achten | تفضيل الطرق غير المؤلمة (مثلاً بالفم بدل الإبرة)
++ Regelmäßige Schmerzerfassung durchführen | تقييم الألم بانتظام
++ Pflegeempfänger beobachten und Verlauf kontrollieren | مراقبة المريض ومتابعة المسار
++ Zeitnahe Dokumentation | توثيق فوري
+
+## 13. Nicht medikamentöse Therapie | 13. العلاج بدون أدوية
+p: Sind besonders bei chronischen Schmerzen eine wichtige Ergänzung | مهم كتير كإضافة، خصوصاً بالألم المزمن
+tip: Ziel: Wohlbefinden steigern → Schmerzerleben reduzieren | الهدف: زيادة الراحة ← تخفيف الإحساس بالألم
+box: gruen | Folgende Maßnahme lindern Schmerzen: | الإجراءات اللي بتخفّف الألم:
++ Kälte-/Wärmeanwendung | برد / دفا
++ Wickel und Auflagen | لفّات وكمّادات
++ Maßnahmen der basalen Stimulation (z.B. ASE, beruhigende Körperwaschung) | التحفيز القاعدي (مثلاً ASE، غسيل مهدّئ للجسم)
++ Aromatherapie | علاج بالروائح
++ Ablenkung | إلهاء
++ Atemübungen und Meditation | تمارين تنفّس وتأمّل
+note: ASE = atemstimulierende Einreibung. | ASE = مساج / فرك بيحفّز التنفّس.

@@ -38,8 +38,10 @@ content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ
   05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement (nur Rolle der Pflege)
   06-nervensystem.txt      NS Grundlagen, Fälle, Lernaufgabe Schmerz
   07-zns.txt               Gehirn, Rückenmark, Häute, Liquor, PNS
-  08-expertenstandard.txt  Expertenstandard Schmerzmanagement (DNQP 2020) – Ablaufschema als farbige Schritte
-  09-schmerz.txt           Schmerzmanagement: Grundlagen (1–5), Schmerzarten (6–12), Pflege bei Schmerzen
+  08-expertenstandard-a.txt Expertenstandard – Kriterien (Struktur/Prozess/Ergebnis S1–5, P1–5, E1–5)
+  08-expertenstandard.txt  Expertenstandard – Ablaufschema DNQP 2020 als farbige Schritte
+  09-schmerz.txt           Schmerzmanagement: Grundlagen (1–5, + Tabelle wo steht was), Schmerzarten (6–12), Pflege bei Schmerzen
+  10-schmerz-ept.txt       Skript „Erfassung, Prävention, Therapie": Schmerzerfassung (Ingos Tagebuch, Assessment, Kinder, alte Menschen, Demenz) + Prävention & Therapie (WHO-Stufenschema, Analgetika, nicht-medikamentös)
 template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
 build.py            ← بيحوّل content/*.txt + template.html إلى public/index.html
 public/index.html   ← الصفحة النهائية (بتنبنى، لا تعدّلها باليد)
@@ -84,11 +86,11 @@ HANDOVER.md         ← هالملف
 
 ## 3b. مواضيع الامتحان (من اللوح، 21.10.2026)
 
-1. **Ingos TB** – Merksatz zur Gruppenarbeit: Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? ← ✅ موجود (صفحة `team`، من شريحة "Gruppenarbeit Lösung")
+1. **Ingos TB** (TB = Tagebuch، يوميات Ingo) – Merksatz zur Gruppenarbeit: Wie gehen Auszubildende mit der Arbeit in diversen Teams / Berufsgruppen und mit Hierarchien um? ← ✅ موجود (صفحة `team`، من شريحة "Gruppenarbeit Lösung")
 2. **Chirurgische Behandlungspfade** – Was ist ein Behandlungspfad? Welche Rolle spielen die PFK im Behandlungspfad → zentraler Aspekt ← ✅ موجود
 3. **ZNS** – Einteilung (Tafelbild insb.); Reiz-Reaktions-Kette = Grundprinzip ↔ Reflex; worauf können Veränderungen im ZNS Einfluss nehmen; Beschreibung NZ (Nervenzelle); Bestandteile des Gehirns; Rückenmark; Hirn- + RM-Häute ← ✅ موجود
-4. **Expertenstandard** ← ✅ موجود (صفحة `es`: Ablauf des pflegerischen Schmerzmanagements، DNQP 2020، من صورة Hasan)
-5. **Schmerzmanagement – Pflege bei Schmerzen**: Rolle der Pflege, Schmerzassessment, Schmerzen bei Kindern, Begleitsymptome, Schmerzprävention, Schmerztherapie ← **أغلبه موجود** (3 صفحات من Skript zur PowerPoint). بالسكربت نفسه ناقص: مقاييس الألم، الأطفال (سطر واحد بس)، Schmerzprävention، WHO-Stufenschema. جدول "wo steht was" بأول صفحة Grundlagen
+4. **Expertenstandard** ← ✅ موجود (صفحة `es-krit` = المعايير S/P/E، وصفحة `es` = المخطط)
+5. **Schmerzmanagement – Pflege bei Schmerzen**: Rolle der Pflege, Schmerzassessment, Schmerzen bei Kindern, Begleitsymptome, Schmerzprävention, Schmerztherapie ← ✅ كله موجود (5 صفحات). جدول "wo steht was" بأول صفحة Grundlagen بيوصّل كل نقطة لمكانها
 
 ## 4. شو خلص
 
@@ -104,6 +106,7 @@ HANDOVER.md         ← هالملف
 - [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" : بس السؤال والجواب (سطرين "Für Auszubildende bedeutet dies…") مع صورة الشريحة
 - [x] **Schmerzmanagement** (موضوع 5): Skript zur PowerPoint (9 صفحات) منقول كنص، بدون صور الأوراق (Hasan طلب هيك)، مع صناديق ملوّنة. 3 صفحات: Grundlagen، Schmerzarten، Pflege bei Schmerzen
 - [x] **Expertenstandard Schmerzmanagement** (موضوع 4): مخطط DNQP 2020 (Anhang 1) كخطوات ملوّنة مع أسهم: Screening ← Assessment ← Maßnahmen ← Verlaufskontrolle ← Evaluation، وشو بيصير بعد التقييم. بدون الصورة الأصلية
+- [x] **Expertenstandard – Kriterien** + **Schmerzerfassung** + **Schmerzprävention & -therapie**: من سكربتين ("Erfassung, Prävention, Therapie" و "Expertenstandard Schmerz") + جدول DNQP. كله نص بصناديق ملوّنة بدون الصور. كل مواضيع الامتحان صارت كاملة
 - [x] الموقع مرفوع على GitHub (`flege-lf5` main)
 - [x] الموقع شغال على الموبايل (جرّبناه 390px) وبالـ dark mode
 
@@ -112,7 +115,7 @@ HANDOVER.md         ← هالملف
 - [ ] **التأكد من Vercel**: Hasan لازم يعمل Import لـ `flege-lf5` (Other / Output `public`) ويبعت الرابط. بعدها نكتب الرابط هون.
 - [ ] **الـ repo `flege-lf5` لازم يصير Private**. هو هلأ Public وفيه خط إيد Hasan، صور أوراقه، وأسماء زملائه على الشرائح.
 - [ ] **تقرير إذا لازم نحذف branch `lf5-lernseite`** من `pflege` (صار نسخة مكررة).
-- [ ] **مواضيع الامتحان الناقصة**: بـ Schmerzmanagement: Schmerzen bei Kindern، Schmerzprävention، Schmerztherapie (WHO)، Assessment-Skalen – مش بالسكربت، بانتظار شرائح المعلمة – بانتظار أوراق Hasan
+- [ ] صفحات ناقصة من سكربت "Erfassung, Prävention, Therapie": 4، 6، 9 ما وصلوا بالصور (فيهم غالباً مقاييس الألم وملخص نص الخرف). إذا Hasan بعتهم بنضيفهم – بانتظار أوراق Hasan
 - [ ] **مواضيع جديدة**: كل ما يبعت Hasan أوراق جديدة، بتنضاف (صفحة جديدة أو ملف `08-....txt`).
 - [ ] اختياري: One Minute Wonder لكل مجموعة، وأسئلة مراجعة / Quiz.
 
@@ -137,6 +140,8 @@ HANDOVER.md         ← هالملف
 - Gruppe 3: ناقص فك الجبس عند Kompartmentsyndrom، و Gipskontrolle
 - Nervensystem: "Lähmung" عند العصب الحسي ← الصح Taubheit؛ "Vorderes Übertragungsgehirn" ← Hinterhorn
 - Schmerz: Definition ناقصها "Sinnes-" و "oder"، والمصدر IASP مش ASP؛ Merksatz "Betroffen … beherrscht"؛ Schmerzrezeptoren مش بس Haut/Organe؛ "Nozirezeptoren"/"Nozizepzion" ← Nozizeptoren/Nozizeption؛ Weiterleitung: Thalamus مش Hypothalamus؛ neuropathisch كمان brennend/elektrisierend؛ chronisch: إضافات (Skala، Schmerztagebuch، festes Zeitschema)
+- Expertenstandard: من 2020 صار معيار واحد للحاد والمزمن؛ الشعار ناقصه "Chronifizierung vorbeugen"؛ "Multimordaler" ← multimodaler
+- Analgetika: Acatylsalicylsäure/Gastointestinal/Gastitis ← Acetyl-/Gastro-/Gastritis
 - Hypophyse: Oxytocin مش "Glückshormon" (هو Bindungshormon، وبيتصنع بالـ Hypothalamus)
 
 ---
@@ -174,3 +179,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan طلب يضل من القروبات الستة بس دور التمريض. انحذف: صفحة Gruppenarbeit-Auftrag، أسماء الطلاب، التشريح/Krankheitsbild، التشخيص الطبي، طريقة العملية، المضاعفات الطبية، الخلاصات، ومعارض الشرائح (وتصحيحات Gruppe 2 و 5 و جزء من 3 لأنها كانت بالأقسام المحذوفة). ضل: Aufnahme، Prä-OP Pflege، Post-OP Pflege، Entlassung (وبـ Gruppe 3 تحذير Kompartmentsyndrom + DMS). القائمة صار اسمها "Gruppenarbeit – Rolle der Pflege". الموقع صار 16 صفحة. المحتوى القديم موجود بتاريخ git.
 - **21.10.2026**: Schmerzmanagement انضاف (`content/08-schmerz.txt`، 3 صفحات) من صور Hasan + PDF "Schmerzmangment.pdf" (9 صفحات scan). بدون صور الأوراق الأصلية (طلب Hasan). نوع جديد `box:` / `+` بـ build.py + CSS بـ template.html للصناديق الملوّنة. أغلاط بخط الإيد الواضحة (Analgeitika، dagenung، Beherung، Arwartung) انكتبت صح بالنص. الموقع صار 19 صفحة.
 - **21.10.2026**: Hasan بعت صورة Anhang 1 "Ablauf des pflegerischen Schmerzmanagements" (Expertenstandard DNQP 2020). انعملت صفحة `es` (`content/08-expertenstandard.txt`) بصناديق ملوّنة وأسهم، بدون الصورة. `08-schmerz.txt` صار `09-schmerz.txt` حتى Expertenstandard يجي قبله (متل اللوح). عنصر جديد `↓` بـ build.py. الموقع صار 20 صفحة. كل مواضيع الامتحان الخمسة صارت بالموقع.
+- **21.10.2026**: Hasan بعت 16 صورة: سكربت "Schmerzmanagement – Erfassung, Prävention, Therapie" (صفحات 1،2،3،5،7،8،10–14 + جدول 21.1) وسكربت "Expertenstandard Schmerz" (1–7) وجدول DNQP 2020. انعملت 3 صفحات: `es-krit` (`08-expertenstandard-a.txt`)، `sm-erfassung` و `sm-therapie` (`10-schmerz-ept.txt`). جدول "wo steht was" بـ `09-schmerz.txt` تحدّث. اكتشفنا إنه "Ingos TB" = Ingos Tagebuch. الموقع صار 23 صفحة.
