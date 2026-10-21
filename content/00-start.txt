@@ -1,0 +1,6 @@
+@page start | Übersicht | الصفحة الرئيسية | Start / البداية
+# LF 5 – Chirurgische Versorgungsabläufe & Nervensystem | الحقل التعليمي 5 – مسارات الرعاية الجراحية والجهاز العصبي
+p: Alle Unterlagen aus dem Unterricht – übersetzt, erklärt und mit Bildern. Oben rechts umschalten: **DE + عربي** oder **Nur Deutsch**. | كل أوراق الدرس – مترجمة ومشروحة ومع الصور. فوق على اليمين بتقدر تبدّل: **ألماني + عربي** أو **ألماني بس**.
+tip: Bilder antippen = groß ansehen. Grüne Kästen = Merke, rote = Achtung, lila = Korrekturen zu deinen Notizen. | اضغط على أي صورة لتكبيرها. الصناديق الخضراء = تذكّر، الحمراء = انتبه، البنفسجية = تصحيحات على ملاحظاتك.
+cards:
+

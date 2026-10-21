@@ -29,14 +29,15 @@
 ### بنية الملفات
 ```
 content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ بالترتيب حسب الرقم)
-  01-behandlungspfad.txt   Übersicht + Behandlungspfad + Impulsfrage
+  00-start.txt             Übersicht (Startseite)
+  00b-teamarbeit.txt       Ingos TB – Gruppenarbeit Lösung (Teams & Hierarchien)
+  01-behandlungspfad.txt   Behandlungspfad + Impulsfrage
   02-herr-m.txt            Herr M. – akutes Abdomen (Aufgaben 1–5)
   03-gruppen.txt           Gruppenarbeit-Auftrag + Gruppe 1 Cholezystektomie
   04-gruppen2.txt          Gruppe 2 Hüft-TEP + Gruppe 3 Frakturversorgung
   05-gruppen3.txt          Gruppe 4 Hernie + Gruppe 5 Appendektomie + Gruppe 6 Débridement
   06-nervensystem.txt      NS Grundlagen, Fälle, Lernaufgabe Schmerz
   07-zns.txt               Gehirn, Rückenmark, Häute, Liquor, PNS
-  08-teamarbeit.txt        Ingos TB – Gruppenarbeit Lösung (Teams & Hierarchien)
 template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
 build.py            ← بيحوّل content/*.txt + template.html إلى public/index.html
 public/index.html   ← الصفحة النهائية (بتنبنى، لا تعدّلها باليد)
@@ -164,3 +165,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan بعت صورة اللوح بمواضيع الامتحان (5 مواضيع) – انضافت بالقسم 3b.
 - **21.10.2026**: Hasan بعت صورة شريحة "Gruppenarbeit Lösung" (جواب موضوع الامتحان 1، Ingos TB). انضافت صفحة جديدة `content/08-teamarbeit.txt` + صورة `ingo-loesung.jpg`. الموقع صار 17 صفحة.
 - **21.10.2026**: Hasan قال الجواب هو السطرين تحت الشريحة بس. انحطوا أول صفحة `team` كـ "Antwort"، وانشالت جملة الحفظ اللي كتبها Claude. باقي الشريحة صار تحت عنوان "Hintergrund".
+- **21.10.2026**: صفحة Ingos TB انتقلت لأول القائمة (بعد Übersicht مباشرة)، متل ترتيب اللوح. صفحة البداية انفصلت بـ `00-start.txt`، و `08-teamarbeit.txt` صار `00b-teamarbeit.txt`.
