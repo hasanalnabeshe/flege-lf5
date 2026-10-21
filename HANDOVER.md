@@ -98,7 +98,7 @@ HANDOVER.md         ← هالملف
 - [x] **Lernaufgabe Schmerz**: تعاريف الخلية العصبية، رسمة الخلية الأصلية، طريق الألم
 - [x] **ZNS – Gehirn**: الأجزاء ①–⑩ مع صورة الدماغ المرقمة
 - [x] **ZNS – Rückenmark / Häute / Liquor / PNS**: كل الصور اتبدلت بنسخ واضحة بعتها Hasan (Wirbel، Wirbelsäule، Rückenmark-Querschnitt، Häute، Liquor)
-- [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" حرفياً مع ترجمة، صورة الشريحة، تصحيحين (`fix:`). الجواب (سطرين "Für Auszubildende bedeutet dies…") أول الصفحة، والشريحة كاملة تحته كخلفية
+- [x] **Ingos TB – Teams & Hierarchien** (موضوع الامتحان 1): شريحة "Gruppenarbeit Lösung" : بس السؤال والجواب (سطرين "Für Auszubildende bedeutet dies…") مع صورة الشريحة
 - [x] الموقع مرفوع على GitHub (`flege-lf5` main)
 - [x] الموقع شغال على الموبايل (جرّبناه 390px) وبالـ dark mode
 
@@ -132,7 +132,6 @@ HANDOVER.md         ← هالملف
 - Gruppe 3: Konservativ تحت Operation؛ ناقص: فك الجبس عند Kompartmentsyndrom، Fettembolie، Gipskontrolle، Antibiotika/Tetanus بالكسر المفتوح
 - Gruppe 5: "Urin: Elektrolyte & Gerinnung" ← هدول فحوصات دم
 - Nervensystem: "Lähmung" عند العصب الحسي ← الصح Taubheit؛ "Vorderes Übertragungsgehirn" ← Hinterhorn
-- Ingos TB (Folie): "Verlegunge" ← Verlegung؛ "Ärzten" بالقائمة ← Ärzte
 - Hypophyse: Oxytocin مش "Glückshormon" (هو Bindungshormon، وبيتصنع بالـ Hypothalamus)
 
 ---
@@ -166,3 +165,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan بعت صورة شريحة "Gruppenarbeit Lösung" (جواب موضوع الامتحان 1، Ingos TB). انضافت صفحة جديدة `content/08-teamarbeit.txt` + صورة `ingo-loesung.jpg`. الموقع صار 17 صفحة.
 - **21.10.2026**: Hasan قال الجواب هو السطرين تحت الشريحة بس. انحطوا أول صفحة `team` كـ "Antwort"، وانشالت جملة الحفظ اللي كتبها Claude. باقي الشريحة صار تحت عنوان "Hintergrund".
 - **21.10.2026**: صفحة Ingos TB انتقلت لأول القائمة (بعد Übersicht مباشرة)، متل ترتيب اللوح. صفحة البداية انفصلت بـ `00-start.txt`، و `08-teamarbeit.txt` صار `00b-teamarbeit.txt`.
+- **21.10.2026**: Hasan طلب: صفحة Ingos TB بس سؤال واحد وجوابه. انشال قسم "Hintergrund" كله (مع تصحيحاته). ضل السؤال، الجواب، وصورة الشريحة.
