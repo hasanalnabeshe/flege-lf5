@@ -10,7 +10,7 @@
 موقع دراسة شخصي لـ Hasan (تدريب تمريض Pflegefachmann، مدرسة التمريض DRK بـ Saarlouis) لمادة **LF 5**:
 
 - كل أوراق الدرس **منقولة حرفياً بالألماني**، ومع **ترجمة عربي وشرح** تحت كل سطر.
-- زر فوق بيبدّل بين **DE + عربي** و **Nur Deutsch**. بوضع الألماني بس بيختفي كل النص العربي، والجداول والصور بتضل.
+- زر فوق بيبدّل بين **DE + عربي** و **Nur Deutsch**. **الموقع دايماً بيفتح على Nur Deutsch** (طلب Hasan 22.10)، والعربي بس إذا ضغط الزر. بوضع الألماني بس بيختفي كل النص العربي، والجداول والصور بتضل.
 - كل الصور موجودة: صور أوراقه بخط إيده، رسمات التشريح، وكل شرائح عروض المجموعات.
 - تصحيحات Claude على أوراقه موجودة بصناديق بنفسجية (Korrektur / تصحيح).
 - لما Hasan يبعت أوراق جديدة، بتنضاف لنفس الموقع.
@@ -187,3 +187,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan بعت 16 صورة: سكربت "Schmerzmanagement – Erfassung, Prävention, Therapie" (صفحات 1،2،3،5،7،8،10–14 + جدول 21.1) وسكربت "Expertenstandard Schmerz" (1–7) وجدول DNQP 2020. انعملت 3 صفحات: `es-krit` (`08-expertenstandard-a.txt`)، `sm-erfassung` و `sm-therapie` (`10-schmerz-ept.txt`). جدول "wo steht was" بـ `09-schmerz.txt` تحدّث. اكتشفنا إنه "Ingos TB" = Ingos Tagebuch. الموقع صار 23 صفحة.
 - **21.10.2026**: Hasan طلب الترتيب يكون متل ما بعت. صار: Schmerz Grundlagen ← Arten ← Pflege ← Erfassung ← Prävention & Therapie ← Expertenstandard Kriterien ← Ablaufschema (آخر شي). القسم 4 (Expertenstandard) رجع لمكانه بسكربت Erfassung بين 3 و 5. جدول الملخص S/P/E انتقل لآخر صفحة Kriterien. الملفات انعادت تسميتها 08–11.
 - **22.10.2026**: قلم تحديد (Textmarker) 🖍 بـ `template.html`: 4 ألوان، تغيير ومسح، قائمة تحديدات لكل صفحة مع عدّاد، حفظ بـ localStorage على الجهاز. الشريط بيلحق التحديد وقت السكرول.
+- **22.10.2026**: الموقع صار يفتح دايماً على **Nur Deutsch** (قبل كان بيتذكّر آخر اختيار، والافتراضي DE + عربي).
