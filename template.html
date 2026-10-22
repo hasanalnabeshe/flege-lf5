@@ -107,6 +107,24 @@ details.gallery summary .ar{font-weight:400;font-size:14px}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .c-rot{--c:#e27367}:root:not([data-theme="light"]) .c-orange{--c:#e9a54a}:root:not([data-theme="light"]) .c-gruen{--c:#6cc488}:root:not([data-theme="light"]) .c-blau{--c:#73a9e6}:root:not([data-theme="light"]) .c-lila{--c:#a993ee}:root:not([data-theme="light"]) .c-teal{--c:#6cc6cc}:root:not([data-theme="light"]) .c-grau{--c:#a6b3b6}:root:not([data-theme="light"]) .c-rosa{--c:#e08cb0}}
 :root[data-theme="dark"] .c-rot{--c:#e27367}:root[data-theme="dark"] .c-orange{--c:#e9a54a}:root[data-theme="dark"] .c-gruen{--c:#6cc488}:root[data-theme="dark"] .c-blau{--c:#73a9e6}:root[data-theme="dark"] .c-lila{--c:#a993ee}:root[data-theme="dark"] .c-teal{--c:#6cc6cc}:root[data-theme="dark"] .c-grau{--c:#a6b3b6}:root[data-theme="dark"] .c-rosa{--c:#e08cb0}
 .flowarrow{text-align:center;font-size:26px;line-height:1;color:var(--muted);margin:-4px 0 -2px}
+mark.hl{color:#1f2a2e;border-radius:3px;padding:0 1px;cursor:pointer;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+mark.hl-gelb{background:#ffe066}mark.hl-gruen{background:#8ce99a}mark.hl-rot{background:#ffa8a8}mark.hl-blau{background:#a5d8ff}
+mark.hl .ar,mark.hl strong,mark.hl em{color:inherit}
+.hlbar{position:fixed;z-index:60;display:none;gap:6px;align-items:center;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:6px 8px;box-shadow:0 8px 28px rgba(0,0,0,.22)}
+.hlbar.on{display:flex}
+.hlbar button{width:34px;height:34px;border-radius:50%;border:2px solid rgba(0,0,0,.12);cursor:pointer;font-size:16px;line-height:1;padding:0;touch-action:manipulation}
+.hlbar button.c-gelb{background:#ffe066}.hlbar button.c-gruen{background:#8ce99a}.hlbar button.c-rot{background:#ffa8a8}.hlbar button.c-blau{background:#a5d8ff}
+.hlbar button.del{background:var(--bg);color:var(--ink)}
+.hlbar button.sel{outline:3px solid var(--teal);outline-offset:1px}
+#hlBtn{position:relative}
+#hlBtn b{position:absolute;top:-6px;right:-6px;min-width:18px;height:18px;border-radius:9px;background:var(--accent);color:#fff;font:700 11px/18px "IBM Plex Sans",sans-serif;padding:0 4px;display:none}
+.hlpanel{position:fixed;z-index:61;top:64px;right:12px;width:min(340px,calc(100vw - 24px));max-height:70vh;overflow:auto;background:var(--paper);border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 40px rgba(0,0,0,.25);padding:12px;display:none}
+.hlpanel.on{display:block}
+.hlpanel h5{margin:0 0 6px;font-size:14px}
+.hlpanel .hint{font-size:13px;color:var(--muted);margin:0 0 10px}
+.hlpanel .item{display:block;width:100%;text-align:start;border:0;border-inline-start:5px solid;background:var(--bg);color:var(--ink);border-radius:8px;padding:7px 9px;margin:6px 0;font:14px/1.4 "IBM Plex Sans","IBM Plex Sans Arabic",sans-serif;cursor:pointer}
+.hlpanel .item.gelb{border-color:#f0c419}.hlpanel .item.gruen{border-color:#40c057}.hlpanel .item.rot{border-color:#fa5252}.hlpanel .item.blau{border-color:#339af0}
+.hlpanel .clear{margin-top:8px;border:1px solid var(--warn-b);color:var(--warn-b);background:none;border-radius:8px;padding:7px 10px;cursor:pointer;font:600 13px "IBM Plex Sans",sans-serif;width:100%}
 .pager{display:flex;justify-content:space-between;gap:10px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
 .pager a{color:var(--teal);text-decoration:none;font-weight:600;max-width:48%}
 .lb{position:fixed;inset:0;background:rgba(10,14,15,.92);z-index:50;display:none;align-items:center;justify-content:center;padding:16px}
@@ -133,6 +151,7 @@ footer{color:var(--muted);font-size:13px;margin-top:50px}
   <div class="seg" role="group" aria-label="Sprache">
     <button data-lang="bi">DE + عربي</button><button data-lang="de">Nur Deutsch</button>
   </div>
+  <button class="iconbtn" id="hlBtn" aria-label="Markierungen" title="Markierungen">🖍<b></b></button>
   <button class="iconbtn" id="themeBtn" aria-label="Hell/Dunkel">◐</button>
 </header>
 <div class="layout">
@@ -172,6 +191,91 @@ footer{color:var(--muted);font-size:13px;margin-top:50px}
   document.addEventListener('click',e=>{const a=e.target.closest('a.zoom');if(!a)return;e.preventDefault();lbi.src=a.href;lb.classList.add('on')});
   lb.onclick=e=>{if(e.target!==lbi)lb.classList.remove('on')};
   addEventListener('keydown',e=>{if(e.key==='Escape')lb.classList.remove('on')});
+})();
+</script>
+<div class="hlbar" id="hlbar" role="toolbar" aria-label="Markieren">
+  <button class="c-gelb" data-c="gelb" aria-label="Gelb"></button><button class="c-gruen" data-c="gruen" aria-label="Grün"></button><button class="c-rot" data-c="rot" aria-label="Rot"></button><button class="c-blau" data-c="blau" aria-label="Blau"></button><button class="del" data-c="del" aria-label="Löschen">✕</button>
+</div>
+<div class="hlpanel" id="hlpanel"></div>
+<script>
+/* Textmarker: markieren mit Farbe, gespeichert nur auf diesem Gerät (localStorage) */
+(function(){
+  const KEY='hl-v1';
+  let data={}; try{data=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){data={}}
+  const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(data))}catch(e){}};
+  const bar=document.getElementById('hlbar'), panel=document.getElementById('hlpanel'), btn=document.getElementById('hlBtn');
+  let lastRange=null, activeId=null;
+  const curPage=()=>document.querySelector('.page.on');
+  const pid=sec=>sec.id.slice(2);
+  function texts(root){const out=[],w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);let n,pos=0;while(n=w.nextNode()){out.push({n,s:pos});pos+=n.data.length}return out}
+  function offsetIn(root,node,off){const r=document.createRange();r.setStart(root,0);r.setEnd(node,off);return r.toString().length}
+  function wrap(root,s,e,c,id){
+    texts(root).forEach(({n,s:ns})=>{const ne=ns+n.data.length;if(ne<=s||ns>=e)return;
+      if(n.parentElement.closest('.pager'))return;
+      let node=n;const a=Math.max(0,s-ns),b=Math.min(n.data.length,e-ns);if(!n.data.slice(a,b).trim())return;
+      if(a>0)node=node.splitText(a);if(b-a<node.data.length)node.splitText(b-a);
+      const m=document.createElement('mark');m.className='hl hl-'+c;m.dataset.id=id;node.parentNode.insertBefore(m,node);m.appendChild(node)});
+  }
+  function unwrap(id){document.querySelectorAll('mark.hl[data-id="'+id+'"]').forEach(m=>{const p=m.parentNode;while(m.firstChild)p.insertBefore(m.firstChild,m);p.removeChild(m);p.normalize()})}
+  function restore(){
+    document.querySelectorAll('.page').forEach(sec=>{const list=data[pid(sec)];if(!list||!list.length)return;
+      const full=texts(sec).map(x=>x.n.data).join('');
+      data[pid(sec)]=list.filter(h=>{let s=h.s;
+        if(full.slice(h.s,h.e)!==h.t){let best=-1,i=full.indexOf(h.t);while(i>=0){if(best<0||Math.abs(i-h.s)<Math.abs(best-h.s))best=i;i=full.indexOf(h.t,i+1)}
+          if(best<0)return true; s=best; h.s=s; h.e=s+h.t.length}
+        wrap(sec,h.s,h.e,h.c,h.id);return true})});
+    save(); count();
+  }
+  function count(){const sec=curPage();const n=sec?(data[pid(sec)]||[]).length:0;const b=btn.querySelector('b');b.textContent=n;b.style.display=n?'block':'none'}
+  function hideBar(){bar.classList.remove('on');activeId=null;bar.querySelectorAll('button').forEach(b=>b.classList.remove('sel'))}
+  function place(rect){bar.classList.add('on');const bw=bar.offsetWidth,bh=bar.offsetHeight;
+    let x=rect.left+rect.width/2-bw/2;x=Math.max(8,Math.min(innerWidth-bw-8,x));
+    let y=rect.bottom+10; if(y+bh>innerHeight-8)y=rect.top-bh-10; if(y<64)y=Math.min(innerHeight-bh-8,rect.bottom+10);
+    bar.style.left=x+'px';bar.style.top=y+'px'}
+  let tmr;
+  document.addEventListener('selectionchange',()=>{clearTimeout(tmr);tmr=setTimeout(()=>{
+    const sel=getSelection();if(!sel.rangeCount||sel.isCollapsed){if(!activeId)hideBar();lastRange=null;return}
+    const r=sel.getRangeAt(0),sec=curPage();if(!sec||!sec.contains(r.commonAncestorContainer)||!r.toString().trim())return;
+    lastRange=r.cloneRange();activeId=null;bar.querySelector('.del').style.display='none';place(r.getBoundingClientRect())},200)});
+  document.addEventListener('click',e=>{if(bar.contains(e.target))return;
+    const m=e.target.closest('mark.hl');
+    if(m&&getSelection().isCollapsed){activeId=m.dataset.id;lastRange=null;bar.querySelector('.del').style.display='';
+      bar.querySelectorAll('button').forEach(b=>b.classList.toggle('sel',m.classList.contains('hl-'+b.dataset.c)));place(m.getBoundingClientRect());return}
+    if(!e.target.closest('#hlpanel,#hlBtn'))panel.classList.remove('on');
+    if(getSelection().isCollapsed)hideBar()});
+  bar.addEventListener('pointerdown',e=>e.preventDefault());
+  bar.addEventListener('mousedown',e=>e.preventDefault());
+  bar.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;const c=b.dataset.c,sec=curPage(),k=pid(sec);
+    data[k]=data[k]||[];
+    if(activeId){const h=data[k].find(x=>x.id===activeId);
+      if(c==='del'){unwrap(activeId);data[k]=data[k].filter(x=>x.id!==activeId)}
+      else if(h){h.c=c;document.querySelectorAll('mark.hl[data-id="'+activeId+'"]').forEach(m=>m.className='hl hl-'+c)}
+    } else if(lastRange&&c!=='del'){
+      const s=offsetIn(sec,lastRange.startContainer,lastRange.startOffset),e2=offsetIn(sec,lastRange.endContainer,lastRange.endOffset);
+      data[k].filter(h=>h.s<e2&&h.e>s).forEach(h=>unwrap(h.id));
+      data[k]=data[k].filter(h=>!(h.s<e2&&h.e>s));
+      const id=Date.now().toString(36)+Math.random().toString(36).slice(2,6);
+      const full=texts(sec).map(x=>x.n.data).join('');
+      data[k].push({id,c,s,e:e2,t:full.slice(s,e2)});data[k].sort((a,b)=>a.s-b.s);
+      wrap(sec,s,e2,c,id);getSelection().removeAllRanges()}
+    save();count();hideBar();lastRange=null});
+  function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+  function openPanel(){const sec=curPage(),k=pid(sec),list=data[k]||[];
+    panel.innerHTML='<h5>🖍 Markierungen · التحديدات</h5><p class="hint">Text auswählen → Farbe tippen. Auf Markierung tippen → ändern / löschen. Nur auf diesem Gerät gespeichert.<br><span dir="rtl">حدّد نص ← اختار لون. اضغط على التحديد ← غيّر اللون أو امسحه. بيتحفظ على هالجهاز بس.</span></p>'+
+      (list.length?list.map(h=>{let s=[...document.querySelectorAll('mark.hl[data-id="'+h.id+'"]')].map(m=>m.textContent.trim()).filter(Boolean).join(' · ')||h.t;if(s.length>140)s=s.slice(0,140)+'…';return '<button class="item '+h.c+'" data-id="'+h.id+'" dir="auto">'+esc(s)+'</button>'}).join('')+'<button class="clear">Alle auf dieser Seite löschen · امسح الكل بهالصفحة</button>':'<p class="hint">Noch keine Markierungen auf dieser Seite. · ما في تحديدات بهالصفحة لسا.</p>');
+    panel.classList.add('on')}
+  btn.onclick=()=>{panel.classList.contains('on')?panel.classList.remove('on'):openPanel()};
+  panel.addEventListener('click',e=>{const it=e.target.closest('.item');
+    if(it){const m=document.querySelector('mark.hl[data-id="'+it.dataset.id+'"]');if(m){m.scrollIntoView({block:'center',behavior:'smooth'});panel.classList.remove('on')}return}
+    if(e.target.closest('.clear')&&confirm('Alle Markierungen auf dieser Seite löschen?\nامسح كل التحديدات بهالصفحة؟')){const k=pid(curPage());(data[k]||[]).forEach(h=>unwrap(h.id));delete data[k];save();count();openPanel()}});
+  addEventListener('hashchange',()=>{hideBar();panel.classList.remove('on');setTimeout(count,0)});
+  let raf=0;
+  function follow(){raf=0;if(!bar.classList.contains('on'))return;
+    if(activeId){const m=document.querySelector('mark.hl[data-id="'+activeId+'"]');if(m)place(m.getBoundingClientRect());else hideBar()}
+    else if(lastRange)place(lastRange.getBoundingClientRect())}
+  addEventListener('scroll',()=>{if(!raf)raf=requestAnimationFrame(follow)},{passive:true});
+  addEventListener('resize',()=>{if(!raf)raf=requestAnimationFrame(follow)});
+  restore();
 })();
 </script>
 </body>

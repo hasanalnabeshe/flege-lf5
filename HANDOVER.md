@@ -42,7 +42,7 @@ content/            ← كل المحتوى (ملف لكل قسم، بيتقرأ
   09-schmerz-ept.txt       Skript „Erfassung, Prävention, Therapie" (1–13, mit 4. Expertenstandard an seiner Stelle)
   10-expertenstandard-kriterien.txt  Skript „Expertenstandard Schmerz" (1–7) + DNQP-Übersichtstabelle am Ende
   11-expertenstandard-ablauf.txt     Anhang 1: Ablaufschema DNQP 2020
-template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور)
+template.html       ← التصميم + CSS + JS (القائمة، زر اللغة، dark mode، تكبير الصور، قلم التحديد 🖍)
 build.py            ← بيحوّل content/*.txt + template.html إلى public/index.html
 public/index.html   ← الصفحة النهائية (بتنبنى، لا تعدّلها باليد)
 public/img/         ← كل الصور (jpg مضغوطة)
@@ -82,6 +82,7 @@ HANDOVER.md         ← هالملف
   - `ingo-*` شريحة حل Ingos TB
 - **الترجمة**: الألماني منقول متل الورقة بالضبط ("ما تغير شي"). والعربي فصحى بسيطة، مع شروحات بالعامية الشامية/الفلسطينية متل ما بيحكي Hasan.
 - **الأخطاء بأوراق Hasan** ما بتنصلح جوّا النص الأصلي. بيضل النص متل ما هو، وبينحط تحته صندوق `fix:` فيه التصحيح.
+- **قلم التحديد (Textmarker) 🖍**: بـ `template.html`. المستخدم بيحدّد نص ← بيطلع شريط فيه 4 ألوان (أصفر، أخضر، أحمر، أزرق). الضغط على تحديد ← تغيير اللون أو ✕ مسح. زر 🖍 فوق بيفتح قائمة تحديدات الصفحة (مع العدد) و"امسح الكل". **بيتحفظ بـ localStorage على نفس الجهاز بس** (مفتاح `hl-v1`، لكل صفحة: id، لون، بداية/نهاية الحروف، والنص). إذا تغيّر النص بعد `build.py` السكربت بيدوّر على نفس النص ويرجّع التحديد لمكانه؛ إذا النص انمسح بيضل محفوظ بس ما بيبيّن.
 - **الخطوط**: IBM Plex Sans + IBM Plex Sans Arabic + Fraunces (من Google Fonts).
 
 ---
@@ -109,6 +110,7 @@ HANDOVER.md         ← هالملف
 - [x] **Schmerzmanagement** (موضوع 5): Skript zur PowerPoint (9 صفحات) منقول كنص، بدون صور الأوراق (Hasan طلب هيك)، مع صناديق ملوّنة. 3 صفحات: Grundlagen، Schmerzarten، Pflege bei Schmerzen
 - [x] **Expertenstandard Schmerzmanagement** (موضوع 4): مخطط DNQP 2020 (Anhang 1) كخطوات ملوّنة مع أسهم: Screening ← Assessment ← Maßnahmen ← Verlaufskontrolle ← Evaluation، وشو بيصير بعد التقييم. بدون الصورة الأصلية
 - [x] **Expertenstandard – Kriterien** + **Schmerzerfassung** + **Schmerzprävention & -therapie**: من سكربتين ("Erfassung, Prävention, Therapie" و "Expertenstandard Schmerz") + جدول DNQP. كله نص بصناديق ملوّنة بدون الصور. كل مواضيع الامتحان صارت كاملة
+- [x] **قلم تحديد ملوّن** (طلب Hasan 22.10): تحديد نص بأربع ألوان، تغيير/مسح، قائمة بالتحديدات، محفوظ على الجهاز. انجرّب بمتصفح (موبايل 390px): إنشاء، إعادة تحميل، تغيير لون، مسح
 - [x] الموقع مرفوع على GitHub (`flege-lf5` main)
 - [x] الموقع شغال على الموبايل (جرّبناه 390px) وبالـ dark mode
 
@@ -134,6 +136,7 @@ HANDOVER.md         ← هالملف
 | **صور القروبات مش مستعملة** | بعد الحذف، صور `g*-folie*`، `gruppe3-blatt`، `gruppenarbeit-blatt` ضلت بـ `public/img` بس ما في صفحة بتعرضها | تركناها بحال بدنا نرجّعها؛ ممكن تنحذف لاحقاً |
 | **صور الـ scans باهتة** | ملفات PDF الأصلية صور موبايل لأوراق مطبوعة (~200ppi) | الصور المهمة اتبدلت بنسخ نظيفة. أي صورة باهتة تانية: Hasan بيبعت نسخة أوضح |
 | **الجهاز (remote device) مش متصل** | `device_bash` بيرجع "not connected to the bridge" | مش مهم لهالمشروع |
+| **التحديدات مش متزامنة بين الأجهزة** | localStorage بيضل على نفس المتصفح بس؛ ولو مسح بيانات المتصفح أو فتح بـ Private بتروح | هيك طلب Hasan ("تتحفظ ع جهاز نفسه"). للمزامنة بدنا backend |
 | **GitHub Actions / billing** | ما في Actions بهالمشروع، فما في مشكلة billing | — |
 
 ### أخطاء بالمحتوى الأصلي (موثقة بالموقع كـ `fix:`)
@@ -183,3 +186,4 @@ git add -A && git commit -m "..." && git push origin main
 - **21.10.2026**: Hasan بعت صورة Anhang 1 "Ablauf des pflegerischen Schmerzmanagements" (Expertenstandard DNQP 2020). انعملت صفحة `es` (`content/08-expertenstandard.txt`) بصناديق ملوّنة وأسهم، بدون الصورة. `08-schmerz.txt` صار `09-schmerz.txt` حتى Expertenstandard يجي قبله (متل اللوح). عنصر جديد `↓` بـ build.py. الموقع صار 20 صفحة. كل مواضيع الامتحان الخمسة صارت بالموقع.
 - **21.10.2026**: Hasan بعت 16 صورة: سكربت "Schmerzmanagement – Erfassung, Prävention, Therapie" (صفحات 1،2،3،5،7،8،10–14 + جدول 21.1) وسكربت "Expertenstandard Schmerz" (1–7) وجدول DNQP 2020. انعملت 3 صفحات: `es-krit` (`08-expertenstandard-a.txt`)، `sm-erfassung` و `sm-therapie` (`10-schmerz-ept.txt`). جدول "wo steht was" بـ `09-schmerz.txt` تحدّث. اكتشفنا إنه "Ingos TB" = Ingos Tagebuch. الموقع صار 23 صفحة.
 - **21.10.2026**: Hasan طلب الترتيب يكون متل ما بعت. صار: Schmerz Grundlagen ← Arten ← Pflege ← Erfassung ← Prävention & Therapie ← Expertenstandard Kriterien ← Ablaufschema (آخر شي). القسم 4 (Expertenstandard) رجع لمكانه بسكربت Erfassung بين 3 و 5. جدول الملخص S/P/E انتقل لآخر صفحة Kriterien. الملفات انعادت تسميتها 08–11.
+- **22.10.2026**: قلم تحديد (Textmarker) 🖍 بـ `template.html`: 4 ألوان، تغيير ومسح، قائمة تحديدات لكل صفحة مع عدّاد، حفظ بـ localStorage على الجهاز. الشريط بيلحق التحديد وقت السكرول.
